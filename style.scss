@@ -286,16 +286,6 @@ form {
   line-height: 1.5;
   cursor: pointer;
 
-  b {
-    color: white;
-    font-weight: normal;
-  }
-  
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 20px auto;
-  }
 }
 
 nav {
