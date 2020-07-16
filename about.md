@@ -7,18 +7,22 @@ permalink: /about/
 
 # Myung-Hyun Yoon
 
-I am a research scient at KETI, working on deep learning and its applications. 
+I am a research scientist at KETI, working on deep learning and its applications. 
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
 i received a Ph.D. degree in Electrical Engineering from Iowa State University in 1994, and master's degree in neclear engineering at Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
-## Research Projects
+## Education
 
-[**Jekyll Now**](http://github.com/barryclark/jekyll-now)  
-Create a Jekyll blog in minutes, without touching the command line.
+* 1989~1994 Iowa State University
+* 1982~1984 Korea Advanced Institute of Science and Technology
+* 1978~1982 Kyungpook National University
 
-[**Bashstrap**](http://github.com/barryclark/bashstrap)  
-Bootstrap for your terminal. A quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style. 
+## Working Experience
+
+* 2020~ KICTech
+* 2017~2020 Gyungnam Technopark
+* 2013~2017 Korea Electtronic Technology Institute
 
 [**Get Hired as a Web Developer**]({{ site.baseurl }}/newsletter/)  
 That's this blog aiming to help you get hired as a web developer. You can sign up to my newsletter below.
