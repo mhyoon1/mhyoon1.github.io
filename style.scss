@@ -272,39 +272,19 @@ form {
     border-radius: 3px;
   }
 }
-
+  
 .site-name {
   float: left;
   margin: 0;
+  // margin-top: 7px;
+  // max-width: 316px;
   color: $transparentGray;
   font-family: $merriweather;
+  // font-weight: 300;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   font-size: 20px;
-  cursor: pointer;
-  
-  b {
-    color: white;
-    font-weight: 400;
-  }
-  
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 20px auto;
-  }
-}
-  
-.site-description {
-  float: left;
-  margin: 0;
-  margin-top: 7px;
-  max-width: 316px;
-  color: $transparentGray;
-  font-family: $merriweather;
-  font-weight: 300; 
-  font-size: 26px;
-  line-height: 1.7;
+  // line-height: 1.7;
   cursor: pointer;
 
   b {
