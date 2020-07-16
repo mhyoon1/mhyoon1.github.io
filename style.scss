@@ -273,6 +273,30 @@ form {
   }
 }
 
+.site-name {
+  float: left;
+  margin: 0;
+  color: $transparentGray;
+  font-family: $merriweather;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.site-link {
+  float: right;
+  margin: 0;
+  padding: 0;
+  padding-top: 4px;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  font-size: 14x;
+  cursor: pointer;
+  color: $transparentGray;
+  font-family: $merriweather;
+}
+  
 .site-description {
   float: left;
   margin: 0;
