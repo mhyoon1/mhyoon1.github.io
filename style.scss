@@ -274,7 +274,7 @@ form {
 }
   
 .site-name {
-  float: left 100px;
+  float: left;
   margin: 0;
   // margin-top: 7px;
   // max-width: 316px;
@@ -301,9 +301,13 @@ form {
 
 nav {
   float: right;
-  margin-top: 37px; // @TODO: Vertically middle align
-  margin-right: 120px; // @TODO: Rework header layout
-  font-family: $helvetica; 
+  padding 0;
+  padding-top: 4px;
+  // margin-top: 37px; // @TODO: Vertically middle align
+  // margin-right: 120px; // @TODO: Rework header layout
+  font-family: $helvetica;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
   font-size: 14px;
   
   @include mobile {
