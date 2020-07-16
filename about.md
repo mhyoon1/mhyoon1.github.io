@@ -11,7 +11,7 @@ permalink: /about/
 I am a research scientist at KETI, working on deep learning and its applications. 
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
-i received a Ph.D. degree in Electrical Engineering from Iowa State University in 1994, and master's degree in neclear engineering at Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
+I received a Ph.D. degree in Electrical Engineering from Iowa State University in 1994, and master's degree in neclear engineering at Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
 ## Education
 
