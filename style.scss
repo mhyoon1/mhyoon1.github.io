@@ -302,10 +302,11 @@ form {
 nav {
   float: right;
   padding 0;
-  padding-top: 4px;
+  // padding-top: 4px;
   // margin-top: 37px; // @TODO: Vertically middle align
   // margin-right: 120px; // @TODO: Rework header layout
-  font-family: $helvetica;
+  // font-family: $helvetica;
+  font-family: $merriweather;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   font-size: 14px;
@@ -318,11 +319,11 @@ nav {
 
   a {
     padding: 0px;
-    padding-top: 4px;
+    // padding-top: 4px;
     color: $transparentGray;
     text-align: right;
     font-weight: normal;
-    text-transform: uppercase;
+    // text-transform: uppercase;
   }
 
   .button {
