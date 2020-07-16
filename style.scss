@@ -24,7 +24,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 680px;
+  max-width: 900px;
   padding: 0 10px;
   width: 100%;
 }
@@ -274,7 +274,7 @@ form {
 }
   
 .site-name {
-  float: left;
+  float: left 100px;
   margin: 0;
   // margin-top: 7px;
   // max-width: 316px;
