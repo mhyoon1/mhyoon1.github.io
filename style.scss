@@ -18,7 +18,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.7 $helvetica;
+  font: 18px/1.5 $helvetica;
   color: $gray;
 }
 
@@ -250,9 +250,9 @@ form {
 .masthead {
   padding: 25px 0;
   
-  @include mobile {
-    text-align: center;
-  }
+  // @include mobile {
+  //   text-align: center;
+  // }
 }
 
 .site-avatar {
@@ -280,7 +280,7 @@ form {
   max-width: 50px;
   color: $transparentGray;
   font-family: $merriweather;
-  font-weight: normal;
+  font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 20px;
   line-height: 1.5;
