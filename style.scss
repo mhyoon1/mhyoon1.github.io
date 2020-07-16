@@ -277,19 +277,19 @@ form {
   float: left;
   margin: 0;
   // margin-top: 7px;
-  // max-width: 316px;
+  max-width: 106px;
   color: $transparentGray;
   font-family: $merriweather;
   // font-weight: 300;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   font-size: 20px;
-  // line-height: 1.7;
+  line-height: 1.5;
   cursor: pointer;
 
   b {
     color: white;
-    font-weight: 400;
+    font-weight: normal;
   }
   
   @include mobile {
@@ -302,7 +302,7 @@ form {
 nav {
   float: right;
   padding 0;
-  // padding-top: 4px;
+  padding-top: 4px;
   // margin-top: 37px; // @TODO: Vertically middle align
   // margin-right: 120px; // @TODO: Rework header layout
   // font-family: $helvetica;
