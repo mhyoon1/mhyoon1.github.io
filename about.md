@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 # Myung-Hyun Yoon
-| Scholar | Github |
+| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) | [Github](https://mhyoon1.github.io/) |
 
 I am a research scientist at KETI, working on deep learning and its applications. 
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
