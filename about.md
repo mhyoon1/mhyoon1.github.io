@@ -5,17 +5,14 @@ title: About Me
 permalink: /about/
 ---
 
-# Hi There!
+# Myung-Hyun Yoon
 
-My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.
+I am a research scient at KETI, working on deep learning and its applications. 
+Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
-![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
+i received a Ph.d degree in Electrical Engineering from Iowa State University in 1994, and master's degree at Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
-I love building things, but more than anything I enjoy helping other developers do what they love: writing code. If you're just starting out as a web developer and are looking to land your first serious web development work, this site is for you.
-
-The best place to start is with [my free newsletter]({{ site.baseurl }}/newsletter/) where I deliver articles twice per month that will help you get hired as a web developer.
-
-## My Recent Projects
+## Research Projects
 
 [**Jekyll Now**](http://github.com/barryclark/jekyll-now)  
 Create a Jekyll blog in minutes, without touching the command line.
