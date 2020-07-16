@@ -24,7 +24,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 640px;
+  max-width: 680px;
   padding: 0 10px;
   width: 100%;
 }
@@ -300,15 +300,15 @@ nav {
   text-rendering: optimizeLegibility;
   font-size: 14px;
   
-  @include mobile {
-    margin-right: 0;
-    float: none;
-    display: block;
-  }
+  // @include mobile {
+  //  margin-right: 0;
+  //  float: none;
+  //  display: block;
+  // }
 
   a {
     padding: 0px;
-    // padding-top: 4px;
+    padding-top: 4px;
     color: $transparentGray;
     text-align: right;
     font-weight: bold;
