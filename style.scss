@@ -24,7 +24,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 680px;
+  max-width: 660px;
   padding: 0 10px;
   width: 100%;
 }
@@ -278,7 +278,8 @@ form {
   margin: 0;
   // margin-top: 7px;
   max-width: 300px;
-  color: $transparentGray;
+  // color: $transparentGray;
+  color: $white;
   font-family: $merriweather;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -309,7 +310,8 @@ nav {
   a {
     padding: 0px;
     padding-top: 4px;
-    color: $transparentGray;
+    // color: $transparentGray;
+    color: $white;
     text-align: right;
     font-weight: bold;
     // text-transform: uppercase;
