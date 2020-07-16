@@ -296,7 +296,7 @@ nav {
   // margin-right: 120px; // @TODO: Rework header layout
   // font-family: $helvetica;
   font-family: $merriweather;
-  font-weight: normal;
+  font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 14px;
   
@@ -311,7 +311,7 @@ nav {
     // padding-top: 4px;
     color: $transparentGray;
     text-align: right;
-    font-weight: normal;
+    font-weight: bold;
     // text-transform: uppercase;
   }
 
@@ -319,7 +319,7 @@ nav {
     margin-right: 13px;
     margin-bottom: 3px;
     padding: 0.5em 0.8em 0.5em;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     font-size: 13px;
     color: $lighterGray;
   }
