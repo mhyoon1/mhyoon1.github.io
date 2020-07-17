@@ -6,7 +6,7 @@
 name: Myung-Hyun Yoon
 
 # Short bio or description
-description: Dream Dreamer
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: http://www.gravatar.com/avatar/36b4f56a7fa40d3c06e5afc4ed0b82b5?s=200
@@ -20,14 +20,14 @@ avatar:
 footer-links:
   dribbble: 
   email: mhyoon@outlook.kr
-  facebook: 
+  facebook: mhyoon1
   flickr: 
   github: mhyoon1
-  instagram: 
-  linkedin: Myung Hyun Yoon
+  instagram: mhyoon1
+  linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: baznyc
+  twitter: 
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
