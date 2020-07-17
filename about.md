@@ -1,6 +1,6 @@
 ---
 layout: page
-cta: newsletter
+cta: 
 title: About Me
 permalink: /about/
 ---
