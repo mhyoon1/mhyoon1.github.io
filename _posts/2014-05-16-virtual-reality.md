@@ -2,7 +2,7 @@
 title: '가상현실의 선도자가 되자'
 author: Myung-Hyun Yoon
 layout: post
-permalink: /wearable-device/
+permalink: /virtual-reality/
 dsq_thread_id:
 categories:
   - Tech
