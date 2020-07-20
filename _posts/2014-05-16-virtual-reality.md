@@ -1,5 +1,5 @@
 ---
-title: ''가상현실'의 선도자가 되자'
+title: '가상현실의 선도자가 되자'
 author: Myung-Hyun Yoon
 layout: post
 permalink: /virtual-reality/
