@@ -21,8 +21,8 @@ at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
 ## Working Experience
 
-* 2020~ KICTech
-* 2017~2020 Gyungnam Technopark
+* 2020~     Research Fellow, KICTech
+* 2017~2020 Director of IT Industry Promotion Agency, Gyungnam Technopark
 * 2013~2017 Vice president of Information & Communications Division, KETI
 * 2009~2012 Home Network/Information Appliance PD, KEIT
 * 2001~2009 Director of Research Center, KETI
