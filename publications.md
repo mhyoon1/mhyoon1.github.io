@@ -24,7 +24,7 @@ Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, and Myung-Hyun Yoon,
 금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 (2015.4.15.)
 
 ## 2014년
-1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][6]<br>
+1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
 6th International Conference on Ubiquitous and Future Networks (ICUFN 2014), July 8~11 2014, Shanghai, China
 2. <b>Digital Backend Design of Implantable RFID Tag</B>
@@ -41,3 +41,4 @@ Myung-Hyun Yoon, Kue Back Lee, Chae Min Park,
 [17-2]: /home/paper/2017-02.pdf
 [16-1]: /home/paper/2016-01.pdf
 [16-2]: /home/paper/2016-02.pdf
+[16-3]: /home/paper/2016-03.pdf
