@@ -21,8 +21,10 @@ The 11th Asia Pacific International Conference on Information Science and Techno
 2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, and Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI) 2016, Dec. 2016, Hong Kong
-3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][16-3]<br>
-금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 (2015.4.15.)
+
+## 2015년
+1. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-1]<br>
+금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 Information and Communications Magazine 32 (4), 36-43 (2015.4.15.)
 
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
@@ -68,7 +70,7 @@ The 8th International Conference on Applications and Principles of Information S
 [17-2]: /home/paper/2017-02.pdf
 [16-1]: /home/paper/2016-01.pdf
 [16-2]: /home/paper/2016-02.pdf
-[16-3]: /home/paper/2016-03.pdf
+[15-1]: /home/paper/2016-03.pdf
 [14-1]: /home/paper/2017-01.pdf
 [14-2]: /home/paper/2017-02.pdf
 [14-3]: /home/paper/2016-01.pdf
