@@ -6,12 +6,14 @@ permalink: /publications/
 
 # Publications
 See also my Google Scholar
+
 ## 2017년
-1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>
-* Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun
-* KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1264, Feb. 2017
-2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b>
-* 황영배, 윤명현, OSIA S&TR Journal
+1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b><br>
+Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun<br>
+KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1264, Feb. 2017<br>
+| [paper](/home/paper/2017-1.pdf) |
+2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b><br>
+황영배, 윤명현, OSIA S&TR Journal
 
 ## 2016년
 1. <b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>
@@ -21,6 +23,7 @@ See also my Google Scholar
 * Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, and Myung-Hyun Yoon,
 3. <b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>
 * 금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 (2015.4.15.)
+
 ## 2014년
 1. <b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>
 * Myung-Hyun Yoon, Kue Back Lee, Chae Min Park,
