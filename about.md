@@ -32,9 +32,16 @@ I am a research scientist at KETI, working on deep learning and its applications
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
 ## Teaching Experience
+* Korea University
+* Hanbat University
+* Kyungnam University
+* Korea Polytechnic University
 
 ## Certificate
+* Technology Transfer Agent
 
 ## Awards
+* Commendation from Minister of MOTIE
 
 ## Interests
+I like traveling and taking a picture. I am interested in IT devices and appliances.
