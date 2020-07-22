@@ -5,7 +5,9 @@ permalink: /publications/
 ---
 
 # Publications
-See also my Google Scholar
+| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
+| [Publications](/publications/) 
+| [Patents](/patents/) |
 
 ## 2017년
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
