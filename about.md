@@ -41,6 +41,7 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * Technology Transfer Agent
 
 ## Awards
+* Marquis Who's Who in the World 2016
 * Commendation from Minister of MOTIE
 
 ## Interests
