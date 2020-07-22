@@ -1,20 +1,21 @@
 ---
 layout: page
-cta: 
 title: About Me
 permalink: /about/
 ---
 
 # Myung-Hyun Yoon
-| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) | [Github](https://mhyoon1.github.io/) |
+| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
+| [Publications](/publications/) 
+| [Patents](/patents/) |
 
-I've been a research scientist all my lifetime, and want to remain as a research scientist untill the day I die.
+I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
 ## Education
 
-* 1989~1994 Iowa State University
-* 1982~1984 Korea Advanced Institute of Science and Technology
-* 1978~1982 Kyungpook National University
+* 1989~1994 Ph.D. in Electrical Engineering, Iowa State University 
+* 1982~1984 M.S. in Nuclear Engineering, Korea Advanced Institute of Science and Technology
+* 1978~1982 B.S. in Electronic Engineering, Kyungpook National University
 
 I received a Ph.D. degree in Electrical Engineering from Iowa State University in 1994, and master's degree in neclear engineering 
 at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
