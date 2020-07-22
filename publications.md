@@ -11,7 +11,7 @@ See also my Google Scholar
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][1]<br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1264, Feb. 2017<br>
-2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b><br>
+2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][2]<br>
 황영배, 윤명현, OSIA S&TR Journal
 
 ## 2016년
@@ -38,3 +38,5 @@ KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1
 * 2014 International Conference on Computer Science and Service System (CSSS 2014), Jun. 13~15 2014, Bangkok, Thailand
 
 [1]: /home/paper/2017-01.pdf
+[2]: /home/paper/2017-02.pdf
+
