@@ -17,9 +17,10 @@ KSII Transactions on Internet and Information Systems (TIIS) Vol. 11, No. 2, pp.
 ## 2016년
 1. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-1]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon (KETI, Korea), 
-The 11th Asia Pacific International Conference on Information Science and Technology (APIC-IST 2016), June 26~29, 2016, Jozankei Grand Hotel Zuien, Hokkaido, Japan
+The 11th Asia Pacific International Conference on Information Science and Technology (APIC-IST 2016) pp.159~161, June 26~29, 2016, Hokkaido, Japan
 2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
-Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, and Myung-Hyun Yoon,
+Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, and Myung-Hyun Yoon, 
+KSII The 8th International Conference on Internet(ICONI) 2016, Dec. 2016, Hong Kong
 3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][16-3]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 (2015.4.15.)
 
