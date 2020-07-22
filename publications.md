@@ -37,4 +37,4 @@ KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1
 * Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin
 * 2014 International Conference on Computer Science and Service System (CSSS 2014), Jun. 13~15 2014, Bangkok, Thailand
 
-[1]: /home/paper/2017-1.pdf
+[1]: /home/paper/2017-01.pdf
