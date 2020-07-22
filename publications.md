@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Publications
-
+See also my Google Scholar
 ## 2017년
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>
 * Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun
