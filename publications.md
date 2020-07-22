@@ -8,10 +8,9 @@ permalink: /publications/
 See also my Google Scholar
 
 ## 2017년
-1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b><br>
-Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun<br>
+1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][1]<br>
+Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1264, Feb. 2017<br>
-| [paper](/home/paper/2017-1.pdf) |
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b><br>
 황영배, 윤명현, OSIA S&TR Journal
 
@@ -37,3 +36,5 @@ KSII Transactions on Internet and Information Systems (TIIS), v.11, no.2, 1250-1
 4. <b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>
 * Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin
 * 2014 International Conference on Computer Science and Service System (CSSS 2014), Jun. 13~15 2014, Bangkok, Thailand
+
+[1]: /home/paper/2017-1.pdf
