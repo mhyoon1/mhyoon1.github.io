@@ -300,15 +300,15 @@ ANS International Topical Meeting on Nclear Plant Instrumentation, Control and H
 2. [<b>Application of Digital Technology to Nuclear Power Plant Operations</b>][00-2]<br>
 Myung-Hyun Yoon, Byungyun Lee and Hong-ju Moon, 
 ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
-3. <b>A Fault-Tolerant Design of the Digital Distributed Control Systems for Nuclear Power Plants</b><br>
+3. [<b>A Fault-Tolerant Design of the Digital Distributed Control Systems for Nuclear Power Plants</b>][00-3]<br>
 Hong-ju Moon, Soo Young Shin, Wook Hyun Kwon, Byungyun Lee, Myung-Hyun Yoon and Yong-Kwan Lee, 
 ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
-4. <b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b><br>
+4. [<b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b>][00-4]<br>
 Byungyun Lee, Hongju Moon and Myung-Hyun Yoon, 
 ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
 5. [<b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>][00-5]<br>
 Hong-ju Moon, Myung-Hyun Yoon and Yong-Kwan Lee, 
-Proceedings of FTCC, pp. 32∼36, International Workshop on Fault-Tolerant Control and Computing (FTCC-1), Seoul, Korea, May 20~23, 2000
+Proceedings of the International Workshop on Fault-Tolerant Control and Computing(FTCC), pp.32∼36, Seoul, Korea, May 20~23, 2000
 
 ## 1999년
 1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
@@ -423,8 +423,9 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
+[00-3]: /home/paper/npic00-03.pdf
+[00-4]: /home/paper/npic00-04.pdf
 [00-5]: /home/paper/ftcc2000.pdf
-
 [99-1]: /home/paper/icmt99.pdf
 [99-3]: /home/paper/kacc99-1.pdf
 [99-4]: /home/paper/kacc99-4.pdf
