@@ -157,7 +157,7 @@ The 6th International Conference on Applications and Principles of Information S
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 서울, 2006.11.25
 2. [<b>An Eventual Consistent Wireless Light Control System</b>][06-2]<br>
 Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo, 
-ACM SenSys 2006, The 4th ACM Conference on Embedded Networked Sensor Systems, Boulder, Colorado, Oct. 31~Nov. 3, 2006
+The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulder, Colorado, Oct. 31~Nov. 3, 2006
 3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
 임호정, 유준재, 강정훈, 이민구, 윤명현, 이명수, 심화섭, 
 2006년도 정보 및 제어 학술대회 (CIIS'06) 논문집, pp.491~493, 평창, 2006.10.27.~28
