@@ -18,15 +18,15 @@ KSII Transactions on Internet and Information Systems (TIIS) Vol. 11, No. 2, pp.
 
 ## 2016년
 1. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-1]<br>
-Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, <b>Myung-Hyun Yoon</b>, 
-The 11th Asia Pacific International Conference on Information Science and Technology (APIC-IST 2016) pp.159~161, June 26~29, 2016, Hokkaido, Japan
+Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
+The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2016, pp.159~161, June 26~29, 2016, Hokkaido, Japan
 2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
-Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, <b>Myung-Hyun Yoon</b>, 
+Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI) 2016, Dec. 2016, Hong Kong
 
 ## 2015년
 1. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-1]<br>
-금성우, 육근웅, 문재원, 임태범, <b>윤명현</b>, 통신학회지 Information and Communications Magazine 32 (4), 36-43 (2015.4.15.)
+금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 Information and Communications Magazine 32 (4), 36-43 (2015.4.15.)
 
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
@@ -72,7 +72,7 @@ The 8th International Conference on Applications and Principles of Information S
 [17-2]: /home/paper/2017-02.pdf
 [16-1]: /home/paper/2016-01.pdf
 [16-2]: /home/paper/2016-02.pdf
-[15-1]: /home/paper/2016-03.pdf
+[15-1]: /home/paper/2015-01.pdf
 [14-1]: /home/paper/2017-01.pdf
 [14-2]: /home/paper/2017-02.pdf
 [14-3]: /home/paper/2016-01.pdf
