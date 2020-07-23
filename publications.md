@@ -294,19 +294,19 @@ Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon,
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
 ## 2000년
-1. <b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b><br>
+1. [<b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b>][00-1]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon and Byungyun Lee, 
-ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
-2. <b>Application of Digital Technology to Nuclear Power Plant Operations</b><br>
+ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
+2. [<b>Application of Digital Technology to Nuclear Power Plant Operations</b>][00-2]<br>
 Myung-Hyun Yoon, Byungyun Lee and Hong-ju Moon, 
-ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
+ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
 3. <b>A Fault-Tolerant Design of the Digital Distributed Control Systems for Nuclear Power Plants</b><br>
 Hong-ju Moon, Soo Young Shin, Wook Hyun Kwon, Byungyun Lee, Myung-Hyun Yoon and Yong-Kwan Lee, 
 ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
 4. <b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b><br>
 Byungyun Lee, Hongju Moon and Myung-Hyun Yoon, 
 ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
-5. <b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>
+5. [<b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>][00-5]<br>
 Hong-ju Moon, Myung-Hyun Yoon and Yong-Kwan Lee, 
 Proceedings of FTCC, pp. 32∼36, International Workshop on Fault-Tolerant Control and Computing (FTCC-1), Seoul, Korea, May 20~23, 2000
 
@@ -319,59 +319,59 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 1999도 한국에너지공학회 추계학술발표회 논문집 pp. 143~148 1999.11.
 3. [<b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b>][99-3]<br>
 윤명현, 문홍주, 신창훈, 이병윤, 이성우, 이재영, 신수용, 권욱현, 
-제14차 한국자동제어학술회의 논문집, pp.D122∼D125, 1999.10.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D122∼D125, 1999.10.
 4. [<b>원전 급수제어계통의 디지털화 설계 및 구현</b>][99-4]<br>
 신창훈, 윤명현, 이성우, 문홍주, 이병윤, 
-제14차 한국자동제어학술회의 논문집 (Proceedings of the 14th Korea Automatic Control Conference - '99KACC), A191∼A194, 1999.10.14~16
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.A191∼A194, 1999.10.
 5. <b>원자력발전소 분산제어시스템을 위한 통신 프로토콜의 실시간 특성 해석</b><br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
 제14차 한국자동제어학술회의 논문집, D102∼D105, 1999.10.
 6. [<b>분산제어시스템 제어 통신망의 실시간 주기 및 비주기 데이터의 전송 방식</b>][99-6]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 전태수, 김영신, 권욱현, 
-제14차 한국자동제어학술회의 논문집 (Proceedings of the 14th Korea Automatic Control Conference - '99KACC), D94∼D97, 1999.10.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D94∼D97, 1999.10.
 7. [<b>네트워크 관리 소프트웨어와 매체 접속 계층의 결함 감지 및 이중 채널 관리기를 이용한 제어 통신망의 매체 이중화 관리 방법</b>][99-7]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 이재민, 김광현, 권욱현, 
-제14차 한국자동제어학술회의 논문집 (Proceedings of the 14th Korea Automatic Control Conference - '99KACC), D98∼D101, 용인 고등기술원, 1999.10.14.~16.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, Oct. 14~16, 1999, 용인 고등기술원
 8. [<b>UML을 이용한 원전 디지털 제어시스템의 소프트웨어 설계 및 검증</b>][99-8]<br>
 이병윤, 신창훈, 문홍주, 이성우, 윤명현, 
-제14차 한국자동제어학술회의 논문집 (Proceedings of the 14th Korea Automatic Control Conference - '99KACC), B422∼B425, 1999.10.14.-16.
-9. [<b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰 (A Study for Methodology of Software Verification and Validation of Digital I&C System on Nuclear Power Plant)</b>][99-9]<br>
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B422∼B425, 1999.10.
+9. [<b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b>][99-9]<br>
 이병윤, 김동욱, 신창훈, 문홍주, 윤명현, 이성우, 
-제14차 한국자동제어학술회의 논문집 (Proceedings of the 14th Korea Automatic Control Conference - '99KACC), B450∼B453, 용인 고등기술원, 1999.10.14.~16.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450∼B453, Oct. 14~16, 1999, 용인 고등기술원
 
 ## 1998년
-1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안 (Integrated Computer System Architecture for Kori Unit 2 I&C Upgrade)</b>][98-1]<br>
+1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
 윤명현, 신창훈, 문홍주, 박익수, 이종태, 
-한국원자력학회 '98추계학술발표회, 1998.10.
-2. [<b>고리2호기 I&C 업그레이드 및 수명관리 연구 (Kori-2 I&C Upgrade and Life Cycle Management Study)</b>][98-2]<br>
+한국원자력학회 '98추계학술발표회 논문집, 1998.10.
+2. [<b>고리2호기 I&C 업그레이드 및 수명관리 연구</b>][98-2]<br>
 신창훈, 윤명현, 박익수, 이종태, 
-한국원자력학회 '98추계학술발표회, 1998.10.
+한국원자력학회 '98추계학술발표회 논문집, 1998.10.
 3. <b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b><br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
-대한전기학회 하계학술대회 논문집 B1013∼B1016 , 1999.7
+대한전기학회 하계학술대회 논문집 pp.B1013∼B1016 , 1999.7.
 4. [<b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b>][98-4]<br>
 윤명현, 김기훈, 신창훈, 
-한국원자력학회 '98춘계학술발표회논문집(I), pp. 258∼263, 1998.5.
+한국원자력학회 '98춘계학술발표회 논문집(I), pp.258∼263, 1998.5.
 5. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
-6th International Conference on Nuclear Engineering (ICONE-6), San Diego, California, May 10~15, 1998
+6th International Conference on Nuclear Engineering (ICONE-6), May 10~15, 1998, San Diego, California
 
 ## 1997년
 1. <b>A New Method of Rod Drop Tiime Measurement Using Movable Coil Signals</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
 EPRI Technical Conference, Nov. 1997
-2. [<b>공정용 PID 제어기의 자동동조 시스템 설계 (Auto-tuning System Design for Process PID Controllers)</b>][97-2]<br>
+2. [<b>공정용 PID 제어기의 자동동조 시스템 설계</b>][97-2]<br>
 신창훈, 윤명현, 박익수, 
-'97한국자동제어학술회의 논문집 (Proceedings of the 12th Korea Automatic Control Conference - '97KACC), pp. 915∼918, 1997.10.
+'97한국자동제어학술회의 논문집(Proceedings of the 12th KACC), pp.915∼918, 1997.10.
 3. [<b>Automatic Tuning Algorithm of the PID Controller Using Two Nyquist Points Identification</b>][97-3]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon, Ik-Soo Park, 
-Proceeding of the 36th SICE Annual Conference (SICE'97), pp.1225∼1228, University of Tokushima, Japan, July 29~31, 1997
+Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225∼1228, University of Tokushima, Japan, July 29~31, 1997
 4. [<b>Design of On-line Auto-tuning PID Controller for Power Plant Process Control</b>][97-4]<br>
 Myung-Hyun Yoon, Chang-Hoon Shin, 
-Proceeding of the 36th SICE Annual Conference (SICE'97), pp.1221∼1224, University of Tokushima, Japan, July 29~31, 1997
+Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221∼1224, University of Tokushima, Japan, July 29~31, 1997
 5. [<b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b>][97-5]<br>
 Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson, 
-14th IFAC Workshop on Distributed Computer Control Systems (DCCS'97), pp.165∼170, July 1997
+14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165∼170, July 1997
 
 ## 1996년
 1. <b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b><br>
@@ -421,6 +421,10 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [13-3]: /home/paper/2016-01.pdf
 [12-1]: /home/paper/2016-02.pdf
 
+[00-1]: /home/paper/npic00-01.pdf
+[00-2]: /home/paper/npic00-02.pdf
+[00-5]: /home/paper/ftcc2000.pdf
+
 [99-1]: /home/paper/icmt99.pdf
 [99-3]: /home/paper/kacc99-1.pdf
 [99-4]: /home/paper/kacc99-4.pdf
@@ -434,4 +438,4 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [97-2]: /home/paper/kacc97.pdf
 [97-3]: /home/paper/sice97-2.pdf
 [97-4]: /home/paper/sice97-1.pdf
-[97-5]: /home/paper/dcc97.pdf
+[97-5]: /home/paper/dccs97.pdf
