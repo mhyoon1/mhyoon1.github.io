@@ -39,7 +39,7 @@ ICCPE2015 & ICI2015, Nov. 27~30, 2015, Sun Moon Lake, NanTou, Taiwan
 
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
-<b>Myung-Hyun Yoon</b>, Kue Back Lee, Chae Min Park, 
+Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
 6th International Conference on Ubiquitous and Future Networks (ICUFN 2014), July 8~11 2014, Shanghai, China
 2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
@@ -120,16 +120,16 @@ Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang,
 The 7th International Conference on Applications and Principles of Information Science (APIS 2008), Jan. 28~30 2008, Auckland, New Zealand
 
 ## 2007년
-1. <b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b><br>
+1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 3rd International Conference on Multimedia, Information Technology and Its Applications (MITA 2007), pp45~48, August 19~22, 2007, Edsa Shangri-La Hotel, Manila, Philippines, KMMS
-2. <b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b><br>
+2. [<b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b>][07-2]<br>
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp697~698, July 8~11, 2007, Paradise Hotel, Busan, Korea, The Institute of Electronics Engineers of Korea (IEEK)
-3. <b>WUSB Security and Threats: a Survey and a Decision</b><br>
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp697~698, Busan, Korea, July 8~11, 2007
+3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
 Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC) 2007, pp147~148, July 8~11, 2007, Paradise Hotel, Busan, Korea, The Institute of Electronics Engineers of Korea (IEEK)
-4. <b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b><br>
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC) 2007, pp.147~148, July 8~11, 2007, Paradise Hotel, Busan, Korea, The Institute of Electronics Engineers of Korea (IEEK)
+4. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-4]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 한국멀티미디어학회논문지, vol.10, no.6, pp.745~753, June. 2007
 5. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
@@ -138,10 +138,10 @@ Proceedings of International Ubiquitous Workshop (IUW 2007), pp. 55~60, July 3~4
 6. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b><br>
 Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B. Kim, 
 International Conference on Ubiquitous Information Technologies & Applications (ICUT 2007), Metropolitan Palace Hotel, Dubai, UAE, 12-14 Feb. 2007, Korea Electronics Technology Institute, Korea Information Processing Society
-7. <b>Security Threats Analysis for ZigBee Home Network Services</b><br>
+7. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-7]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
-Internationl Conference on Ubiquitous Information Technologies & Applications (ICUT 2007), Metropolitan Palace Hotel, Dubai, UAE, 12-14 Feb. 2007, Korea Electronics Technology Institute, Korea Information Processing Society
-8. <b>The Development of PDA Program for Localization System at Intelligent Home</b><br>
+Internationl Conference on Ubiquitous Information Technologies & Applications (ICUT 2007), Dubai, UAE, feb. 12-14, 2007
+8. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-8]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, and H.S. Sim, 
 The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp595~598, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
 9. <b>Sensor Networks for Asset Management System</b><br>
@@ -420,6 +420,12 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [13-2]: /home/paper/2013-02.pdf
 [12-1]: /home/paper/2016-02.pdf
 
+[07-1]: /home/paper/MITA2007.pdf
+[07-2]: /home/paper/ITC-CSCC07-2.pdf
+[07-3]: /home/paper/ITC-CSCC07-1.pdf
+[07-4]: /home/paper/KMMS07.pdf
+[07-7]: /home/paper/ICUT2007-1.pdf
+[07-8]: /home/paper/ICUT2007-2.pdf
 [06-7]: /home/paper/2006-07.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
