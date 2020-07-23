@@ -155,18 +155,18 @@ The 6th International Conference on Applications and Principles of Information S
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 서울, 2006.11.25
-2. <b>An Eventual Consistent Wireless Light Control System</b><br>
+2. [<b>An Eventual Consistent Wireless Light Control System</b>][06-2]<br>
 Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo, 
-ACM SenSys 2006, The 4th ACM Conference on Embedded Networked Sensor Systems, Oct. 31~Nov. 3, 2006, Boulder, Colorado, USA
+ACM SenSys 2006, The 4th ACM Conference on Embedded Networked Sensor Systems, Boulder, Colorado, Oct. 31~Nov. 3, 2006
 3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
 임호정, 유준재, 강정훈, 이민구, 윤명현, 이명수, 심화섭, 
 2006년도 정보 및 제어 학술대회 (CIIS'06) 논문집, pp.491~493, 평창, 2006.10.27.~28
-4. <b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>]<br>
+4. [<b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>][06-4]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006 
-5. <b>The Implementation of Indoor Location System to Control ZigBee Home Network</b><br>
+5. [<b>The Implementation of Indoor Location System to Control ZigBee Home Network</b>][06-5]<br>
 Woo-Chool Park, Myung-Hyun Yoon, 
-SICE-ICCAS 2006, SICE-ICASE International Joint Conference 2006, October 18~21, 2006, BEXCO, Busan, Korea
+SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
 6. <b>지능 공간 실현을 위한 위치인지 시스템 개발 (Development of Indoor Localization System for Realizing Smart Space)</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
 UIT 연구회 논문지 (Journal of UIT Reserach) Vol. 2, No. 1, pp99~104, 한국정보처리학회 UIT연구회, October 2006 (ISSN 1738-8791)
@@ -179,7 +179,7 @@ The 2006 International Conference on Multimedia, Information Technology and Its 
 9. [<b>Web-supported Mesh Sensor Network Technology for Asset Management System</b>][06-9]<br>
 Min Goo Lee, Myung Hyun Yoon, Jung Hoon Kang, Jun Jae Yoo, Yun Sik Lee, Han Jong Ryu, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp.355-358, Dailian, China, July 4-6, 2006 
-10. <b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b><br>
+10. [<b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b>][06-10]<br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
 The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC 2006), pp256-261, June 5-7, 2006, Taichung, Taiwan, IEEE Computer Society
 11. <b>무선 센서 네트워크 운영체제 기술 동향 분석 (Analysis Architecture of Embedded Operating Systems for Wireless Sensor Network)</b><br>
@@ -428,11 +428,14 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [07-8]: /home/paper/ICUT2007-2.pdf
 
 [06-1]: /home/paper/ieek06-01.pdf
+[06-2]: /home/paper/SENSYS06.pdf
 [06-3]: /home/paper/CICS06-01.pdf
-
+[06-4]: /home/paper/SICE_ICASE_02.pdf
+[06-5]: /home/paper/SICE_ICASE_01.pdf
 [06-7]: /home/paper/2006-07.pdf
 [06-8]: /home/paper/MITA06-1.pdf
 [06-9]: /home/paper/MITA06-2.pdf
+[06-10]: /home/paper/SUITC06.pdf
 [06-13]: /home/paper/ICS06-01.pdf
 [06-15]: /home/paper/ICACT06-01.pdf
 [06-16]: /home/paper/APIS06-01.pdf
