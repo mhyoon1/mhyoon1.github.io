@@ -374,12 +374,12 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165∼170, July 1997
 
 ## 1996년
-1. <b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b><br>
+1. [<b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b>][96-1]<br>
 신창훈, 윤명현, 정학영, 
 '96 한국자동제어학술회의 논문집 (Proceedings of the 11th Korea Automatic Control Conference - '96KACC), pp.1004∼1007, 1996.10.
-2. <b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b><br>
+2. [<b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b>][96-2]<br>
 윤명현, 신창훈, 박익수, 
-'96 한국자동제어학술회의 논문집 (Proceedings of the 11th Korea Automatic Control Conference - '96KACC), pp.1008∼1011, 1996.10.
+'96 한국자동제어학술회의 논문집 (Proceedings of the 11th KACC), pp.1008∼1011, 1996.10.
 
 ## 1993년
 1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b><br>
@@ -440,3 +440,5 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [97-3]: /home/paper/sice97-2.pdf
 [97-4]: /home/paper/sice97-1.pdf
 [97-5]: /home/paper/dccs97.pdf
+[96-1]: /home/paper/kacc96-2.pdf
+[96-2]: /home/paper/kacc96-1.pdf
