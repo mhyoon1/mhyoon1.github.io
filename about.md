@@ -32,17 +32,17 @@ I am a research scientist at KETI, working on deep learning and its applications
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
 ## Teaching Experience
-* Korea University
-* Hanbat University
-* Kyungnam University
-* Korea Polytechnic University
+* 1994~1997 Instructor at Dept. of Control & Meassurement, Korea University
+* 2000~2001 Instructor at Dept. of Control & Meassurement, Hanbat University
+* 2005~2007 Adjuct Professor at Dept. of Computer Engineering, Kyungnam University
+* 2006~2007 Adjuct Professor at Dept. of Electronics, Korea Polytechnic University
 
 ## Certificate
-* Technology Transfer Agent
+* Technology Transfer Agent, MOTIE, Dec. 6, 2016
 
 ## Awards
 * Marquis Who's Who in the World 2016
-* Commendation from Minister of MOTIE
+* Commendation from Minister of MOTIE, Oct. 8, 2019
 
 ## Interests
 I like traveling and taking a picture. I am interested in IT devices and appliances.
