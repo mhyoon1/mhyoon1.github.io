@@ -435,7 +435,7 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [06-7]: /home/paper/2006-07.pdf
 [06-8]: /home/paper/MITA06-1.pdf
 [06-9]: /home/paper/MITA06-2.pdf
-[06-10]: /home/paper/SUITC06.pdf
+[06-10]: /home/paper/SUTC06.pdf
 [06-13]: /home/paper/ICS06-01.pdf
 [06-15]: /home/paper/ICACT06-01.pdf
 [06-16]: /home/paper/APIS06-01.pdf
