@@ -66,6 +66,14 @@ Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum,
 1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈 (Policy Issues for Vitalizing Smart TV Industry</b>][12-1]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp. 154~167, 2012년
+2. <b>가전제품 접근성 향상기술 동향</b><br>
+윤명현, 오세윤, 
+KEIT PD Issue Report Vol.12, No.8, 2012.12.
+
+## 2011년
+1. <b>WPAN기술 표준화 동향</b><br>
+윤명현, 장동현, 
+KEIT PD Issue Report Vol.11, No.9, 2011.11.
 
 ## 2009년
 1. [<b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b>][09-01]<br>
