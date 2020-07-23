@@ -58,9 +58,9 @@ Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2013), Jun. 5~7 2013, Brunel University, London, United Kingdom
-3. [<b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b>][13-3]<br>
+3. <b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
-37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), July 22~26 2013, Kyoto, Japan
+37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto, Japan, July 22~26 2013
 
 ## 2012년
 1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈 (Policy Issues for Vitalizing Smart TV Industry</b>][12-1]<br>
@@ -376,7 +376,7 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 ## 1996년
 1. [<b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b>][96-1]<br>
 신창훈, 윤명현, 정학영, 
-'96 한국자동제어학술회의 논문집 (Proceedings of the 11th Korea Automatic Control Conference - '96KACC), pp.1004∼1007, 1996.10.
+'96 한국자동제어학술회의 논문집 (Proceedings of the 11th KACC), pp.1004∼1007, 1996.10.
 2. [<b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b>][96-2]<br>
 윤명현, 신창훈, 박익수, 
 '96 한국자동제어학술회의 논문집 (Proceedings of the 11th KACC), pp.1008∼1011, 1996.10.
@@ -416,9 +416,8 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [14-2]: /home/paper/2017-02.pdf
 [14-3]: /home/paper/2016-01.pdf
 [14-4]: /home/paper/2016-02.pdf
-[13-1]: /home/paper/2016-03.pdf
-[13-2]: /home/paper/2017-02.pdf
-[13-3]: /home/paper/2016-01.pdf
+[13-1]: /home/paper/2013-01.pdf
+[13-2]: /home/paper/2013-02.pdf
 [12-1]: /home/paper/2016-02.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
