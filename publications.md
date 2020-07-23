@@ -170,9 +170,9 @@ SICE-ICCAS 2006, SICE-ICASE International Joint Conference 2006, October 18~21, 
 6. <b>지능 공간 실현을 위한 위치인지 시스템 개발 (Development of Indoor Localization System for Realizing Smart Space)</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
 UIT 연구회 논문지 (Journal of UIT Reserach) Vol. 2, No. 1, pp99~104, 한국정보처리학회 UIT연구회, October 2006 (ISSN 1738-8791)
-7. <b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계 (Design of a CMOS Analog Front End for a WPAN Receiver)</b><br>
+7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
-2006년도 하계종합학술발표회 논문집 Vol. 33, 2006.7.5.~7.7, 라마다프라자 제주호텔, 한국통신학회
+한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 라마다프라자 제주호텔, 2006.7.5.~7.7
 8. <b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>,br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp191~194, July 4~6, 2006, Dalian University of Light Industry, Dailian, China, KMMS
@@ -419,6 +419,8 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [13-1]: /home/paper/2013-01.pdf
 [13-2]: /home/paper/2013-02.pdf
 [12-1]: /home/paper/2016-02.pdf
+
+[06-7]: /home/paper/2006-07.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
