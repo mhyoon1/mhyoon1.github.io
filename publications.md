@@ -429,7 +429,7 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 
 [06-1]: /home/paper/ieek06-01.pdf
 [06-2]: /home/paper/SENSYS06.pdf
-[06-3]: /home/paper/CICS06-01.pdf
+[06-3]: /home/paper/cics06-01.pdf
 [06-4]: /home/paper/SICE_ICASE_02.pdf
 [06-5]: /home/paper/SICE_ICASE_01.pdf
 [06-7]: /home/paper/2006-07.pdf
