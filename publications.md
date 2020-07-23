@@ -23,9 +23,18 @@ The 11th Asia Pacific International Conference on Information Science and Techno
 2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI) 2016, Dec. 2016, Hong Kong
+3. [<b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b>][16-3]<br>
+Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon
+ICUFN 2016, July 5~8, Vienna Austria
 
 ## 2015년
-1. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-1]<br>
+1. [<b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b>][15-1]<br>
+Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon
+29th International Conference on Information Networking (ICOIN 2015), Jan. 12~14 2015, Siam Reap, Cambodia
+2. [<b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b>][15-2]<br>
+Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon
+ICCPE2015 & ICI2015, Nov. 27~30, 2015, Sun Moon Lake, NanTou, Taiwan
+3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-3]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 Information and Communications Magazine 32 (4), 36-43 (2015.4.15.)
 
 ## 2014년
@@ -72,7 +81,10 @@ The 8th International Conference on Applications and Principles of Information S
 [17-2]: /home/paper/2017-02.pdf
 [16-1]: /home/paper/2016-01.pdf
 [16-2]: /home/paper/2016-02.pdf
+[16-3]: /home/paper/2016-03.pdf
 [15-1]: /home/paper/2015-01.pdf
+[15-2]: /home/paper/2015-02.pdf
+[15-3]: /home/paper/2015-03.pdf
 [14-1]: /home/paper/2017-01.pdf
 [14-2]: /home/paper/2017-02.pdf
 [14-3]: /home/paper/2016-01.pdf
