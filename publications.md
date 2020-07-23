@@ -181,19 +181,19 @@ Min Goo Lee, Myung Hyun Yoon, Jung Hoon Kang, Jun Jae Yoo, Yun Sik Lee, Han Jong
 The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp.355-358, Dailian, China, July 4-6, 2006 
 10. [<b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b>][06-10]<br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
-The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC 2006), pp256-261, June 5-7, 2006, Taichung, Taiwan, IEEE Computer Society
-11. <b>무선 센서 네트워크 운영체제 기술 동향 분석 (Analysis Architecture of Embedded Operating Systems for Wireless Sensor Network)</b><br>
+The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC 2006), pp.256-261, Taichung, Taiwan, June 5-7, 2006
+11. <b>무선 센서 네트워크 운영체제 기술 동향 분석</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
-ICS'06 정보 및 제어 심포지움 (Information and Control Symposium), pp177~179, 2006.4.29., 서울시립대학교, 대한전기학회 정보및제어부분회, 대한전자공학회 시스템및제어소사이어티
-12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템 (Intelligent Building Lght Control System Based on Wireless Sensor Network)</b><br>
+2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29.
+12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 장동섭, 
-ICS'06 정보 및 제어 심포지움 (Information and Control Symposium), pp174-176, 2006.4.29., 서울시립대학교, 대한전기학회 정보및제어부분회, 대한전자공학회 시스템및제어소사이어티
+2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.174-176, 서울시립대학교, 2006.4.29.
 13. [<b>홈 네트워크에서의 USN 보안 고려사항 분석</b>][06-13]<br>
 박우출, 박현문, 이명수, 윤명현, 
-ICS'06 정보 및 제어 심포지움 (Information and Control Symposium), pp171~173, 2006.4.29., 서울시립대학교, 대한전기학회 정보및제어부분회, 대한전자공학회 시스템및제어소사이어티
-14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구 (A Study on the Sensor Network Technology for Blood Management System)</b><br>
+2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29.
+14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b><br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
-2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp162-164, 2006.4.29, 서울시립대학교, 대한전기학회 정보및제어부문회, 대한전자공학회 시스템및제어소사이어티
+2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.162-164, 서울시립대학교, 2006.4.29.
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 8th International Conference on Advanced Communication Technology (ICACT 2006), Pheonix Park, Korea, Feb. 20~22, 2006
