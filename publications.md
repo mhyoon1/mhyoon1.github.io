@@ -122,16 +122,16 @@ The 7th International Conference on Applications and Principles of Information S
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 3rd International Conference on Multimedia, Information Technology and Its Applications (MITA 2007), pp45~48, August 19~22, 2007, Edsa Shangri-La Hotel, Manila, Philippines, KMMS
+The 3rd International Conference on Multimedia, Information Technology and Its Applications (MITA 2007), pp.45~48, Manila, Philippines, Aug. 19~22, 2007
 2. [<b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b>][07-2]<br>
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp697~698, Busan, Korea, July 8~11, 2007
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp.697~698, Busan, Korea, July 8~11, 2007
 3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
 Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC) 2007, pp.147~148, July 8~11, 2007, Paradise Hotel, Busan, Korea, The Institute of Electronics Engineers of Korea (IEEK)
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC) 2007, pp.147~148, Busan, Korea, July 8~11, 2007
 4. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-4]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
-한국멀티미디어학회논문지, vol.10, no.6, pp.745~753, June. 2007
+한국멀티미디어학회논문지, Vol.10, No.6, pp.745~753, June. 2007
 5. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 Proceedings of International Ubiquitous Workshop (IUW 2007), pp. 55~60, July 3~4, 2007, Hotel Maremons, Sokcho City, KOREA, The Institute of Webcasting, Internet and Telecommunication (IWIT), The Institute of Electronics Engineers of Korea (IEEK)
@@ -152,18 +152,18 @@ Soohyung Cho, Kim Daewhan, Yoon Myunghyun,
 The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp575~578, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
 
 ## 2006년
-1. <b>Testbed 중심 센서 네트워크 발전 동향 (The Trend of Sensor Network Testbed)</b><br>
+1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
-2006년도 대한전자공학회 추계종합학술대회 제29권 제2호 (Proceedings of IEEK Fall Conference 2006), pp.1036~1039, 2006.11.25, 한양대학교, 서울, 대한전자공학회
+2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 서울, 2006.11.25
 2. <b>An Eventual Consistent Wireless Light Control System</b><br>
 Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo, 
 ACM SenSys 2006, The 4th ACM Conference on Embedded Networked Sensor Systems, Oct. 31~Nov. 3, 2006, Boulder, Colorado, USA
-3. <b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현 (The Development of Location PDA Program for Localization System in Intelligent Home)</b><br>
+3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
 임호정, 유준재, 강정훈, 이민구, 윤명현, 이명수, 심화섭, 
-2006년도 정보 및 제어 학술대회 (CIIS'06) 논문집 (2006 Conference on Information and Control Systems), pp.491~493, 2006.10.27.~28, 휘닉스파크(평창), 대한전자공학회 시스템및제어소사이어티, 대한전기학회 정보및제어부문회
-4. <b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b><br>
+2006년도 정보 및 제어 학술대회 (CIIS'06) 논문집, pp.491~493, 평창, 2006.10.27.~28
+4. <b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
-SICE-ICCAS 2006, SICE-ICASE International Joint Conference 2006, October 18~21, 2006, BEXCO, Busan, Korea
+SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006 
 5. <b>The Implementation of Indoor Location System to Control ZigBee Home Network</b><br>
 Woo-Chool Park, Myung-Hyun Yoon, 
 SICE-ICCAS 2006, SICE-ICASE International Joint Conference 2006, October 18~21, 2006, BEXCO, Busan, Korea
@@ -173,12 +173,12 @@ UIT 연구회 논문지 (Journal of UIT Reserach) Vol. 2, No. 1, pp99~104, 한�
 7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
 한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 라마다프라자 제주호텔, 2006.7.5.~7.7
-8. <b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>,br>
+8. [<b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>][06-8]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp191~194, July 4~6, 2006, Dalian University of Light Industry, Dailian, China, KMMS
-9. <b>Web-supported Mesh Sensor Network Technology for Asset Management System</b><br>
+The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp.191~194, Dailian, China, July 4~6, 2006
+9. [<b>Web-supported Mesh Sensor Network Technology for Asset Management System</b>][06-9]<br>
 Min Goo Lee, Myung Hyun Yoon, Jung Hoon Kang, Jun Jae Yoo, Yun Sik Lee, Han Jong Ryu, 
-The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp355-358, July 4-6, 2006, Dalian University of Light Industry, Dailian, China, KMMS
+The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp.355-358, Dailian, China, July 4-6, 2006 
 10. <b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b><br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
 The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC 2006), pp256-261, June 5-7, 2006, Taichung, Taiwan, IEEE Computer Society
@@ -188,27 +188,27 @@ ICS'06 정보 및 제어 심포지움 (Information and Control Symposium), pp177
 12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템 (Intelligent Building Lght Control System Based on Wireless Sensor Network)</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 장동섭, 
 ICS'06 정보 및 제어 심포지움 (Information and Control Symposium), pp174-176, 2006.4.29., 서울시립대학교, 대한전기학회 정보및제어부분회, 대한전자공학회 시스템및제어소사이어티
-13. <b>홈 네트워크에서의 USN 보안 고려사항 분석 (USN Security Considerations in Home Network)</b><br>
+13. [<b>홈 네트워크에서의 USN 보안 고려사항 분석</b>][06-13]<br>
 박우출, 박현문, 이명수, 윤명현, 
 ICS'06 정보 및 제어 심포지움 (Information and Control Symposium), pp171~173, 2006.4.29., 서울시립대학교, 대한전기학회 정보및제어부분회, 대한전자공학회 시스템및제어소사이어티
 14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구 (A Study on the Sensor Network Technology for Blood Management System)</b><br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp162-164, 2006.4.29, 서울시립대학교, 대한전기학회 정보및제어부문회, 대한전자공학회 시스템및제어소사이어티
-15. <b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b><br>
+15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 8th International Conference on Advanced Communication Technology (ICACT 2006), Pheonix Park, Korea, February 20~22, 2006
-16. <b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b><br>
+The 8th International Conference on Advanced Communication Technology (ICACT 2006), Pheonix Park, Korea, Feb. 20~22, 2006
+16. [<b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b>][06-16]<br>
 Soohyung Cho, Daewhan Kim, Myunghyun Yoon, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou Dianzi University, China, January 9~10, 2006
-17. <b>The Development of Localization Server System for Location-Awareness in Smart Home</b><br>
+The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+17. [<b>The Development of Localization Server System for Location-Awareness in Smart Home</b>][06-17]<br>
 Hojung Lim, Jeonghoon Kang, Mingoo Lee, Junjae Yoo, Myunghyun Yoon, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou Dianzi University, China, January 9~10, 2006
-18. <b>A Study on the Efficient Routing Algorithm for Asset Management System</b><br>
+The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+18. [<b>A Study on the Efficient Routing Algorithm for Asset Management System</b>][06-18]<br>
 Mingoo Lee, Junghoon Kang, Hojung Lim, Myunghyun Yoon, Junjae Yoo, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou Dianzi University, China, January 9~10, 2006
-19. <b>Home Automation Control with Indoor Positioning System</b><br>
+The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+19. [<b>Home Automation Control with Indoor Positioning System</b>][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou Dianzi University, China, January 9~10, 2006
+The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
 
 ## 2005년
 1. <b>Design of a CMOS Analog Front End for WPAN Receivers</b><br>
@@ -426,7 +426,19 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [07-4]: /home/paper/KMMS07.pdf
 [07-7]: /home/paper/ICUT2007-1.pdf
 [07-8]: /home/paper/ICUT2007-2.pdf
+
+[06-1]: /home/paper/ieek06-01.pdf
+[06-3]: /home/paper/CICS06-01.pdf
+
 [06-7]: /home/paper/2006-07.pdf
+[06-8]: /home/paper/MITA06-1.pdf
+[06-9]: /home/paper/MITA06-2.pdf
+[06-13]: /home/paper/ICS06-01.pdf
+[06-15]: /home/paper/ICACT06-01.pdf
+[06-16]: /home/paper/APIS06-01.pdf
+[06-17]: /home/paper/APIS06-02.pdf
+[06-18]: /home/paper/APIS06-03.pdf
+[06-19]: /home/paper/APIS06-04.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
