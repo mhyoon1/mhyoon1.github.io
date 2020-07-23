@@ -54,7 +54,7 @@ Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park
 ## 2013년
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
-대한전자공학회 2013년 추계학술대회, 2013.11.23, 고려대학교
+2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 2013.11.23, 고려대학교
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2013), Jun. 5~7 2013, Brunel University, London, United Kingdom
