@@ -73,7 +73,7 @@ Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum,
 2. [<b>스마트TV 산업 활성화 정책</b>][12-4]<br>
 윤명현, 김대진, 
 KT경제경영연구소 DIGIECO Focus, 2012.5.8.
-1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈 (Policy Issues for Vitalizing Smart TV Industry</b>][12-5]<br>
+1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈</b>][12-5]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
 
@@ -194,7 +194,7 @@ SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
 5. [<b>The Implementation of Indoor Location System to Control ZigBee Home Network</b>][06-5]<br>
 Woo-Chool Park, Myung-Hyun Yoon, 
 SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
-6. <b>지능 공간 실현을 위한 위치인지 시스템 개발 (Development of Indoor Localization System for Realizing Smart Space)</b><br>
+6. <b>지능 공간 실현을 위한 위치인지 시스템 개발</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
 UIT 연구회 논문지 (Journal of UIT Reserach) Vol. 2, No. 1, pp99~104, 한국정보처리학회 UIT연구회, October 2006 (ISSN 1738-8791)
 7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
@@ -250,25 +250,25 @@ The 7th Conference on Electronics and Information Communications (CEIC 2005), De
 4. <b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b><br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, and Seong-Dong Kim, 
 The 7th Conference on Electronics and Information Communications (CEIC 2005), Dec. 1~2, 2005 (제7회 전자정보통신 학술대회, 온양관광호텔)
-5. <b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구 (A Study on the Efficient Localization Method Using RSS Information)</b><br>
+5. <b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b><br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
-6. <b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발 (Development of Indoor Positioning System for Location-aware Services)</b><br>
+6. <b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b><br>
 박우출, 이형수, 윤명현, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
-7. <b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구 (A Study on the RSS Routing Algorithm for Asset Management System)</b><br>
+7. <b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b><br>
 이민구, 강정훈, 임호정, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
-8. <b>위치 정보를 이용한 가전기기 제어 시스템 구현 (Implementation of Home Automation System Using Location-aware Services)</b><br>
+8. <b>위치 정보를 이용한 가전기기 제어 시스템 구현</b><br>
 박우출, 윤명현, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
-9. <b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발 (The Development of Localization Server System for Location-awareness in Smart Home)</b><br>
+9. <b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b><br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회 (2005 conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
-10. <b>메쉬 센서 네트워크 기술 동향 분석 (Mesh Sensor Network Technology Trend)</b><br>
+10. <b>메쉬 센서 네트워크 기술 동향 분석</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회 (2005 conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
-11. <b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜 (Reliable Wireless Ad-hoc Network Transmission)</b><br>
+11. <b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
 12. <b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
@@ -292,10 +292,10 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 18. <b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
 Yong-Kuk Park, Hae-Moon Seo, Kwang-Ho Won, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2005), Jeju Shilla Hotel, Korea, July 4~7, 2005
-19. <b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜 (Adaptive Medium Access Control Protocol for Low-Power Wireless Sensor Network)</b><br>
+19. <b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b><br>
 강정훈, 이민구, 윤명현, 유준재, 
 2005 정보 및 제어 심포지엄 (2005 Information and Control Symposium - ICS 2005), 단국대, May 24, 2005
-20. <b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜 (Enhanced Multi-hop Routing Protocol Using RSS in Sensor Network)</b><br>
+20. <b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b><br>
 이민구, 강정훈, 유준재, 윤명현, 
 2005 정보 및 제어 심포지엄 (2005 Information and Control Symposium - ICS 2005), 단국대, May 24, 2005
 21. <b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
@@ -306,7 +306,7 @@ The 15th Joint Conference on Communications & Information (JCCI 2005), April 27~
 1. <b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
 Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon, 
 KICS2004, 2004
-2. <b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가 (Design and Characterization of Measurement Jig for Embedded LTCC Balun)</b><br>
+2. <b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b><br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
 한국전기전자재료학회 2004년 하계학술대회, 2004.7.8.~10.
 
@@ -341,7 +341,7 @@ Proceedings of the International Workshop on Fault-Tolerant Control and Computin
 1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
 Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics (ICMT '99), pp.474∼479, Pusan, Korea, October 21-23, 1999
-2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계 (Design of a Communication Protocol for the Distributed Control System of the Nuclear Power Plants)</b><br>
+2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b><br>
 이성우, 윤명현, 문홍주, 이병윤, 
 1999도 한국에너지공학회 추계학술발표회 논문집 pp. 143~148 1999.11.
 3. [<b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b>][99-3]<br>
