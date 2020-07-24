@@ -154,7 +154,7 @@ The 3rd International Conference on Multimedia, Information Technology and Its A
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp.697~698, Busan, Korea, July 8~11, 2007
 3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
-Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
+Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, MyungHyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC) 2007, pp.147~148, Busan, Korea, July 8~11, 2007
 4. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-4]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
@@ -177,9 +177,6 @@ The 6th International Conference on Applications and Principles of Information S
 10. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
 The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp575~578, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
-11. [<b>WUSB Security and Threats: a Survey and a Discussion</b>][07-11]<br>
-Gunhee Lee, Dong-kyoo Kim, JaeSung Lim, SungHyun Yang, MyungHyun Yoon, 
-Jan. 2007
 
 ## 2006년
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
@@ -465,7 +462,6 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [07-4]: /home/paper/KMMS07.pdf
 [07-7]: /home/paper/ICUT2007-1.pdf
 [07-8]: /home/paper/ICUT2007-2.pdf
-[07-11]: /home/paper/ICUT2007-11.pdf
 [06-1]: /home/paper/ieek06-01.pdf
 [06-2]: /home/paper/SENSYS06.pdf
 [06-3]: /home/paper/cics06-01.pdf
