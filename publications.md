@@ -144,7 +144,7 @@ Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang,
 The 7th International Conference on Applications and Principles of Information Science (APIS 2008), Jan. 28~30 2008, Auckland, New Zealand
 15. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-15]<br>
 Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
-10th International Conference on Advanced Communication Technology(ICACT) 2008, Phoenix Park, Korea, Feb. 17~20, 2008 
+10th International Conference on Advanced Communication Technology(ICACT) 2008, pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008 
  
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
@@ -177,6 +177,9 @@ The 6th International Conference on Applications and Principles of Information S
 10. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
 The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp575~578, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
+11. [<b>WUSB Security and Threats: a Survey and a Discussion</b>][07-11]<br>
+Gunhee Lee, Dong-kyoo Kim, JaeSung Lim, SungHyun Yang, MyungHyun Yoon, 
+Jan. 2007
 
 ## 2006년
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
@@ -461,7 +464,7 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [07-4]: /home/paper/KMMS07.pdf
 [07-7]: /home/paper/ICUT2007-1.pdf
 [07-8]: /home/paper/ICUT2007-2.pdf
-
+[07-11]: /home/paper/ICUT2007-11.pdf
 [06-1]: /home/paper/ieek06-01.pdf
 [06-2]: /home/paper/SENSYS06.pdf
 [06-3]: /home/paper/cics06-01.pdf
