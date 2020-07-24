@@ -77,11 +77,9 @@ KT경제경영연구소 DIGIECO Focus, 2012.5.8.
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
 
-
 ## 2011년
-1. <b>WPAN기술 표준화 동향</b><br>
-윤명현, 장동현, 
-KEIT PD Issue Report 11-9호, 2011.11.
+1. [<b>WPAN기술 표준화 동향</b>][11-1]<br>
+윤명현, 장동현, KEIT PD Issue Report 11-9호, pp.19~31, 2011.11.
 
 ## 2009년
 1. [<b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b>][09-01]<br>
@@ -437,6 +435,7 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [12-3]: /home/paper/2012-PD3.pdf
 [12-4]: /home/paper/2012-04.pdf
 [12-5]: /home/paper/2012-05.pdf
+[11-1]: /home/paper/2011-PD1.pdf
 
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
