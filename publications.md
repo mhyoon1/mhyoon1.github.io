@@ -11,61 +11,62 @@ permalink: /publications/
 
 ## 2017년
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
-Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
-KSII Transactions on Internet and Information Systems (TIIS) Vol. 11, No. 2, pp.1250-1264, Feb. 2017
+Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; <u>Yoon, Myung-Hyun</u>, 
+KSII Transactions on Internet and Information Systems (TIIS) Vol.11, No.2, pp.1250-1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
-황영배, 윤명현, OSIA S&TR Journal Vol. 30, No. 1, pp.23~29, Mar. 2017
+황영배, 윤명현, OSIA S&TR Journal Vol.30, No.1, pp.23~29, Mar. 2017
 
 ## 2016년
 1. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-1]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
-The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2016, pp.159~161, June 26~29, 2016, Hokkaido, Japan
+The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2016, pp.159~161, Hokkaido Japan, June 26~29, 2016
 2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
-KSII The 8th International Conference on Internet(ICONI) 2016, Dec. 2016, Hong Kong
+KSII The 8th International Conference on Internet(ICONI) 2016, Hong Kong, Dec. 2016
 3. [<b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b>][16-3]<br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
-The 8th International Conference on Ubiquitous and Future Networks(ICUFN) 2016, pp.635~640, July 5~8, 2016, Vienna Austria
+The 8th International Conference on Ubiquitous and Future Networks(ICUFN) 2016, pp.635~640, Vienna Austria, July 5~8, 2016
 
 ## 2015년
 1. [<b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b>][15-1]<br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
-The 29th International Conference on Information Networking (ICOIN) 2015, Jan. 12~14 2015, Siam Reap, Cambodia
+The 29th International Conference on Information Networking (ICOIN) 2015, Siam Reap Cambodia, Jan. 12~14 2015
 2. [<b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b>][15-2]<br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
-ICCPE2015 & ICI2015, Nov. 27~30, 2015, Sun Moon Lake, NanTou, Taiwan
+ICCPE2015 & ICI2015, NanTou Taiwan, Nov. 27~30, 2015
 3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-3]<br>
-금성우, 육근웅, 문재원, 임태범, 윤명현, 통신학회지 Information and Communications Magazine 32 (4), 36-43 (2015.4.15.)
+금성우, 육근웅, 문재원, 임태범, 윤명현, 
+한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36-43, 2015.4.15.
 
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
-6th International Conference on Ubiquitous and Future Networks (ICUFN 2014), July 8~11 2014, Shanghai, China
+6th International Conference on Ubiquitous and Future Networks(ICUFN) 2014, Shanghai China, July 8~11 2014
 2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
-6th International Conference on Ubiquitous and Future Networks (ICUFN 2014), July 8~11 2014, Shanghai, China
+6th International Conference on Ubiquitous and Future Networks(ICUFN) 2014, Shanghai China, July 8~11 2014
 3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, and Byeungwoo Jeon, 
-2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2014), Jun. 25~27 2014, Tsinghua University, Beijing, China
+IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB) 2014, Beijing China, Jun. 25~27 2014
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin,  
-2014 International Conference on Computer Science and Service System (CSSS 2014), Jun. 13~15 2014, Bangkok, Thailand
+International Conference on Computer Science and Service System(CSSS) 2014, Bangkok, Thailand, Jun. 13~15 2014
 
 ## 2013년
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
-2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 2013.11.23, 고려대학교
+2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 고려대학교 서울, 2013.11.23
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2013), Jun. 5~7 2013, Brunel University, London, United Kingdom
+IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB) 2013, London, United Kingdom, Jun. 5~7 2013
 3. <b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
-37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto, Japan, July 22~26 2013
+37th Annual International Computer Software & Applications Conference(IEEE COMPSAC) 2013, Kyoto, Japan, July 22~26 2013
 
 ## 2012년
 1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈 (Policy Issues for Vitalizing Smart TV Industry</b>][12-1]<br>
 윤명현, 김대진, 
-Telecommunications Review 22권 2호, pp. 154~167, 2012년
+Telecommunications Review 22권 2호, pp.154~167, 2012
 2. <b>가전제품 접근성 향상기술 동향</b><br>
 윤명현, 오세윤, 
 KEIT PD Issue Report Vol.12, No.8, 2012.12.
