@@ -33,7 +33,7 @@ Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon,
 The 29th International Conference on Information Networking (ICOIN) 2015, pp.464~465, Siam Reap Cambodia, Jan. 12~14 2015
 2. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
-International Conference on Computing and Precision Engineering(ICCPE2015) & International Conference on Inventions(ICI2015), NanTou Taiwan, Nov. 27~30, 2015
+International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
 3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-3]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 
 한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36-43, 2015.4.15.
@@ -47,10 +47,10 @@ Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-
 6th International Conference on Ubiquitous and Future Networks(ICUFN) 2014, Shanghai China, July 8~11 2014
 3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, and Byeungwoo Jeon, 
-IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB) 2014, Beijing China, Jun. 25~27 2014
+2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27 2014
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
-Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin,  
-International Conference on Computer Science and Service System(CSSS) 2014, Bangkok, Thailand, Jun. 13~15 2014
+Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
+2014 International Conference on Computer Science and Service System(CSSS 2014), Bangkok Thailand, Jun. 13~15 2014
 
 ## 2013년
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
@@ -58,23 +58,30 @@ International Conference on Computer Science and Service System(CSSS) 2014, Bang
 2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 고려대학교 서울, 2013.11.23
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB) 2013, London, United Kingdom, Jun. 5~7 2013
+2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB2013), London, United Kingdom, Jun. 5~7 2013
 3. <b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
 37th Annual International Computer Software & Applications Conference(IEEE COMPSAC) 2013, Kyoto, Japan, July 22~26 2013
 
 ## 2012년
-1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈 (Policy Issues for Vitalizing Smart TV Industry</b>][12-1]<br>
+1. [<b>가전제품 접근성 향상기술 동향</b>][12-1]<br>
+윤명현, 오세윤, KEIT PD Issue Report 12-8호, 2012.9.
+2. [<b>스마트가전 현황 및 발전방향</b>][12-2]<br>
+윤명현, 오세윤, KEIT PD Issue Report 12-4호, 2012.5.
+3. [<b>2011년 연구개발 주요성과 및 2012년 추진계획</b>][12-3]<br>
+윤명현, KEIT PD Issue Report 12-1호, pp.27~31, 2012.2.
+2. [<b>스마트TV 산업 활성화 정책</b>][12-4]<br>
+윤명현, 김대진, 
+KT경제경영연구소 DIGIECO Focus, 2012.5.8.
+1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈 (Policy Issues for Vitalizing Smart TV Industry</b>][12-5]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
-2. <b>가전제품 접근성 향상기술 동향</b><br>
-윤명현, 오세윤, 
-KEIT PD Issue Report Vol.12, No.8, 2012.12.
+
 
 ## 2011년
 1. <b>WPAN기술 표준화 동향</b><br>
 윤명현, 장동현, 
-KEIT PD Issue Report Vol.11, No.9, 2011.11.
+KEIT PD Issue Report 11-9호, 2011.11.
 
 ## 2009년
 1. [<b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b>][09-01]<br>
@@ -425,7 +432,11 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [14-4]: /home/paper/2014-04.pdf
 [13-1]: /home/paper/2013-01.pdf
 [13-2]: /home/paper/2013-02.pdf
-[12-1]: /home/paper/2016-02.pdf
+[12-1]: /home/paper/2012-PD1.pdf
+[12-2]: /home/paper/2012-PD2.pdf
+[12-3]: /home/paper/2012-PD3.pdf
+[12-4]: /home/paper/2012-04.pdf
+[12-5]: /home/paper/2012-05.pdf
 
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
