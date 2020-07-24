@@ -28,12 +28,12 @@ Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon,
 The 8th International Conference on Ubiquitous and Future Networks(ICUFN) 2016, pp.635~640, Vienna Austria, July 5~8, 2016
 
 ## 2015년
-1. [<b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b>][15-1]<br>
+1. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b><br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
-The 29th International Conference on Information Networking (ICOIN) 2015, Siam Reap Cambodia, Jan. 12~14 2015
-2. [<b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b>][15-2]<br>
+The 29th International Conference on Information Networking (ICOIN) 2015, pp.464~465, Siam Reap Cambodia, Jan. 12~14 2015
+2. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
-ICCPE2015 & ICI2015, NanTou Taiwan, Nov. 27~30, 2015
+International Conference on Computing and Precision Engineering(ICCPE2015) & International Conference on Inventions(ICI2015), NanTou Taiwan, Nov. 27~30, 2015
 3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-3]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 
 한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36-43, 2015.4.15.
@@ -418,13 +418,11 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [16-1]: /home/paper/2016-01.pdf
 [16-2]: /home/paper/2016-02.pdf
 [16-3]: /home/paper/2016-03.pdf
-[15-1]: /home/paper/2015-01.pdf
-[15-2]: /home/paper/2015-02.pdf
 [15-3]: /home/paper/2015-03.pdf
-[14-1]: /home/paper/2017-01.pdf
-[14-2]: /home/paper/2017-02.pdf
-[14-3]: /home/paper/2016-01.pdf
-[14-4]: /home/paper/2016-02.pdf
+[14-1]: /home/paper/2014-01.pdf
+[14-2]: /home/paper/2014-02.pdf
+[14-3]: /home/paper/2014-03.pdf
+[14-4]: /home/paper/2014-04.pdf
 [13-1]: /home/paper/2013-01.pdf
 [13-2]: /home/paper/2013-02.pdf
 [12-1]: /home/paper/2016-02.pdf
