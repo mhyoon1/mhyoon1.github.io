@@ -22,10 +22,10 @@ at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 ## Work Experience
 * 2020~     Research Fellow, KICTech
 * 2017~2020 Director of IT Industry Promotion Agency, Gyungnam Technopark
-* 2013~2017 Vice president of Information & Communications Division, KETI
-* 2009~2012 Home Network/Information Appliance PD, KEIT
+* 2013~2017 Vice President of Communications & Media R&D Division, KETI
+* 2009~2012 Home Network/Information Appliances Program Director(PD), KEIT
 * 2001~2009 Director of Research Center, KETI
-* 1994~2001 KEPRI
+* 1994~2001 Senior Researcher, KEPRI
 * 1984~1989 KEPCO
 
 I am a research scientist at KETI, working on deep learning and its applications. 
