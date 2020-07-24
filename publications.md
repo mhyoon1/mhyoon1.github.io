@@ -130,7 +130,7 @@ UCT 2008, 2008.7.23
 10. <b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b><br>
 엄홍식, 강정훈, 고원석, 고정권, 이민구, 임호정, 윤명현, 
 UCT 2008, 2008.7.23 
-11. <b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b><br>
+11. [<b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b>][08-11]<br>
 고원식, 강정훈, 엄흥식, 이민구, 임호정, 윤명현, 장영민, 
 한국통신학회 하계종합학술대회, 2008.7.2
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
@@ -457,6 +457,7 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [10-2]: /home/paper/2010-PD2.pdf
 [10-3]: /home/paper/2010-PD3.pdf
 
+[08-11]: /home/paper/2008-11.pdf
 [08-15]: /home/paper/2008-15.pdf
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
