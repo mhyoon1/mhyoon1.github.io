@@ -142,7 +142,10 @@ Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon,
 14. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
 The 7th International Conference on Applications and Principles of Information Science (APIS 2008), Jan. 28~30 2008, Auckland, New Zealand
-
+15. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-15]<br>
+Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
+10th International Conference on Advanced Communication Technology(ICACT) 2008, Phoenix Park, Korea, Feb. 17~20, 2008 
+ 
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
@@ -451,6 +454,7 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [10-2]: /home/paper/2010-PD2.pdf
 [10-3]: /home/paper/2010-PD3.pdf
 
+[08-15]: /home/paper/2008-15.pdf
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
 [07-3]: /home/paper/ITC-CSCC07-1.pdf
