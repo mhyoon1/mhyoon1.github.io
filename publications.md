@@ -67,7 +67,7 @@ Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum,
 1. [<b>가전제품 접근성 향상기술 동향</b>][12-1]<br>
 윤명현, 오세윤, KEIT PD Issue Report 12-8호, 2012.9.
 2. [<b>스마트가전 현황 및 발전방향</b>][12-2]<br>
-윤명현, 오세윤, KEIT PD Issue Report 12-4호, 2012.5.
+윤명현, 장동현, KEIT PD Issue Report 12-4호, 2012.5.
 3. [<b>2011년 연구개발 주요성과 및 2012년 추진계획</b>][12-3]<br>
 윤명현, KEIT PD Issue Report 12-1호, pp.27~31, 2012.2.
 2. [<b>스마트TV 산업 활성화 정책</b>][12-4]<br>
@@ -80,6 +80,16 @@ Telecommunications Review 22권 2호, pp.154~167, 2012
 ## 2011년
 1. [<b>WPAN기술 표준화 동향</b>][11-1]<br>
 윤명현, 장동현, KEIT PD Issue Report 11-9호, pp.19~31, 2011.11.
+2. [<b>Digital Holography 기술 동향 및 전망</b>][11-2]<br>
+윤명현, KEIT PD Issue Report 11-3호, pp.51~67, 2011.5.
+
+## 2010년
+1. [<b>제로 에너지 하우스 현황 및 전망</b>][10-1]<br>
+윤명현, KEIT PD Issue Report 10-11호, pp.55~7631, 2010.11.
+2. [<b>실감감성형 정보가전기기의 현재와 미래</b>][10-2]<br>
+윤명현, KEIT PD Issue Report 10-5호, pp.71~88, 2010.5.
+3. [<b>홈네트워크 상호운용성 확보를 위한 한국형 표준 플랫폼</b>][10-3]<br>
+윤명현, KEIT PD Issue Report 10-3호, pp.55~68, 2010.3.
 
 ## 2009년
 1. [<b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b>][09-01]<br>
@@ -436,6 +446,10 @@ Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
 [12-4]: /home/paper/2012-04.pdf
 [12-5]: /home/paper/2012-05.pdf
 [11-1]: /home/paper/2011-PD1.pdf
+[11-2]: /home/paper/2011-PD2.pdf
+[10-1]: /home/paper/2010-PD1.pdf
+[10-2]: /home/paper/2010-PD2.pdf
+[10-3]: /home/paper/2010-PD3.pdf
 
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
