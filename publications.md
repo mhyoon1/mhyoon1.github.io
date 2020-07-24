@@ -308,10 +308,10 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 KICS2004, 2004
 2. <b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b><br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
-한국전기전자재료학회 2004년 하계학술대회, 2004.7.8.~10.
+한국전기전자재료학회 2004년 하계학술대회, 2004.7.8~10.
 
 ## 2003년
-1. <b>Design of a Simple Home Device Control Protocol</b><br>
+1. <b>Design of a Simple Home Device  Protocol</b><br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 Intrnational Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
 
@@ -340,7 +340,7 @@ Proceedings of the International Workshop on Fault-Tolerant Control and Computin
 ## 1999년
 1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
-Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics (ICMT '99), pp.474∼479, Pusan, Korea, October 21-23, 1999
+Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics (ICMT '99), pp.474∼479, Pusan Korea, Oct. 21-23, 1999
 2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b><br>
 이성우, 윤명현, 문홍주, 이병윤, 
 1999도 한국에너지공학회 추계학술발표회 논문집 pp. 143~148 1999.11.
@@ -358,7 +358,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D94∼D97, 1999.10.
 7. [<b>네트워크 관리 소프트웨어와 매체 접속 계층의 결함 감지 및 이중 채널 관리기를 이용한 제어 통신망의 매체 이중화 관리 방법</b>][99-7]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 이재민, 김광현, 권욱현, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, Oct. 14~16, 1999, 용인 고등기술원
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, 용인, 1999.10.14~16
 8. [<b>UML을 이용한 원전 디지털 제어시스템의 소프트웨어 설계 및 검증</b>][99-8]<br>
 이병윤, 신창훈, 문홍주, 이성우, 윤명현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B422∼B425, 1999.10.
@@ -375,13 +375,13 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 한국원자력학회 '98추계학술발표회 논문집, 1998.10.
 3. <b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b><br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
-대한전기학회 하계학술대회 논문집 pp.B1013∼B1016 , 1999.7.
+대한전기학회 하계학술대회 논문집, pp.B1013∼B1016, 1999.7.
 4. [<b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b>][98-4]<br>
 윤명현, 김기훈, 신창훈, 
 한국원자력학회 '98춘계학술발표회 논문집(I), pp.258∼263, 1998.5.
 5. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
-6th International Conference on Nuclear Engineering (ICONE-6), May 10~15, 1998, San Diego, California
+6th International Conference on Nuclear Engineering(ICONE-6), May 10~15, 1998, San Diego, California
 
 ## 1997년
 1. <b>A New Method of Rod Drop Tiime Measurement Using Movable Coil Signals</b><br>
@@ -392,10 +392,10 @@ EPRI Technical Conference, Nov. 1997
 '97한국자동제어학술회의 논문집(Proceedings of the 12th KACC), pp.915∼918, 1997.10.
 3. [<b>Automatic Tuning Algorithm of the PID Controller Using Two Nyquist Points Identification</b>][97-3]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon, Ik-Soo Park, 
-Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225∼1228, University of Tokushima, Japan, July 29~31, 1997
+Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225∼1228, Tokushima, Japan, July 29~31, 1997
 4. [<b>Design of On-line Auto-tuning PID Controller for Power Plant Process Control</b>][97-4]<br>
 Myung-Hyun Yoon, Chang-Hoon Shin, 
-Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221∼1224, University of Tokushima, Japan, July 29~31, 1997
+Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221∼1224, Tokushima, Japan, July 29~31, 1997
 5. [<b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b>][97-5]<br>
 Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson, 
 14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165∼170, July 1997
@@ -408,28 +408,24 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 윤명현, 신창훈, 박익수, 
 '96 한국자동제어학술회의 논문집 (Proceedings of the 11th KACC), pp.1008∼1011, 1996.10.
 
-## 1993년
+## 1991~1993년
 1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE, Vol. 12A, pp. 767∼774 1993.10.
-
-## 1992년
-1. <b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b><br>
+Review of Progress in Quantitative NDE, Vol.12A, pp.767∼774, Oct. 1993
+2. <b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE, Vol. 11A, pp. 959∼965 1992.10.
-
-## 1991년
-1. <b>Estimation of Colored Plant Noise Using Kalman Filter Based Deconvolution</b><br>
+Review of Progress in Quantitative NDE, Vol.11A, pp.959∼965, Oct. 1992
+3. <b>Estimation of Colored Plant Noise Using Kalman Filter Based Deconvolution</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Proceedings of the 1991 IEEE International Conference on Systems Engineering, pp.408∼411, Aug. 1991
-2. <b>Deconvolution of Ultrasonic Backscattered Signals Using the Kalman Filter</b><br>
+4. <b>Deconvolution of Ultrasonic Backscattered Signals Using the Kalman Filter</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE, Vol. 10A, pp. 733∼740, Oct. 1991
+Review of Progress in Quantitative NDE, Vol.10A, pp.733∼740, Oct. 1991
 
 ## 1985년
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
-Nuclear Science and Engineering, Vol. 90, pp. 203∼209, Oct. 1985
+Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
 
 [17-1]: /home/paper/2017-01.pdf
 [17-2]: /home/paper/2017-02.pdf
