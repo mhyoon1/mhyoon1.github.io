@@ -121,15 +121,15 @@ The 8th International Conference on Applications and Principles of Information S
 5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b><br>
 이민구, 강정훈, 임호정, 윤명현, 
 정보 및 제어 학술대회(CICS 2008), 현대성우리조트, 2008.10.31~11.1
-6. <b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b><br>
+6. [<b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b>][08-6]<br>
 조수형, 윤명현, 
-한국멀티미디어학회지(특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호, 2008.9. ISSN 1229-778X
-7. <b>구속형 위치인지 서비스 기술 및 응용</b><br>
+한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.19~26, 2008.9.
+7. [<b>구속형 위치인지 서비스 기술 및 응용</b>][08-7]<br>
 신준호, 윤명현, 
-한국멀티미디어학회지(특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호, 2008.9., ISSN 1229-778X
-8. <b>UWB 기반 무선 위치인지 서비스 기술</b><br>
+한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.27~34, 2008.9.
+8. [<b>UWB 기반 무선 위치인지 서비스 기술</b>][08-8]<br>
 강정훈, 이민구, 임호정, 유준재, 윤명현, 고원식 
-한국멀티미디어학회지(특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호, 2008.9., ISSN 1229-778X
+한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9.
 9. <b>웹기반 저전력 USN 시스템 아키텍처</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권
 UCT 2008, 2008.7.23
@@ -465,6 +465,9 @@ Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
 [09-2]: /home/paper/2009-PD2.pdf
 [09-3]: /home/paper/2009-PD3.pdf
 
+[08-6]: /home/paper/KMS-1.pdf
+[08-7]: /home/paper/KMS-2.pdf
+[08-8]: /home/paper/KMS-3.pdf
 [08-11]: /home/paper/2008-11.pdf
 [08-15]: /home/paper/2008-15.pdf
 [07-1]: /home/paper/MITA2007.pdf
