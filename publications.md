@@ -36,7 +36,7 @@ Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myun
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
 3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-3]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 
-한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36-43, 2015.4.15.
+한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36~43, 2015.4.15.
 
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
@@ -158,7 +158,7 @@ Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang,
 The 3rd International Conference on Multimedia, Information Technology and Its Applications(MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
 2. [<b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b>][07-2]<br>
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp.697~698, Busan Korea, July 8~11, 2007
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.697~698, Busan Korea, July 8~11, 2007
 3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
 Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, MyungHyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.147~148, Busan Korea, July 8~11, 2007
@@ -167,10 +167,10 @@ Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang,
 한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
 5. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-5]<br>
 남상엽, 이민구, 강정훈, 윤명현, 
-대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116-122, June, 2007
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June, 2007
 6. [<b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b>][07-6]<br>
 박우출, 이명수, 윤명현, 김성동, 양성현, 
-대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128-136, June, 2007
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June, 2007
 7. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
@@ -199,7 +199,7 @@ Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo,
 The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulder, Colorado, Oct. 31~Nov. 3, 2006
 3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
 임호정, 유준재, 강정훈, 이민구, 윤명현, 이명수, 심화섭, 
-2006년도 정보 및 제어 학술대회 (CIIS'06) 논문집, pp.491~493, 평창, 2006.10.27.~28
+2006년도 정보 및 제어 학술대회(CIIS'06) 논문집, pp.491~493, 평창, 2006.10.27~28
 4. [<b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>][06-4]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006 
@@ -208,10 +208,10 @@ Woo-Chool Park, Myung-Hyun Yoon,
 SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
 6. <b>지능 공간 실현을 위한 위치인지 시스템 개발</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
-UIT 연구회 논문지(Journal of UIT Reserach) Vol. 2, No. 1, pp99~104, 한국정보처리학회 UIT연구회, October 2006 (ISSN 1738-8791)
+UIT 연구회 논문지(Journal of UIT Reserach) Vol.2, No.1, pp.99~104, 한국정보처리학회 UIT연구회, 2006.10. (ISSN 1738-8791)
 7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
-한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 제주, 2006.7.5~7
+한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 라마다프라자제주호텔, 2006.7.5~7
 8. [<b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>][06-8]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.191~194, Dailian China, July 4~6, 2006
@@ -223,16 +223,16 @@ Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-S
 The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing(SUTC 2006), pp.256~261, Taichung Taiwan, June 5~7, 2006
 11. <b>무선 센서 네트워크 운영체제 기술 동향 분석</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
-2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29
 12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 장동섭, 
-2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.174~176, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.174~176, 서울시립대학교, 2006.4.29
 13. [<b>홈 네트워크에서의 USN 보안 고려사항 분석</b>][06-13]<br>
 박우출, 박현문, 이명수, 윤명현, 
-2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29
 14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b><br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
-2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 8th International Conference on Advanced Communication Technology(ICACT 2006), Pheonix Park, Korea, Feb. 20~22, 2006
@@ -252,7 +252,7 @@ The 5th Asia Pacific International Symposium on Information Technology(APIS 2006
 ## 2005년
 1. <b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b><br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, and Seong-Dong Kim, 
-제9회 차세대 통신소프트웨어 학술대회 (2005 Next Generation Communication Software – NCS 2005), 휘닉스파크, 2005.12.7~9
+제9회 차세대 통신소프트웨어 학술대회(NCS 2005), 휘닉스파크, 2005.12.7~9
 2. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-2]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
@@ -282,7 +282,7 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-H
 2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
 11. <b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
-2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
+2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, Oct. 28-29, 2005
 12. [<b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-12]<br>
 Yong-Kuk Park, Won-Ki Jeon, Hae-Moon Seo, Yeon-Kuk Moon, Jaeho Kim, Byoung-Chul Song, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
