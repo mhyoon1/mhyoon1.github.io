@@ -12,7 +12,7 @@ permalink: /publications/
 ## 2017년
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
-KSII Transactions on Internet and Information Systems(TIIS) Vol.11, No.2, pp.1250-1264, Feb. 2017
+KSII Transactions on Internet and Information Systems(TIIS) Vol.11, No.2, pp.1250~1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30, No.1, pp.23~29, Mar. 2017
 
@@ -45,8 +45,8 @@ Myung-Hyun Yoon, Kue Back Lee, Chae Min Park,
 2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11, 2014
-3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
-Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, and Byeungwoo Jeon, 
+3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
+Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27, 2014
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
@@ -59,7 +59,7 @@ Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), London, United Kingdom, Jun. 5~7, 2013
-3. <b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b><br>
+3. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
 37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto Japan, July 22~26, 2013
 
@@ -86,7 +86,7 @@ Telecommunications Review 22권 2호, pp.154~167, 2012
 ## 2010년
 1. [<b>제로 에너지 하우스 현황 및 전망</b>][10-1]<br>
 윤명현, KEIT PD Issue Report 10-11호, pp.55~76, 2010.11.
-2. [<b>실감감성형 정보가전기기의 현재와 미래</b>][10-2]<br>
+2. [<b>실감•감성형 정보가전기기의 현재와 미래</b>][10-2]<br>
 윤명현, KEIT PD Issue Report 10-5호, pp.71~88, 2010.5.
 3. [<b>홈네트워크 상호운용성 확보를 위한 한국형 표준 플랫폼</b>][10-3]<br>
 윤명현, KEIT PD Issue Report 10-3호, pp.55~68, 2010.3.
@@ -108,10 +108,10 @@ The 8th International Conference on Applications and Principles of Information S
 ## 2008년
 1. <b>센서 인터페이스를 위한 AFE 회로의 설계</b><br>
 문연국, 김동순, 황태호, 원광호, 윤명현, 
-제12회 차세대통신소프트웨어 학술대회(NCS2008), 휘닉스파크, 2008.12.3~5
+제12회 차세대통신소프트웨어 학술대회(NCS 2008), 휘닉스파크, 2008.12.3~5
 2. <b>환경센서 검출을 위한 디지털 출력회로의 설계</b><br>
 문연국, 김동순, 황태호, 원광호, 윤명현, 
-제12회 차세대통신소프트웨어 학술대회(NCS2008), 휘닉스파크, 2008.12.3~5
+제12회 차세대통신소프트웨어 학술대회(NCS 2008), 휘닉스파크, 2008.12.3~5
 3. <b>유비쿼터스 센서 네트워크를 위한 웹 기법</b><br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 한국정보과학회 학술심포지엄, 2008.11.28
@@ -131,7 +131,7 @@ The 8th International Conference on Applications and Principles of Information S
 강정훈, 이민구, 임호정, 유준재, 윤명현, 고원식 
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9.
 9. <b>웹기반 저전력 USN 시스템 아키텍처</b><br>
-강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권
+강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권, 
 UCT 2008, 2008.7.23
 10. <b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b><br>
 엄홍식, 강정훈, 고원석, 고정권, 이민구, 임호정, 윤명현, 
@@ -147,7 +147,7 @@ Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon,
 한국건축친환경설비학회 춘계학술발표대회, 2008.4.12
 14. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
-The 7th International Conference on Applications and Principles of Information Science (APIS 2008), Jan. 28~30 2008, Auckland, New Zealand
+The 7th International Conference on Applications and Principles of Information Science(APIS 2008), Auckland, New Zealand, Jan. 28~30, 2008
 15. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-15]<br>
 Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
 10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008 
@@ -155,7 +155,7 @@ Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon,
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 3rd International Conference on Multimedia, Information Technology and Its Applications (MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
+The 3rd International Conference on Multimedia, Information Technology and Its Applications(MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
 2. [<b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b>][07-2]<br>
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp.697~698, Busan Korea, July 8~11, 2007
@@ -176,10 +176,10 @@ Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun,
 Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
 8. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b><br>
 Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B. Kim, 
-International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, 12-14 Feb. 2007
+International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
 9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-7]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
-Internationl Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai, UAE, Feb. 12-14, 2007
+Internationl Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai, UAE, Feb. 12~14, 2007
 10. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-8]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, and H.S. Sim, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
