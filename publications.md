@@ -19,18 +19,18 @@ KSII Transactions on Internet and Information Systems (TIIS) Vol.11, No.2, pp.12
 ## 2016년
 1. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-1]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
-The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST) 2016, pp.159~161, Hokkaido Japan, June 26~29, 2016
+The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
 2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
-KSII The 8th International Conference on Internet(ICONI) 2016, Hong Kong, Dec. 2016
+KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
 3. [<b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b>][16-3]<br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
-The 8th International Conference on Ubiquitous and Future Networks(ICUFN) 2016, pp.635~640, Vienna Austria, July 5~8, 2016
+The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016
 
 ## 2015년
 1. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b><br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
-The 29th International Conference on Information Networking (ICOIN) 2015, pp.464~465, Siam Reap Cambodia, Jan. 12~14 2015
+The 29th International Conference on Information Networking (ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14 2015
 2. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
@@ -41,10 +41,10 @@ International Conference on Computing and Precision Engineering(ICCPE 2015) & In
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN) 2014, Shanghai China, July 8~11 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11 2014
 2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN) 2014, Shanghai China, July 8~11 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11 2014
 3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, and Byeungwoo Jeon, 
 2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27 2014
@@ -58,10 +58,10 @@ Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park
 2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 고려대학교 서울, 2013.11.23
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB2013), London, United Kingdom, Jun. 5~7 2013
+2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), London, United Kingdom, Jun. 5~7 2013
 3. <b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
-37th Annual International Computer Software & Applications Conference(IEEE COMPSAC) 2013, Kyoto, Japan, July 22~26 2013
+37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto, Japan, July 22~26 2013
 
 ## 2012년
 1. [<b>가전제품 접근성 향상기술 동향</b>][12-1]<br>
@@ -85,17 +85,23 @@ Telecommunications Review 22권 2호, pp.154~167, 2012
 
 ## 2010년
 1. [<b>제로 에너지 하우스 현황 및 전망</b>][10-1]<br>
-윤명현, KEIT PD Issue Report 10-11호, pp.55~7631, 2010.11.
+윤명현, KEIT PD Issue Report 10-11호, pp.55~76, 2010.11.
 2. [<b>실감감성형 정보가전기기의 현재와 미래</b>][10-2]<br>
 윤명현, KEIT PD Issue Report 10-5호, pp.71~88, 2010.5.
 3. [<b>홈네트워크 상호운용성 확보를 위한 한국형 표준 플랫폼</b>][10-3]<br>
 윤명현, KEIT PD Issue Report 10-3호, pp.55~68, 2010.3.
 
 ## 2009년
-1. [<b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b>][09-01]<br>
+1. [<b>지능형홈 국가 표준/인증 체계 정비를 통한 국내 산업 보호</b>][09-1]<br>
+윤명현, KEIT PD Issue Report 09-9호, pp.19~24, 2009.12.29
+2. [<b>실감 체험 4D 영화의 대중화: 멀지않은 미래</b>][09-2]<br>
+윤명현, KEIT PD Issue Report 09-5호, pp.11~13, 2009.10.20
+3. [<b>시범사업 확대를 통한 기술 사업화/산업 활성화</b>][09-3]<br>
+윤명현, KEIT PD Issue Report 09-1호, pp.32~34, 2009.7.14
+4. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
 Woochool Park, Hyunmoon Park, Haemoon Seo, Myunghyun Yoon, Sungdong Kim, Sunghyun Yang, 
 The 8th International Conference on Applications and Principles of Information Science (APIS 2009), 
-2. [<b>The Requirements of Error Components for Satisfying SSR in the WPAN Transmitter</b>][09-02]<br>
+2. <b>The Requirements of Error Components for Satisfying SSR in the WPAN Transmitter</b><br>
 Yong-Kuk Park, Min-Goo Lee, Jun-Jae Yoo, Myung-Hyun Yoon, Hyeong-Seok Kim, 
 The 8th International Conference on Applications and Principles of Information Science (APIS 2009),
 
@@ -449,6 +455,9 @@ Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
 [10-1]: /home/paper/2010-PD1.pdf
 [10-2]: /home/paper/2010-PD2.pdf
 [10-3]: /home/paper/2010-PD3.pdf
+[09-1]: /home/paper/2009-PD1.pdf
+[09-2]: /home/paper/2009-PD2.pdf
+[09-3]: /home/paper/2009-PD3.pdf
 
 [08-11]: /home/paper/2008-11.pdf
 [08-15]: /home/paper/2008-15.pdf
