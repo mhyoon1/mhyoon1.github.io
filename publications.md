@@ -164,7 +164,7 @@ Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, MyungHyun Yoon,
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.147~148, Busan Korea, July 8~11, 2007
 4. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-4]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
-한국멀티미디어학회논문지, Vol.10, No.6, pp.745~753, June. 2007
+한국멀티미디어학회논문지(Journal of Korea Multimedia Society), Vol.10, No.6, pp.745~753, June. 2007
 5. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-5]<br>
 남상엽, 이민구, 강정훈, 윤명현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications), Vol.2, No.2, pp.116-122, June, 2007
@@ -211,108 +211,108 @@ SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
 UIT 연구회 논문지 (Journal of UIT Reserach) Vol. 2, No. 1, pp99~104, 한국정보처리학회 UIT연구회, October 2006 (ISSN 1738-8791)
 7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
-한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 라마다프라자 제주호텔, 2006.7.5.~7.7
+한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 제주, 2006.7.5~7
 8. [<b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>][06-8]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp.191~194, Dailian, China, July 4~6, 2006
+The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.191~194, Dailian China, July 4~6, 2006
 9. [<b>Web-supported Mesh Sensor Network Technology for Asset Management System</b>][06-9]<br>
 Min Goo Lee, Myung Hyun Yoon, Jung Hoon Kang, Jun Jae Yoo, Yun Sik Lee, Han Jong Ryu, 
-The 2006 International Conference on Multimedia, Information Technology and Its Applications (MITA 2006), pp.355-358, Dailian, China, July 4-6, 2006 
+The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.355-358, Dailian China, July 4-6, 2006 
 10. [<b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b>][06-10]<br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
-The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC 2006), pp.256-261, Taichung, Taiwan, June 5-7, 2006
+The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing(SUTC 2006), pp.256-261, Taichung Taiwan, June 5-7, 2006
 11. <b>무선 센서 네트워크 운영체제 기술 동향 분석</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
-2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29.
 12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 장동섭, 
-2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.174-176, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.174-176, 서울시립대학교, 2006.4.29.
 13. [<b>홈 네트워크에서의 USN 보안 고려사항 분석</b>][06-13]<br>
 박우출, 박현문, 이명수, 윤명현, 
-2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29.
 14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b><br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
-2006년도 정보 및 제어 심포지움 (ICS '06) 논문집, pp.162-164, 서울시립대학교, 2006.4.29.
+2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162-164, 서울시립대학교, 2006.4.29.
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 8th International Conference on Advanced Communication Technology (ICACT 2006), Pheonix Park, Korea, Feb. 20~22, 2006
+The 8th International Conference on Advanced Communication Technology(ICACT 2006), Pheonix Park, Korea, Feb. 20~22, 2006
 16. [<b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b>][06-16]<br>
 Soohyung Cho, Daewhan Kim, Myunghyun Yoon, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 17. [<b>The Development of Localization Server System for Location-Awareness in Smart Home</b>][06-17]<br>
 Hojung Lim, Jeonghoon Kang, Mingoo Lee, Junjae Yoo, Myunghyun Yoon, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 18. [<b>A Study on the Efficient Routing Algorithm for Asset Management System</b>][06-18]<br>
 Mingoo Lee, Junghoon Kang, Hojung Lim, Myunghyun Yoon, Junjae Yoo, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 19. [<b>Home Automation Control with Indoor Positioning System</b>][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
-The 5th Asia Pacific International Symposium on Information Technology (APIS 2006), Hangzhou, China, Jan. 9~10, 2006
+The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 
 ## 2005년
-1. <b>Design of a CMOS Analog Front End for WPAN Receivers</b><br>
+1. <b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b><br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, and Seong-Dong Kim, 
 제9회 차세대 통신소프트웨어 학술대회 (2005 Next Generation Communication Software – NCS 2005), 휘닉스파크, 2005.12.7~9
-2. <b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
+2. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-2]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
-The 7th Conference on Electronics and Information Communications (CEIC 2005), Dec. 1~2, 2005 (제7회 전자정보통신 학술대회, 온양관광호텔)
-3. <b>A Fully CMOS Integrated Radio Transceiver for Wireless Sensor Network Applications</b><br>
+제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
+3. [<b>A Fully CMOS Integrated Radio Transceiver for Wireless Sensor Network Applications</b>][0-5-3]<br>
 Hae-Moon Seo, Yeon Kuk Moon, Yong-Kuk Park, Sung-Ok Lim, Sang-Shin Lee, Byung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Sung-Dong Kim, 
-The 7th Conference on Electronics and Information Communications (CEIC 2005), Dec. 1~2, 2005 (제7회 전자정보통신 학술대회, 온양관광호텔)
-4. <b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b><br>
-Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, and Seong-Dong Kim, 
-The 7th Conference on Electronics and Information Communications (CEIC 2005), Dec. 1~2, 2005 (제7회 전자정보통신 학술대회, 온양관광호텔)
-5. <b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b><br>
+제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
+4. [<b>Design of a CMOS Analog Front End for WPAN Receivers</b>][05-4]<br>
+Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
+제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
+5. [<b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b>][05-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
-2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
-6. <b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b><br>
+2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28-29
+6. [<b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b>][05-6]<br>
 박우출, 이형수, 윤명현, 
-2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
+2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28-29
 7. <b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b><br>
 이민구, 강정훈, 임호정, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
-8. <b>위치 정보를 이용한 가전기기 제어 시스템 구현</b><br>
+8. [<b>위치 정보를 이용한 가전기기 제어 시스템 구현</b>][05-8]<br>
 박우출, 윤명현, 
-2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
-9. <b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b><br>
+2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28-29
+9. [<b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b>][05-9]<br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
-2005 정보 및 제어 학술대회 (2005 conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
-10. <b>메쉬 센서 네트워크 기술 동향 분석</b><br>
+2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28-29
+10. [<b>메쉬 센서 네트워크 기술 동향 분석</b>][05-10]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
-2005 정보 및 제어 학술대회 (2005 conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
+2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28-29
 11. <b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28-29, 2005
-12. <b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
+12. [<b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-12]<br>
 Yong-Kuk Park, Won-Ki Jeon, Hae-Moon Seo, Yeon-Kuk Moon, Jaeho Kim, Byoung-Chul Song, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
-2005 Asia-Pacific Conference on Communications (APCC 2005), Perth, Western Australia, Oct. 3-5 2005
-13. <b>A Fully CMOS Integrated RF Transceiver for Ubiquitous Networks in Sub-GHz ISM-band</b><br>
-Hae-Moon Seo, Yeon-Kug Moon, Yong-Kuk Park, Sang-Shin Lee, Tae-Ho Hwang, Byoung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, June-Jae Yoo, and Seong-Dong Kim, 
-2005 Asia-Pacific Conference on Communications (APCC 2005), Perth, Western Australia, Oct. 3-5 2005
-14. <b>Design of a CMOS Highly Linear Channel Selection Filter and Programmable Gain Amplifier for a WPAN Zero-IF Receiver</b><br>
-Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Yup Ahn, Ho-Jung Lim, June-Jae Yoo, and Seong-Dong Kim, 
-2005 Asia-Pacific Conference on Communications (APCC 2005), Perth, Western Australia, Oct. 3~5 2005
-15. <b>센서 네트워크 및 애플리케이션 기술 동향</b><br>
+2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
+13. [<b>A Fully CMOS Integrated RF Transceiver for Ubiquitous Networks in Sub-GHz ISM-band</b>][05-13]<br>
+Hae-Moon Seo, Yeon-Kug Moon, Yong-Kuk Park, Sang-Shin Lee, Tae-Ho Hwang, Byoung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
+2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
+14. [<b>Design of a CMOS Highly Linear Channel Selection Filter and Programmable Gain Amplifier for a WPAN Zero-IF Receiver</b>][05-14]<br>
+Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Yup Ahn, Ho-Jung Lim, June-Jae Yoo, Seong-Dong Kim, 
+2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3~5 2005
+15. [<b>센서 네트워크 및 애플리케이션 기술 동향</b>][05-15]<br>
 강정훈, 유준재, 윤명현, 이민구, 
-전자공학회지 (The Magazine of the IEEK) 제32권 7호, 2005. 7.
-16. <b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b><br>
+전자공학회지(The Magazine of the IEEK) 제32권 7호, 2005.7.
+16. [<b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b>][05-16]<br>
 Yeonkug Moon, Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
-The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2005), Jeju Shilla Hotel, Korea, July 4~7, 2005
-17. <b>A Low Power Fully CMOS Integrated RF Transceiver for Wireless Sensor Networks in Sub-GHZ ISM-band</b><br>
+The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
+17. [<b>A Low Power Fully CMOS Integrated RF Transceiver for Wireless Sensor Networks in Sub-GHZ ISM-band</b>][05-17]<br>
 Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
-The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2005), Jeju Shilla Hotel, Korea, July 4~7, 2005
-18. <b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
+The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
+18. [<b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-18]<br>
 Yong-Kuk Park, Hae-Moon Seo, Kwang-Ho Won, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
-The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2005), Jeju Shilla Hotel, Korea, July 4~7, 2005
-19. <b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b><br>
+The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
+19. [<b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b>][05-19]<br>
 강정훈, 이민구, 윤명현, 유준재, 
-2005 정보 및 제어 심포지엄 (2005 Information and Control Symposium - ICS 2005), 단국대, May 24, 2005
-20. <b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b><br>
+2005 정보 및 제어 심포지엄(ICS 2005), 단국대, 2005.5.24
+20. [<b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b>][05-20]<br>
 이민구, 강정훈, 유준재, 윤명현, 
-2005 정보 및 제어 심포지엄 (2005 Information and Control Symposium - ICS 2005), 단국대, May 24, 2005
-21. <b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
+2005 정보 및 제어 심포지엄(ICS 2005), 단국대, 2005.5.24
+21. [<b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
-The 15th Joint Conference on Communications & Information (JCCI 2005), April 27~29, 2005 (제15회 통신 정보 합동 학술대회, 대구인터불고호텔)
+제15회 통신 정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
 
 ## 2004년
 1. <b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
@@ -490,6 +490,25 @@ Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
 [06-17]: /home/paper/APIS06-02.pdf
 [06-18]: /home/paper/APIS06-03.pdf
 [06-19]: /home/paper/APIS06-04.pdf
+
+[05-2]: /home/paper/CEIC05-03.pdf
+[05-3]: /home/paper/CEIC05-01.pdf
+[05-4]: /home/paper/CEIC05-02.pdf
+[05-5]: /home/paper/CICS05-05.pdf
+[05-6]: /home/paper/CICS05-04.pdf
+[05-8]: /home/paper/CICS05-03.pdf
+[05-9]: /home/paper/CICS05-01.pdf
+[05-10]: /home/paper/CICS05-02.pdf
+[05-12]: /home/paper/APCC05-03.pdf
+[05-13]: /home/paper/APCC05-02.pdf
+[05-14]: /home/paper/APCC05-01.pdf
+[05-15]: /home/paper/IEEK-01.pdf
+[05-16]: /home/paper/CSCC05-03.pdf
+[05-17]: /home/paper/CSCC05-02.pdf
+[05-18]: /home/paper/CSCC05-01.pdf
+[05-19]: /home/paper/ICS05-02.pdf
+[05-20]: /home/paper/ICS05-01.pdf
+[05-21]: /home/paper/JCCI05-01.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
