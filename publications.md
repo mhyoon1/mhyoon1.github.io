@@ -315,12 +315,12 @@ Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-J
 제15회 통신 정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
 
 ## 2004년
-1. <b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b><br>
+1. [<b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][04-1]<br>
 Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon, 
 KICS2004, 2004
-2. <b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b><br>
+2. [<b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b>][04-2]<br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
-한국전기전자재료학회 2004년 하계학술대회, 2004.7.8~10.
+한국전기전자재료학회 2004년 하계학술대회, 2004.7.8~10
 
 ## 2003년
 1. <b>Design of a Simple Home Device  Protocol</b><br>
@@ -509,6 +509,8 @@ Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
 [05-19]: /home/paper/ICS05-02.pdf
 [05-20]: /home/paper/ICS05-01.pdf
 [05-21]: /home/paper/JCCI05-01.pdf
+[05-1]: /home/paper/KICS04-01.pdf
+[05-2]: /home/paper/em04.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
