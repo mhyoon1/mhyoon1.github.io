@@ -155,37 +155,40 @@ Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon,
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 3rd International Conference on Multimedia, Information Technology and Its Applications (MITA 2007), pp.45~48, Manila, Philippines, Aug. 19~22, 2007
+The 3rd International Conference on Multimedia, Information Technology and Its Applications (MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
 2. [<b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b>][07-2]<br>
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp.697~698, Busan, Korea, July 8~11, 2007
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2007), pp.697~698, Busan Korea, July 8~11, 2007
 3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
 Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, MyungHyun Yoon, 
-The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC) 2007, pp.147~148, Busan, Korea, July 8~11, 2007
+The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.147~148, Busan Korea, July 8~11, 2007
 4. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-4]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 한국멀티미디어학회논문지, Vol.10, No.6, pp.745~753, June. 2007
-5. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
+5. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-5]<br>
+남상엽, 이민구, 강정훈, 윤명현, 
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications), Vol.2, No.2, pp.116-122, June, 2007
+6. [<b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b>][07-6]<br>
+박우출, 이명수, 윤명현, 김성동, 양성현, 
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications), Vol.2, No.2, pp.128-136, June, 2007
+7. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
-Proceedings of International Ubiquitous Workshop (IUW 2007), pp. 55~60, July 3~4, 2007, Hotel Maremons, Sokcho City, KOREA, The Institute of Webcasting, Internet and Telecommunication (IWIT), The Institute of Electronics Engineers of Korea (IEEK)
-6. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b><br>
+Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
+8. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b><br>
 Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B. Kim, 
-International Conference on Ubiquitous Information Technologies & Applications (ICUT 2007), Metropolitan Palace Hotel, Dubai, UAE, 12-14 Feb. 2007, Korea Electronics Technology Institute, Korea Information Processing Society
-7. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-7]<br>
+International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, 12-14 Feb. 2007
+9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-7]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
-Internationl Conference on Ubiquitous Information Technologies & Applications (ICUT 2007), Dubai, UAE, feb. 12-14, 2007
-8. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-8]<br>
+Internationl Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai, UAE, Feb. 12-14, 2007
+10. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-8]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, and H.S. Sim, 
-The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp595~598, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
-9. <b>Sensor Networks for Asset Management System</b><br>
+The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
+11. <b>Sensor Networks for Asset Management System</b><br>
 Lee Min Goo, Kang Jung Hoon, Yoon Myugn Hyun, 
-The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp591~594, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
-10. <b>Design and Implementation of Ubiquitous Gateway</b><br>
+The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.591~594, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
+12. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
-The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp575~578, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
-11. <b>ZigBee End-to-End Security for Ubiquis Home Network</b><br>
-W.C. Park, M.S. Lee M.H. Yoon, S.H. Yang,
-대한임베디드공학회논문지 (IEMEK Journal of Embedded Systems and Applications), 2007.1.
+The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.575~578, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
 
 ## 2006년
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
@@ -468,6 +471,8 @@ Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
 [07-3]: /home/paper/ITC-CSCC07-1.pdf
 [07-4]: /home/paper/KMMS07.pdf
+[07-5]: /home/paper/2007-5.pdf
+[07-6]: /home/paper/2007-6.pdf
 [07-7]: /home/paper/ICUT2007-1.pdf
 [07-8]: /home/paper/ICUT2007-2.pdf
 [06-1]: /home/paper/ieek06-01.pdf
