@@ -117,10 +117,10 @@ The 8th International Conference on Applications and Principles of Information S
 한국정보과학회 학술심포지엄, 2008.11.28
 4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b><br>
 이민구, 강정훈, 임호정, 윤명현, 
-정보 및 제어 학술대회(CICS 2008), 현대성우리조트, 2008.10.31~11.1
+2008년도 정보 및 제어 학술대회(CICS 2008), pp.548~549, 현대성우리조트, 2008.10.31~11.1
 5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b><br>
 이민구, 강정훈, 임호정, 윤명현, 
-정보 및 제어 학술대회(CICS 2008), 현대성우리조트, 2008.10.31~11.1
+2008년도 정보 및 제어 학술대회(CICS 2008), pp.546~547, 현대성우리조트, 2008.10.31~11.1
 6. [<b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b>][08-6]<br>
 조수형, 윤명현, 
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.19~26, 2008.9.
@@ -138,7 +138,7 @@ UCT 2008, 2008.7.23
 UCT 2008, 2008.7.23 
 11. [<b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b>][08-11]<br>
 고원식, 강정훈, 엄흥식, 이민구, 임호정, 윤명현, 장영민, 
-한국통신학회 하계종합학술대회, 2008.7.2
+한국통신학회 하계종합학술대회 논문집, pp.845~848, 2008.7.2
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
 Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon, 
 제18회 통신정보 합동학술대회(JCCI 2008), 라마다프라자제주호텔, 2008.4.23~25
@@ -199,7 +199,7 @@ Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo,
 The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulder, Colorado, Oct. 31~Nov. 3, 2006
 3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
 임호정, 유준재, 강정훈, 이민구, 윤명현, 이명수, 심화섭, 
-2006년도 정보 및 제어 학술대회(CIIS'06) 논문집, pp.491~493, 평창, 2006.10.27~28
+2006년도 정보 및 제어 학술대회(CICS'06) 논문집, pp.491~493, 평창, 2006.10.27~28
 4. [<b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>][06-4]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006 
@@ -211,7 +211,7 @@ SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
 UIT 연구회 논문지(Journal of UIT Reserach) Vol.2, No.1, pp.99~104, 한국정보처리학회 UIT연구회, 2006.10. (ISSN 1738-8791)
 7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
-한국통신학회 2006년도 하계종합학술발표회 논문집 Vol. 33, pp.416~419, 라마다프라자제주호텔, 2006.7.5~7
+한국통신학회 2006년도 하계종합학술발표회 논문집, pp.823~826, 라마다프라자제주호텔, 2006.7.5~7
 8. [<b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>][06-8]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.191~194, Dailian China, July 4~6, 2006
