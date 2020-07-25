@@ -415,29 +415,29 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 ## 1996년
 1. [<b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b>][96-1]<br>
 신창훈, 윤명현, 정학영, 
-'96 한국자동제어학술회의 논문집 (Proceedings of the 11th KACC), pp.1004∼1007, 1996.10.
+'96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1004∼1007, 1996.10.
 2. [<b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b>][96-2]<br>
 윤명현, 신창훈, 박익수, 
-'96 한국자동제어학술회의 논문집 (Proceedings of the 11th KACC), pp.1008∼1011, 1996.10.
+'96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008∼1011, 1996.10.
 
 ## 1991~1993년
 1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE, Vol.12A, pp.767∼774, Oct. 1993
+Review of Progress in Quantitative NDE Vol.12A, pp.767∼774, Oct. 1993
 2. <b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE, Vol.11A, pp.959∼965, Oct. 1992
+Review of Progress in Quantitative NDE Vol.11A, pp.959∼965, Oct. 1992
 3. <b>Estimation of Colored Plant Noise Using Kalman Filter Based Deconvolution</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Proceedings of the 1991 IEEE International Conference on Systems Engineering, pp.408∼411, Aug. 1991
 4. <b>Deconvolution of Ultrasonic Backscattered Signals Using the Kalman Filter</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE, Vol.10A, pp.733∼740, Oct. 1991
+Review of Progress in Quantitative NDE Vol.10A, pp.733∼740, Oct. 1991
 
 ## 1985년
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
-Nuclear Science and Engineering, Vol.90, pp.203∼209, Oct. 1985
+Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 
 [17-1]: /home/paper/2017-01.pdf
 [17-2]: /home/paper/2017-02.pdf
