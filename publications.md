@@ -115,10 +115,10 @@ The 8th International Conference on Applications and Principles of Information S
 3. <b>유비쿼터스 센서 네트워크를 위한 웹 기법</b><br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 한국정보과학회 학술심포지엄, 2008.11.28
-4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b><br>
+4. [<b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b>][08-4]<br>
 이민구, 강정훈, 임호정, 윤명현, 
 2008년도 정보 및 제어 학술대회(CICS 2008), pp.548~549, 현대성우리조트, 2008.10.31~11.1
-5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b><br>
+5. [<b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b>][08-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 
 2008년도 정보 및 제어 학술대회(CICS 2008), pp.546~547, 현대성우리조트, 2008.10.31~11.1
 6. [<b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b>][08-6]<br>
@@ -268,9 +268,9 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-H
 6. [<b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b>][05-6]<br>
 박우출, 이형수, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
-7. <b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b><br>
+7. [<b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b>][05-7]<br>
 이민구, 강정훈, 임호정, 유준재, 윤명현, 
-2005 정보 및 제어 학술대회 (2005 Conference on Information and Control Systems – CICS’05), 수안보상록호텔, Oct. 28~29, 2005
+2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.289~291, 수안보상록호텔, 2005.10.28~29
 8. [<b>위치 정보를 이용한 가전기기 제어 시스템 구현</b>][05-8]<br>
 박우출, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
@@ -465,6 +465,8 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [09-2]: /home/paper/2009-PD2.pdf
 [09-3]: /home/paper/2009-PD3.pdf
 
+[08-4]: /home/paper/CICS08-1.pdf
+[08-5]: /home/paper/CICS08-2.pdf
 [08-6]: /home/paper/KMS-1.pdf
 [08-7]: /home/paper/KMS-2.pdf
 [08-8]: /home/paper/KMS-3.pdf
@@ -499,6 +501,7 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [05-4]: /home/paper/CEIC05-02.pdf
 [05-5]: /home/paper/CICS05-05.pdf
 [05-6]: /home/paper/CICS05-04.pdf
+[05-7]: /home/paper/CICS05-06.pdf
 [05-8]: /home/paper/CICS05-03.pdf
 [05-9]: /home/paper/CICS05-01.pdf
 [05-10]: /home/paper/CICS05-02.pdf
