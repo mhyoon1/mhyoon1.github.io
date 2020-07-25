@@ -12,7 +12,7 @@ permalink: /publications/
 ## 2017년
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
-KSII Transactions on Internet and Information Systems (TIIS) Vol.11, No.2, pp.1250-1264, Feb. 2017
+KSII Transactions on Internet and Information Systems(TIIS) Vol.11, No.2, pp.1250-1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30, No.1, pp.23~29, Mar. 2017
 
@@ -30,7 +30,7 @@ The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), 
 ## 2015년
 1. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b><br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
-The 29th International Conference on Information Networking (ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14 2015
+The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
 2. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
@@ -41,27 +41,27 @@ International Conference on Computing and Precision Engineering(ICCPE 2015) & In
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11, 2014
 2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11, 2014
 3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, and Byeungwoo Jeon, 
-2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27 2014
+2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27, 2014
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
-2014 International Conference on Computer Science and Service System(CSSS 2014), Bangkok Thailand, Jun. 13~15 2014
+2014 International Conference on Computer Science and Service System(CSSS 2014), Bangkok Thailand, Jun. 13~15, 2014
 
 ## 2013년
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
-2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 고려대학교 서울, 2013.11.23
+2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 고려대학교, 2013.11.23
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), London, United Kingdom, Jun. 5~7 2013
+2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), London, United Kingdom, Jun. 5~7, 2013
 3. <b>A framework for dynamic context-awarable user interfaces of the second screen devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
-37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto, Japan, July 22~26 2013
+37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto Japan, July 22~26, 2013
 
 ## 2012년
 1. [<b>가전제품 접근성 향상기술 동향</b>][12-1]<br>
@@ -100,36 +100,36 @@ Telecommunications Review 22권 2호, pp.154~167, 2012
 윤명현, KEIT PD Issue Report 09-1호, pp.32~34, 2009.7.14
 4. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
 Woochool Park, Hyunmoon Park, Haemoon Seo, Myunghyun Yoon, Sungdong Kim, Sunghyun Yang, 
-The 8th International Conference on Applications and Principles of Information Science (APIS 2009), 
+The 8th International Conference on Applications and Principles of Information Science(APIS 2009), Okinawa Japan, 2009
 2. <b>The Requirements of Error Components for Satisfying SSR in the WPAN Transmitter</b><br>
 Yong-Kuk Park, Min-Goo Lee, Jun-Jae Yoo, Myung-Hyun Yoon, Hyeong-Seok Kim, 
-The 8th International Conference on Applications and Principles of Information Science (APIS 2009),
+The 8th International Conference on Applications and Principles of Information Science(APIS 2009), Okinawa Japan, 2009
 
 ## 2008년
 1. <b>센서 인터페이스를 위한 AFE 회로의 설계</b><br>
 문연국, 김동순, 황태호, 원광호, 윤명현, 
-제12회 차세대통신소프트웨어 학술대회(NCS2008), 2008.12.3~5, 휘닉스파크호텔
+제12회 차세대통신소프트웨어 학술대회(NCS2008), 휘닉스파크, 2008.12.3~5
 2. <b>환경센서 검출을 위한 디지털 출력회로의 설계</b><br>
 문연국, 김동순, 황태호, 원광호, 윤명현, 
-제12회 차세대통신소프트웨어 학술대회(NCS2008), 2008.12.3~5, 휘닉스파크호텔
+제12회 차세대통신소프트웨어 학술대회(NCS2008), 휘닉스파크, 2008.12.3~5
 3. <b>유비쿼터스 센서 네트워크를 위한 웹 기법</b><br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 한국정보과학회 학술심포지엄, 2008.11.28
 4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b><br>
 이민구, 강정훈, 임호정, 윤명현, 
-정보 및 제어 학술대회(CICS 2008), 2008.10.31~11.1, 현대성우리조트
+정보 및 제어 학술대회(CICS 2008), 현대성우리조트, 2008.10.31~11.1
 5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b><br>
 이민구, 강정훈, 임호정, 윤명현, 
-정보 및 제어 학술대회(CICS 2008), 2008.10.31~11.1, 현대성우리조트
+정보 및 제어 학술대회(CICS 2008), 현대성우리조트, 2008.10.31~11.1
 6. <b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b><br>
 조수형, 윤명현, 
-한국멀티미디어학회지 (특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호 (2008년9월), ISSN 1229-778X
+한국멀티미디어학회지(특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호, 2008.9. ISSN 1229-778X
 7. <b>구속형 위치인지 서비스 기술 및 응용</b><br>
 신준호, 윤명현, 
-한국멀티미디어학회지 (특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호 (2008년9월), ISSN 1229-778X
+한국멀티미디어학회지(특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호, 2008.9., ISSN 1229-778X
 8. <b>UWB 기반 무선 위치인지 서비스 기술</b><br>
 강정훈, 이민구, 임호정, 유준재, 윤명현, 고원식 
-한국멀티미디어학회지 (특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호 (2008년9월), ISSN 1229-778X
+한국멀티미디어학회지(특집: 지능형홈에서의 위치인지 서비스 기술) 제12권 제3호, 2008.9., ISSN 1229-778X
 9. <b>웹기반 저전력 USN 시스템 아키텍처</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권
 UCT 2008, 2008.7.23
@@ -141,8 +141,8 @@ UCT 2008, 2008.7.23
 한국통신학회 하계종합학술대회, 2008.7.2
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
 Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon, 
-제18회 통신정보 합동학술대회(JCCI 2008), 2008.4.23~25, 라마다프라자제주호텔
-13. <b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템 (A Study on Power-Saving Gateway System with Wireless Sensor Network for Building)</b><br>
+제18회 통신정보 합동학술대회(JCCI 2008), 라마다프라자제주호텔, 2008.4.23~25
+13. <b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b><br>
 임호정, 유준재. 강정훈, 이민구, 윤명현, 송병철, 임상채, 
 한국건축친환경설비학회 춘계학술발표대회, 2008.4.12
 14. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
@@ -150,7 +150,7 @@ Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang,
 The 7th International Conference on Applications and Principles of Information Science (APIS 2008), Jan. 28~30 2008, Auckland, New Zealand
 15. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-15]<br>
 Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
-10th International Conference on Advanced Communication Technology(ICACT) 2008, pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008 
+10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008 
  
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
@@ -312,7 +312,7 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 2005 정보 및 제어 심포지엄(ICS 2005), 단국대, 2005.5.24
 21. [<b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
-제15회 통신 정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
+제15회 통신정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
 
 ## 2004년
 1. [<b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][04-1]<br>
