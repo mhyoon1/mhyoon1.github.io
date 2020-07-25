@@ -183,6 +183,9 @@ The 6th International Conference on Applications and Principles of Information S
 10. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
 The 6th International Conference on Applications and Principles of Information Science (APIS 2007), pp575~578, Jan. 20~23, 2007, Kuala Lumpur, Malaysia, University of MALAYA, Korea Information Processing Society
+11. <b>ZigBee End-to-End Security for Ubiquis Home Network</b><br>
+W.C. Park, M.S. Lee M.H. Yoon, S.H. Yang,
+대한임베디드공학회논문지 (IEMEK Journal of Embedded Systems and Applications), 2007.1.
 
 ## 2006년
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
