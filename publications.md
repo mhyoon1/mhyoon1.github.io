@@ -41,27 +41,27 @@ International Conference on Computing and Precision Engineering(ICCPE 2015) & In
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11, 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.222~223, Shanghai China, July 8~11, 2014
 2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), Shanghai China, July 8~11, 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.224~225, Shanghai China, July 8~11, 2014
 3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27, 2014
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
-2014 International Conference on Computer Science and Service System(CSSS 2014), Bangkok Thailand, Jun. 13~15, 2014
+2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
 
 ## 2013년
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
-2013년 대한전자공학회 추계학술대회 논문집, pp.640~642, 고려대학교, 2013.11.23
+2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), London, United Kingdom, Jun. 5~7, 2013
 3. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
-37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), Kyoto Japan, July 22~26, 2013
+37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), pp.284~285, Kyoto Japan, July 22~26, 2013
 
 ## 2012년
 1. [<b>가전제품 접근성 향상기술 동향</b>][12-1]<br>
@@ -224,13 +224,13 @@ The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworth
 11. <b>무선 센서 네트워크 운영체제 기술 동향 분석</b><br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29
-12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b><br>
+12. [<b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b>][06-12]<br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 장동섭, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.174~176, 서울시립대학교, 2006.4.29
 13. [<b>홈 네트워크에서의 USN 보안 고려사항 분석</b>][06-13]<br>
 박우출, 박현문, 이명수, 윤명현, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29
-14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b><br>
+14. [<b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b>][06-14]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
@@ -264,22 +264,22 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-H
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
 5. [<b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b>][05-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
-2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
+2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.283~285, 수안보상록호텔, 2005.10.28~29
 6. [<b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b>][05-6]<br>
 박우출, 이형수, 윤명현, 
-2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
+2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.286~288, 수안보상록호텔, 2005.10.28~29
 7. [<b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b>][05-7]<br>
 이민구, 강정훈, 임호정, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.289~291, 수안보상록호텔, 2005.10.28~29
 8. [<b>위치 정보를 이용한 가전기기 제어 시스템 구현</b>][05-8]<br>
 박우출, 윤명현, 
-2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
+2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.312~314, 수안보상록호텔, 2005.10.28~29
 9. [<b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b>][05-9]<br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
-2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
+2005 정보 및 제어 학술대회(CICS’05), pp.606~608, 수안보상록호텔, 2005.10.28~29
 10. [<b>메쉬 센서 네트워크 기술 동향 분석</b>][05-10]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
-2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
+2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.612~615, 수안보상록호텔, 2005.10.28~29
 11. [<b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b>][05-11]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.616~618, 2005.10.28
@@ -294,7 +294,7 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Y
 2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3~5 2005
 15. [<b>센서 네트워크 및 애플리케이션 기술 동향</b>][05-15]<br>
 강정훈, 유준재, 윤명현, 이민구, 
-전자공학회지(The Magazine of the IEEK) 제32권 7호, 2005.7.
+전자공학회지(The Magazine of the IEEK) 제32권 7호, pp.18~31, 2005.7.
 16. [<b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b>][05-16]<br>
 Yeonkug Moon, Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
@@ -309,7 +309,7 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 2005 정보 및 제어 심포지엄(ICS 2005), 단국대, 2005.5.24
 20. [<b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b>][05-20]<br>
 이민구, 강정훈, 유준재, 윤명현, 
-2005 정보 및 제어 심포지엄(ICS 2005), 단국대, 2005.5.24
+2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.206~208, 단국대, 2005.5.24
 21. [<b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제15회 통신정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
@@ -489,7 +489,9 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [06-8]: /home/paper/MITA06-1.pdf
 [06-9]: /home/paper/MITA06-2.pdf
 [06-10]: /home/paper/SUTC06.pdf
+[06-12]: /home/paper/cics06-03.pdf
 [06-13]: /home/paper/ICS06-01.pdf
+[06-14]: /home/paper/cics06-02.pdf
 [06-15]: /home/paper/ICACT06-01.pdf
 [06-16]: /home/paper/APIS06-01.pdf
 [06-17]: /home/paper/APIS06-02.pdf
