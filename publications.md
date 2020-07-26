@@ -515,8 +515,8 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [05-19]: /home/paper/ICS05-02.pdf
 [05-20]: /home/paper/ICS05-01.pdf
 [05-21]: /home/paper/JCCI05-01.pdf
-[05-1]: /home/paper/KICS04-01.pdf
-[05-2]: /home/paper/em04.pdf
+[04-1]: /home/paper/KICS04-01.pdf
+[04-2]: /home/paper/em04.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
