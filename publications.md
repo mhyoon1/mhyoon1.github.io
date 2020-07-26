@@ -370,13 +370,13 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D94∼D97, 1999.10.
 7. [<b>네트워크 관리 소프트웨어와 매체 접속 계층의 결함 감지 및 이중 채널 관리기를 이용한 제어 통신망의 매체 이중화 관리 방법</b>][99-7]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 이재민, 김광현, 권욱현, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, 용인, 1999.10.14~16
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, 용인 고등기술원, 1999.10.14~16
 8. [<b>UML을 이용한 원전 디지털 제어시스템의 소프트웨어 설계 및 검증</b>][99-8]<br>
 이병윤, 신창훈, 문홍주, 이성우, 윤명현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B422∼B425, 1999.10.
 9. [<b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b>][99-9]<br>
 이병윤, 김동욱, 신창훈, 문홍주, 윤명현, 이성우, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450∼B453, Oct. 14~16, 1999, 용인 고등기술원
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450∼B453, 용인 고등기술원, 1999.10.14~16
 
 ## 1998년
 1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
@@ -393,7 +393,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 한국원자력학회 '98춘계학술발표회 논문집(I), pp.258∼263, 1998.5.
 5. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
-6th International Conference on Nuclear Engineering(ICONE-6), May 10~15, 1998, San Diego, California
+6th International Conference on Nuclear Engineering(ICONE-6), San Diego, California, May 10~15, 1998
 
 ## 1997년
 1. <b>A New Method of Rod Drop Tiime Measurement Using Movable Coil Signals</b><br>
