@@ -252,8 +252,7 @@ The 5th Asia Pacific International Symposium on Information Technology(APIS 2006
 ## 2005년
 1. [<b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b>][05-1]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Hoon Kang, Young Choong Park, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim,
-2005년도 대한전자공학회 추계종합학술대회 제28권 2호, pp.769~772, 2005<br>
-제9회 차세대 통신소프트웨어 학술대회(NCS 2005), 휘닉스파크, 2005.12.7~9
+2005년도 대한전자공학회 추계종합학술대회 제28권 2호, pp.769~772, 2005
 2. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-2]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
@@ -324,7 +323,7 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
 
 ## 2003년
-1. <b>Design of a Simple Home Device  Protocol</b><br>
+1. [<b>Design of a Simple Home Device  Protocol</b>][03-1]<br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 Intrnational Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
 
@@ -523,6 +522,7 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [05-21]: /home/paper/JCCI05-01.pdf
 [04-1]: /home/paper/KICS04-01.pdf
 [04-2]: /home/paper/2004-02.pdf
+[03-1]: /home/paper/2003-1.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
