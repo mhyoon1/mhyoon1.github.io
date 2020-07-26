@@ -12,9 +12,9 @@ permalink: /publications/
 ## 2017년
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
-KSII Transactions on Internet and Information Systems(TIIS) Vol.11, No.2, pp.1250~1264, Feb. 2017
+KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
-황영배, 윤명현, OSIA S&TR Journal Vol.30, No.1, pp.23~29, Mar. 2017
+황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
 
 ## 2016년
 1. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-1]<br>
@@ -132,10 +132,10 @@ The 8th International Conference on Applications and Principles of Information S
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9.
 9. <b>웹기반 저전력 USN 시스템 아키텍처</b><br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권, 
-UCT 2008, 2008.7.23
+The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
 10. <b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b><br>
 엄홍식, 강정훈, 고원석, 고정권, 이민구, 임호정, 윤명현, 
-UCT 2008, 2008.7.23 
+The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
 11. [<b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b>][08-11]<br>
 고원식, 강정훈, 엄흥식, 이민구, 임호정, 윤명현, 장영민, 
 한국통신학회 하계종합학술대회 논문집, pp.845~848, 2008.7.2
@@ -221,7 +221,7 @@ The 2006 International Conference on Multimedia, Information Technology and Its 
 10. [<b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b>][06-10]<br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
 The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing(SUTC 2006), pp.256~261, Taichung Taiwan, June 5~7, 2006
-11. <b>무선 센서 네트워크 운영체제 기술 동향 분석</b><br>
+11. [<b>무선 센서 네트워크 운영체제 기술 동향 분석</b>][06-11]<br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29
 12. [<b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b>][06-12]<br>
@@ -490,6 +490,7 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [06-8]: /home/paper/MITA06-1.pdf
 [06-9]: /home/paper/MITA06-2.pdf
 [06-10]: /home/paper/SUTC06.pdf
+[06-11]: /home/paper/ICS06-02.pdf
 [06-12]: /home/paper/cics06-03.pdf
 [06-13]: /home/paper/ICS06-01.pdf
 [06-14]: /home/paper/cics06-02.pdf
