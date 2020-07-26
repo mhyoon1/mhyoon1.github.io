@@ -352,39 +352,39 @@ Proceedings of the International Workshop on Fault-Tolerant Control and Computin
 ## 1999년
 1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
-Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics (ICMT '99), pp.474∼479, Pusan Korea, Oct. 21-23, 1999
+Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics(ICMT '99), pp.474~479, Pusan Korea, Oct. 21~23, 1999
 2. [<b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b>][99-2]<br>
 이성우, 윤명현, 문홍주, 이병윤, 
 1999도 한국에너지공학회 추계학술발표회 논문집 pp.143~148, 1999.11.
 3. [<b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b>][99-3]<br>
 윤명현, 문홍주, 신창훈, 이병윤, 이성우, 이재영, 신수용, 권욱현, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D122∼D125, 1999.10.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D122~D125, 1999.10.
 4. [<b>원전 급수제어계통의 디지털화 설계 및 구현</b>][99-4]<br>
 신창훈, 윤명현, 이성우, 문홍주, 이병윤, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.A191∼A194, 1999.10.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.A191~A194, 1999.10.
 5. <b>원자력발전소 분산제어시스템을 위한 통신 프로토콜의 실시간 특성 해석</b><br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
-제14차 한국자동제어학술회의 논문집, D102∼D105, 1999.10.
+제14차 한국자동제어학술회의 논문집, pp.D102∼D105, 1999.10.
 6. [<b>분산제어시스템 제어 통신망의 실시간 주기 및 비주기 데이터의 전송 방식</b>][99-6]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 전태수, 김영신, 권욱현, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D94∼D97, 1999.10.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D94~D97, 1999.10.
 7. [<b>네트워크 관리 소프트웨어와 매체 접속 계층의 결함 감지 및 이중 채널 관리기를 이용한 제어 통신망의 매체 이중화 관리 방법</b>][99-7]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 이재민, 김광현, 권욱현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, 용인 고등기술원, 1999.10.14~16
 8. [<b>UML을 이용한 원전 디지털 제어시스템의 소프트웨어 설계 및 검증</b>][99-8]<br>
 이병윤, 신창훈, 문홍주, 이성우, 윤명현, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B422∼B425, 1999.10.
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B422~B425, 1999.10.
 9. [<b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b>][99-9]<br>
 이병윤, 김동욱, 신창훈, 문홍주, 윤명현, 이성우, 
-제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450∼B453, 용인 고등기술원, 1999.10.14~16
+제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450~B453, 용인 고등기술원, 1999.10.14~16
 10. [<b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b>][99-10]<br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
-1999년도 대한전기학회 하계학술대회 논문집, pp.1013∼1016, 1999.7.
+1999년도 대한전기학회 하계학술대회 논문집, pp.1013~1016, 1999.7.
 
 ## 1998년
 1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
 윤명현, 신창훈, 문홍주, 박익수, 이종태, 
-한국원자력학회 '98추계학술발표회 논문집 pp78~84, 1998.10.
+한국원자력학회 '98추계학술발표회 논문집 pp.78~84, 1998.10.
 2. [<b>고리2호기 I&C 업그레이드 및 수명관리 연구</b>][98-2]<br>
 신창훈, 윤명현, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집, 1998.10.
@@ -401,43 +401,43 @@ Keehoon Kim, Myung-Hyun Yoon,
 EPRI Technical Conference, Nov. 1997
 2. [<b>공정용 PID 제어기의 자동동조 시스템 설계</b>][97-2]<br>
 신창훈, 윤명현, 박익수, 
-'97한국자동제어학술회의 논문집(Proceedings of the 12th KACC), pp.915∼918, 1997.10.
+'97한국자동제어학술회의 논문집(Proceedings of the 12th KACC), pp.915~918, 1997.10.
 3. [<b>Automatic Tuning Algorithm of the PID Controller Using Two Nyquist Points Identification</b>][97-3]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon, Ik-Soo Park, 
-Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225∼1228, Tokushima, Japan, July 29~31, 1997
+Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225~1228, Tokushima, Japan, July 29~31, 1997
 4. [<b>Design of On-line Auto-tuning PID Controller for Power Plant Process Control</b>][97-4]<br>
 Myung-Hyun Yoon, Chang-Hoon Shin, 
-Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221∼1224, Tokushima, Japan, July 29~31, 1997
+Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221~1224, Tokushima, Japan, July 29~31, 1997
 5. [<b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b>][97-5]<br>
 Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson, 
-14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165∼170, July 1997
+14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165~170, July 1997
 
 ## 1996년
 1. [<b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b>][96-1]<br>
 신창훈, 윤명현, 정학영, 
-'96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1004∼1007, 1996.10.
+'96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1004~1007, 1996.10.
 2. [<b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b>][96-2]<br>
 윤명현, 신창훈, 박익수, 
-'96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008∼1011, 1996.10.
+'96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008~1011, 1996.10.
 
 ## 1991~1993년
 1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE Vol.12A, pp.767∼774, Oct. 1993
+Review of Progress in Quantitative NDE Vol.12A, pp.767~774, Oct. 1993
 2. <b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE Vol.11A, pp.959∼965, Oct. 1992
+Review of Progress in Quantitative NDE Vol.11A, pp.959~965, Oct. 1992
 3. <b>Estimation of Colored Plant Noise Using Kalman Filter Based Deconvolution</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Proceedings of the 1991 IEEE International Conference on Systems Engineering, pp.408∼411, Aug. 1991
 4. <b>Deconvolution of Ultrasonic Backscattered Signals Using the Kalman Filter</b><br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
-Review of Progress in Quantitative NDE Vol.10A, pp.733∼740, Oct. 1991
+Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
 ## 1985년
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
-Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
+Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 
 [17-1]: /home/paper/2017-01.pdf
 [17-2]: /home/paper/2017-02.pdf
