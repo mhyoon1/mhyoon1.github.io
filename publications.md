@@ -306,7 +306,7 @@ Yong-Kuk Park, Hae-Moon Seo, Kwang-Ho Won, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-J
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
 19. [<b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b>][05-19]<br>
 강정훈, 이민구, 윤명현, 유준재, 
-2005 정보 및 제어 심포지엄(ICS 2005), 단국대, 2005.5.24
+2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.209~211, 단국대, 2005.5.24
 20. [<b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b>][05-20]<br>
 이민구, 강정훈, 유준재, 윤명현, 
 2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.206~208, 단국대, 2005.5.24
@@ -353,9 +353,9 @@ Proceedings of the International Workshop on Fault-Tolerant Control and Computin
 1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
 Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics (ICMT '99), pp.474∼479, Pusan Korea, Oct. 21-23, 1999
-2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b><br>
+2. [<b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b>][99-2]<br>
 이성우, 윤명현, 문홍주, 이병윤, 
-1999도 한국에너지공학회 추계학술발표회 논문집 pp. 143~148 1999.11.
+1999도 한국에너지공학회 추계학술발표회 논문집 pp.143~148, 1999.11.
 3. [<b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b>][99-3]<br>
 윤명현, 문홍주, 신창훈, 이병윤, 이성우, 이재영, 신수용, 권욱현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D122∼D125, 1999.10.
@@ -527,6 +527,7 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [00-4]: /home/paper/npic00-04.pdf
 [00-5]: /home/paper/ftcc2000.pdf
 [99-1]: /home/paper/icmt99.pdf
+[99-2]: /home/paper/1999-2.pdf
 [99-3]: /home/paper/kacc99-1.pdf
 [99-4]: /home/paper/kacc99-4.pdf
 [99-6]: /home/paper/kacc99-2.pdf
