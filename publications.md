@@ -300,7 +300,7 @@ Yeonkug Moon, Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Myung-Hyun Yoon, Jun-Ja
 The 6th International Conference on ASIC, pp.587~590, Shanghai China, Oct. 24~27, 2005
 17. [<b>A Low Power Fully CMOS Integrated RF Transceiver for Wireless Sensor Networks in Sub-GHZ ISM-band</b>][05-17]<br>
 Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
-The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
+The 6th International Conference on ASIC, pp.467~470, Shanghai China, Oct. 24~27, 2005
 18. [<b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-18]<br>
 Yong-Kuk Park, Hae-Moon Seo, Kwang-Ho Won, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
