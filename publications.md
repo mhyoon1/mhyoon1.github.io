@@ -202,10 +202,10 @@ The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulde
 2006년도 정보 및 제어 학술대회(CICS'06) 논문집, pp.491~493, 평창, 2006.10.27~28
 4. [<b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>][06-4]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
-SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006 
+SICE-ICASE International Joint Conference 2006, pp.2142~2147, Busan, Korea, Oct. 18~21, 2006 
 5. [<b>The Implementation of Indoor Location System to Control ZigBee Home Network</b>][06-5]<br>
 Woo-Chool Park, Myung-Hyun Yoon, 
-SICE-ICASE International Joint Conference 2006, Busan, Korea, Oct. 18~21, 2006
+SICE-ICASE International Joint Conference 2006, pp.2158~2161, Busan, Korea, Oct. 18~21, 2006
 6. <b>지능 공간 실현을 위한 위치인지 시스템 개발</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
 UIT 연구회 논문지(Journal of UIT Reserach) Vol.2, No.1, pp.99~104, 한국정보처리학회 UIT연구회, 2006.10. (ISSN 1738-8791)
@@ -318,7 +318,7 @@ Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-J
 ## 2004년
 1. [<b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][04-1]<br>
 Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon, 
-KICS2004, 2004
+한국통신학회 2004년도 하계종합학술발표회, 2004.7.
 2. [<b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b>][04-2]<br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
