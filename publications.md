@@ -47,7 +47,7 @@ Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.224~225, Shanghai China, July 8~11, 2014
 3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), Beijing China, Jun. 25~27, 2014
+2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), pp.1~4, Beijing China, Jun. 25~27, 2014
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
@@ -250,8 +250,9 @@ Woo Chool Park, Myung Hyun Yoon,
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 
 ## 2005년
-1. <b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b><br>
-Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, and Seong-Dong Kim, 
+1. [<b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b>][05-1]<br>
+Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Hoon Kang, Young Choong Park, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim,
+2005년도 대한전자공학회 추계종합학술대회 제28권 2호, pp.769~772, 2005<br>
 제9회 차세대 통신소프트웨어 학술대회(NCS 2005), 휘닉스파크, 2005.12.7~9
 2. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-2]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
@@ -498,6 +499,7 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [06-18]: /home/paper/APIS06-03.pdf
 [06-19]: /home/paper/APIS06-04.pdf
 
+[05-1]: /home/paper/2005-1.pdf
 [05-2]: /home/paper/CEIC05-03.pdf
 [05-3]: /home/paper/CEIC05-01.pdf
 [05-4]: /home/paper/CEIC05-02.pdf
