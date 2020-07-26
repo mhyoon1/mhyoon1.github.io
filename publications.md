@@ -323,12 +323,12 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
 
 ## 2003년
-1. [<b>Design of a Simple Home Device  Protocol</b>][03-1]<br>
+1. <b>Design of a Simple Home Device  Protocol</b><br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 Intrnational Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
 
 ## 2002년
-1. <b>Design of a New Chip Architecture for a Home Gateway</b><br>
+1. [<b>Design of a New Chip Architecture for a Home Gateway</b>][02-1]<br>
 Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon, 
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
@@ -522,7 +522,7 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [05-21]: /home/paper/JCCI05-01.pdf
 [04-1]: /home/paper/KICS04-01.pdf
 [04-2]: /home/paper/2004-02.pdf
-[03-1]: /home/paper/2003-1.pdf
+[02-1]: /home/paper/2002-1.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
