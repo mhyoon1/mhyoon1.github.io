@@ -280,9 +280,9 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-H
 10. [<b>메쉬 센서 네트워크 기술 동향 분석</b>][05-10]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, 2005.10.28~29
-11. <b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b><br>
+11. [<b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b>][05-11]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
-2005 정보 및 제어 학술대회(CICS’05), 수안보상록호텔, Oct. 28-29, 2005
+2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.616~618, 2005.10.28
 12. [<b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-12]<br>
 Yong-Kuk Park, Won-Ki Jeon, Hae-Moon Seo, Yeon-Kuk Moon, Jaeho Kim, Byoung-Chul Song, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
@@ -320,7 +320,7 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 KICS2004, 2004
 2. [<b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b>][04-2]<br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
-한국전기전자재료학회 2004년 하계학술대회, 2004.7.8~10
+한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
 
 ## 2003년
 1. <b>Design of a Simple Home Device  Protocol</b><br>
@@ -505,6 +505,7 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [05-8]: /home/paper/CICS05-03.pdf
 [05-9]: /home/paper/CICS05-01.pdf
 [05-10]: /home/paper/CICS05-02.pdf
+[05-11]: /home/paper/CICS05-07.pdf
 [05-12]: /home/paper/APCC05-03.pdf
 [05-13]: /home/paper/APCC05-02.pdf
 [05-14]: /home/paper/APCC05-01.pdf
@@ -516,7 +517,7 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [05-20]: /home/paper/ICS05-01.pdf
 [05-21]: /home/paper/JCCI05-01.pdf
 [04-1]: /home/paper/KICS04-01.pdf
-[04-2]: /home/paper/em04.pdf
+[04-2]: /home/paper/2004-02.pdf
 
 [00-1]: /home/paper/npic00-01.pdf
 [00-2]: /home/paper/npic00-02.pdf
