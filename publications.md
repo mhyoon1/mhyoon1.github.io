@@ -396,7 +396,7 @@ Keehoon Kim, Myung-Hyun Yoon,
 6th International Conference on Nuclear Engineering(ICONE-6), San Diego, California, May 10~15, 1998
 
 ## 1997년
-1. <b>A New Method of Rod Drop Tiime Measurement Using Movable Coil Signals</b><br>
+1. <b>A New Method of Rod Drop Time Measurement Using Movable Coil Signals</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
 EPRI Technical Conference, Nov. 1997
 2. [<b>공정용 PID 제어기의 자동동조 시스템 설계</b>][97-2]<br>
@@ -421,10 +421,10 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008~1011, 1996.10.
 
 ## 1991~1993년
-1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b><br>
+1. [<b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b>][93-1]<br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.12A, pp.767~774, Oct. 1993
-2. <b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b><br>
+2. [<b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b>][92-1]<br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.11A, pp.959~965, Oct. 1992
 3. <b>Estimation of Colored Plant Noise Using Kalman Filter Based Deconvolution</b><br>
@@ -435,7 +435,7 @@ Myung-Hyun Yoon, Tenkasi V. Ramabadran,
 Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
 ## 1985년
-1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
+1. [<b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b>][85-1]<br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 
@@ -547,3 +547,7 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [97-5]: /home/paper/dccs97.pdf
 [96-1]: /home/paper/kacc96-2.pdf
 [96-2]: /home/paper/kacc96-1.pdf
+
+[93-1]: /home/paper/QNDE-93.pdf
+[92-1]: /home/paper/QNDE-92.pdf
+[85-1]: https://www.tandfonline.com/doi/abs/10.13182/NSE85-A17677
