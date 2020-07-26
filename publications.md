@@ -377,6 +377,9 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 9. [<b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b>][99-9]<br>
 이병윤, 김동욱, 신창훈, 문홍주, 윤명현, 이성우, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450∼B453, 용인 고등기술원, 1999.10.14~16
+10. [<b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b>][99-10]<br>
+이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
+1999년도 대한전기학회 하계학술대회 논문집, pp.1013∼1016, 1999.7.
 
 ## 1998년
 1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
@@ -385,13 +388,10 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 2. [<b>고리2호기 I&C 업그레이드 및 수명관리 연구</b>][98-2]<br>
 신창훈, 윤명현, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집, 1998.10.
-3. <b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b><br>
-이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
-대한전기학회 하계학술대회 논문집, pp.B1013∼B1016, 1999.7.
-4. [<b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b>][98-4]<br>
+3. [<b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b>][98-4]<br>
 윤명현, 김기훈, 신창훈, 
 한국원자력학회 '98춘계학술발표회 논문집(I), pp.258∼263, 1998.5.
-5. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
+4. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
 6th International Conference on Nuclear Engineering(ICONE-6), San Diego, California, May 10~15, 1998
 
@@ -534,6 +534,7 @@ Nuclear Science and Engineering Vol.90, pp.203∼209, Oct. 1985
 [99-7]: /home/paper/kacc99-3.pdf
 [99-8]: /home/paper/kacc99-5.pdf
 [99-9]: /home/paper/kacc99-6.pdf
+[99-10]: /home/paper/1999-10.pdf
 [98-1]: /home/paper/kns98f-1.pdf
 [98-2]: /home/paper/kns98f-2.pdf
 [98-4]: /home/paper/kns98s.pdf
