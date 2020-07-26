@@ -58,7 +58,7 @@ Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
 2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), London, United Kingdom, Jun. 5~7, 2013
+2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 3. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
 37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), pp.284~285, Kyoto Japan, July 22~26, 2013
@@ -235,7 +235,7 @@ The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworth
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 8th International Conference on Advanced Communication Technology(ICACT 2006), Pheonix Park, Korea, Feb. 20~22, 2006
+The 8th International Conference on Advanced Communication Technology(ICACT 2006), pp.719~724, Pheonix Park, Korea, Feb. 20~22, 2006
 16. [<b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b>][06-16]<br>
 Soohyung Cho, Daewhan Kim, Myunghyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
@@ -258,7 +258,7 @@ Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyu
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
 3. [<b>A Fully CMOS Integrated Radio Transceiver for Wireless Sensor Network Applications</b>][05-3]<br>
 Hae-Moon Seo, Yeon Kuk Moon, Yong-Kuk Park, Sung-Ok Lim, Sang-Shin Lee, Byung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Sung-Dong Kim, 
-제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
+제7회 전자정보통신 학술대회(CEIC 2005), pp.467~470, 온양관광호텔, Dec. 1~2, 2005
 4. [<b>Design of a CMOS Analog Front End for WPAN Receivers</b>][05-4]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
@@ -285,19 +285,19 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-H
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.616~618, 2005.10.28
 12. [<b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-12]<br>
 Yong-Kuk Park, Won-Ki Jeon, Hae-Moon Seo, Yeon-Kuk Moon, Jaeho Kim, Byoung-Chul Song, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
-2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
+2005 Asia-Pacific Conference on Communications(APCC 2005), pp.595~599, Perth Australia, Oct. 3-5 2005
 13. [<b>A Fully CMOS Integrated RF Transceiver for Ubiquitous Networks in Sub-GHz ISM-band</b>][05-13]<br>
 Hae-Moon Seo, Yeon-Kug Moon, Yong-Kuk Park, Sang-Shin Lee, Tae-Ho Hwang, Byoung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
 14. [<b>Design of a CMOS Highly Linear Channel Selection Filter and Programmable Gain Amplifier for a WPAN Zero-IF Receiver</b>][05-14]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Yup Ahn, Ho-Jung Lim, June-Jae Yoo, Seong-Dong Kim, 
-2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3~5 2005
+2005 Asia-Pacific Conference on Communications(APCC 2005), pp.450~453, Perth Australia, Oct. 3~5 2005
 15. [<b>센서 네트워크 및 애플리케이션 기술 동향</b>][05-15]<br>
 강정훈, 유준재, 윤명현, 이민구, 
 전자공학회지(The Magazine of the IEEK) 제32권 7호, pp.18~31, 2005.7.
 16. [<b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b>][05-16]<br>
-Yeonkug Moon, Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
-The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
+Yeonkug Moon, Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
+The 6th International Conference on ASIC, pp.587~590, Shanghai China, Oct. 24~27, 2005
 17. [<b>A Low Power Fully CMOS Integrated RF Transceiver for Wireless Sensor Networks in Sub-GHZ ISM-band</b>][05-17]<br>
 Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
@@ -384,7 +384,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 ## 1998년
 1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
 윤명현, 신창훈, 문홍주, 박익수, 이종태, 
-한국원자력학회 '98추계학술발표회 논문집, 1998.10.
+한국원자력학회 '98추계학술발표회 논문집 pp78~84, 1998.10.
 2. [<b>고리2호기 I&C 업그레이드 및 수명관리 연구</b>][98-2]<br>
 신창훈, 윤명현, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집, 1998.10.
