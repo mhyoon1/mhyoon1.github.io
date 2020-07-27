@@ -17,26 +17,26 @@ KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
 
 ## 2016년
-1. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-1]<br>
-Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
-The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
-2. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-2]<br>
+1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
-3. [<b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b>][16-3]<br>
+2. [<b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b>][16-2]<br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
 The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016
+3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
+Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
+The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
 
 ## 2015년
-1. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b><br>
-Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
-The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
-2. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
+1. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
-3. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-3]<br>
+2. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-2]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 
 한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36~43, 2015.4.15.
+3. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b><br>
+Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
+The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
 
 ## 2014년
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
@@ -56,49 +56,45 @@ Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
-2. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-2]<br>
-Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
-2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
-3. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
+2. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
 37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), pp.284~285, Kyoto Japan, July 22~26, 2013
+3. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-3]<br>
+Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
+2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 
-## 2012년
-1. [<b>가전제품 접근성 향상기술 동향</b>][12-1]<br>
-윤명현, 오세윤, KEIT PD Issue Report 12-8호, 2012.9.
-2. [<b>스마트가전 현황 및 발전방향</b>][12-2]<br>
-윤명현, 장동현, KEIT PD Issue Report 12-4호, 2012.5.
-3. [<b>2011년 연구개발 주요성과 및 2012년 추진계획</b>][12-3]<br>
-윤명현, KEIT PD Issue Report 12-1호, pp.27~31, 2012.2.
-2. [<b>스마트TV 산업 활성화 정책</b>][12-4]<br>
+## 2009~12년
+1. [<b>스마트TV 산업 활성화 정책</b>][12-1]<br>
 윤명현, 김대진, 
 KT경제경영연구소 DIGIECO Focus, 2012.5.8.
-1. [<b>스마트TV 산업 활성화를 위한 정책적 이슈</b>][12-5]<br>
+2. [<b>스마트TV 산업 활성화를 위한 정책적 이슈</b>][12-2]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
-
-## 2011년
-1. [<b>WPAN기술 표준화 동향</b>][11-1]<br>
+3. [<b>가전제품 접근성 향상기술 동향</b>][12-3]<br>
+윤명현, 오세윤, KEIT PD Issue Report 12-8호, 2012.9.
+4. [<b>스마트가전 현황 및 발전방향</b>][12-4]<br>
+윤명현, 장동현, KEIT PD Issue Report 12-4호, 2012.5.
+5. [<b>2011년 연구개발 주요성과 및 2012년 추진계획</b>][12-5]<br>
+윤명현, KEIT PD Issue Report 12-1호, pp.27~31, 2012.2.
+6. [<b>WPAN기술 표준화 동향</b>][11-1]<br>
 윤명현, 장동현, KEIT PD Issue Report 11-9호, pp.19~31, 2011.11.
-2. [<b>Digital Holography 기술 동향 및 전망</b>][11-2]<br>
+7. [<b>Digital Holography 기술 동향 및 전망</b>][11-2]<br>
 윤명현, KEIT PD Issue Report 11-3호, pp.51~67, 2011.5.
-
-## 2010년
-1. [<b>제로 에너지 하우스 현황 및 전망</b>][10-1]<br>
+8. [<b>제로 에너지 하우스 현황 및 전망</b>][10-1]<br>
 윤명현, KEIT PD Issue Report 10-11호, pp.55~76, 2010.11.
-2. [<b>실감•감성형 정보가전기기의 현재와 미래</b>][10-2]<br>
+9. [<b>실감•감성형 정보가전기기의 현재와 미래</b>][10-2]<br>
 윤명현, KEIT PD Issue Report 10-5호, pp.71~88, 2010.5.
-3. [<b>홈네트워크 상호운용성 확보를 위한 한국형 표준 플랫폼</b>][10-3]<br>
+10. [<b>홈네트워크 상호운용성 확보를 위한 한국형 표준 플랫폼</b>][10-3]<br>
 윤명현, KEIT PD Issue Report 10-3호, pp.55~68, 2010.3.
+11. [<b>지능형홈 국가 표준/인증 체계 정비를 통한 국내 산업 보호</b>][09-1]<br>
+윤명현, KEIT PD Issue Report 09-9호, pp.19~24, 2009.12.29
+12. [<b>실감 체험 4D 영화의 대중화: 멀지않은 미래</b>][09-2]<br>
+윤명현, KEIT PD Issue Report 09-5호, pp.11~13, 2009.10.20
+13. [<b>시범사업 확대를 통한 기술 사업화/산업 활성화</b>][09-3]<br>
+윤명현, KEIT PD Issue Report 09-1호, pp.32~34, 2009.7.14
 
 ## 2009년
-1. [<b>지능형홈 국가 표준/인증 체계 정비를 통한 국내 산업 보호</b>][09-1]<br>
-윤명현, KEIT PD Issue Report 09-9호, pp.19~24, 2009.12.29
-2. [<b>실감 체험 4D 영화의 대중화: 멀지않은 미래</b>][09-2]<br>
-윤명현, KEIT PD Issue Report 09-5호, pp.11~13, 2009.10.20
-3. [<b>시범사업 확대를 통한 기술 사업화/산업 활성화</b>][09-3]<br>
-윤명현, KEIT PD Issue Report 09-1호, pp.32~34, 2009.7.14
-4. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
+1. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
 Woochool Park, Hyunmoon Park, Haemoon Seo, Myunghyun Yoon, Sungdong Kim, Sunghyun Yang, 
 The 8th International Conference on Applications and Principles of Information Science(APIS 2009), Okinawa Japan, 2009
 2. <b>The Requirements of Error Components for Satisfying SSR in the WPAN Transmitter</b><br>
@@ -145,12 +141,12 @@ Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon,
 13. [<b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b>][08-13]<br>
 임호정, 유준재. 강정훈, 이민구, 윤명현, 송병철, 임상채, 
 한국건축친환경설비학회 춘계학술발표대회, pp.37~30, 2008.4.12
-14. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
+14. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-14]<br>
+Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
+10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008
+15. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
 The 7th International Conference on Applications and Principles of Information Science(APIS 2008), Auckland, New Zealand, Jan. 28~30, 2008
-15. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-15]<br>
-Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
-10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008 
  
 ## 2007년
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
@@ -162,25 +158,25 @@ The 22nd International Technical Conference on Circuits/Systems, Computers and C
 3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
 Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, MyungHyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.147~148, Busan Korea, July 8~11, 2007
-4. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-4]<br>
-Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
-한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
-5. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-5]<br>
-남상엽, 이민구, 강정훈, 윤명현, 
-대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June, 2007
-6. [<b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b>][07-6]<br>
-박우출, 이명수, 윤명현, 김성동, 양성현, 
-대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June, 2007
-7. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
+4. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
-8. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b><br>
+5. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-5]<br>
+Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
+한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
+6. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-6]<br>
+남상엽, 이민구, 강정훈, 윤명현, 
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June, 2007
+7. [<b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b>][07-7]<br>
+박우출, 이명수, 윤명현, 김성동, 양성현, 
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June, 2007
+8. [<b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b>][07-8]<br>
 Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B. Kim, 
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
-9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-7]<br>
+9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-9]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
 Internationl Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
-10. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-8]<br>
+10. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-10]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, H.S. Sim, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
 11. <b>Sensor Networks for Asset Management System</b><br>
@@ -235,7 +231,7 @@ The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworth
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
-The 8th International Conference on Advanced Communication Technology(ICACT 2006), pp.719~724, Pheonix Park, Korea, Feb. 20~22, 2006
+The 8th International Conference on Advanced Communication Technology(ICACT 2006), pp.719~724, Phoenix Park, Korea, Feb. 20~22, 2006
 16. [<b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b>][06-16]<br>
 Soohyung Cho, Daewhan Kim, Myunghyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
@@ -441,21 +437,21 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 
 [17-1]: /home/paper/2017-01.pdf
 [17-2]: /home/paper/2017-02.pdf
-[16-1]: /home/paper/2016-01.pdf
-[16-2]: /home/paper/2016-02.pdf
-[16-3]: /home/paper/2016-03.pdf
-[15-3]: /home/paper/2015-03.pdf
+[16-1]: /home/paper/2016-02.pdf
+[16-2]: /home/paper/2016-03.pdf
+[16-3]: /home/paper/2016-01.pdf
+[15-2]: /home/paper/2015-03.pdf
 [14-1]: /home/paper/2014-01.pdf
 [14-2]: /home/paper/2014-02.pdf
 [14-3]: /home/paper/2014-03.pdf
 [14-4]: /home/paper/2014-04.pdf
 [13-1]: /home/paper/2013-01.pdf
-[13-2]: /home/paper/2013-02.pdf
-[12-1]: /home/paper/2012-PD1.pdf
-[12-2]: /home/paper/2012-PD2.pdf
-[12-3]: /home/paper/2012-PD3.pdf
-[12-4]: /home/paper/2012-04.pdf
-[12-5]: /home/paper/2012-05.pdf
+[13-3]: /home/paper/2013-02.pdf
+[12-1]: /home/paper/2012-04.pdf
+[12-2]: /home/paper/2012-05.pdf
+[12-3]: /home/paper/2012-PD1.pdf
+[12-4]: /home/paper/2012-PD2.pdf
+[12-5]: /home/paper/2012-PD3.pdf
 [11-1]: /home/paper/2011-PD1.pdf
 [11-2]: /home/paper/2011-PD2.pdf
 [10-1]: /home/paper/2010-PD1.pdf
@@ -474,15 +470,16 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [08-10]: /home/paper/UIT-2.pdf
 [08-11]: /home/paper/2008-11.pdf
 [08-13]: /home/paper/kiaebs_2008.pdf
-[08-15]: /home/paper/2008-15.pdf
+[08-14]: /home/paper/2008-15.pdf
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
 [07-3]: /home/paper/ITC-CSCC07-1.pdf
-[07-4]: /home/paper/KMMS07.pdf
-[07-5]: /home/paper/2007-5.pdf
-[07-6]: /home/paper/2007-6.pdf
-[07-7]: /home/paper/ICUT2007-1.pdf
+[07-5]: /home/paper/KMMS07.pdf
+[07-6]: /home/paper/2007-5.pdf
+[07-7]: /home/paper/2007-6.pdf
 [07-8]: /home/paper/ICUT2007-2.pdf
+[07-9]: /home/paper/ICUT2007-1.pdf
+
 [06-1]: /home/paper/ieek06-01.pdf
 [06-2]: /home/paper/SENSYS06.pdf
 [06-3]: /home/paper/cics06-01.pdf
