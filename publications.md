@@ -180,7 +180,7 @@ International Conference on Ubiquitous Information Technologies & Applications(I
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, H.S. Sim, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
 11. <b>Sensor Networks for Asset Management System</b><br>
-Lee Min Goo, Kang Jung Hoon, Yoon Myugn Hyun, 
+Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.591~594, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
 12. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
@@ -204,7 +204,7 @@ Woo-Chool Park, Myung-Hyun Yoon,
 SICE-ICASE International Joint Conference 2006, pp.2158~2161, Busan, Korea, Oct. 18~21, 2006
 6. <b>지능 공간 실현을 위한 위치인지 시스템 개발</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
-UIT 연구회 논문지(Journal of UIT Reserach) Vol.2, No.1, pp.99~104, 한국정보처리학회 UIT연구회, 2006.10. (ISSN 1738-8791)
+UIT 연구회 논문지(Journal of UIT Research) Vol.2, No.1, pp.99~104, 한국정보처리학회 UIT연구회, 2006.10. (ISSN 1738-8791)
 7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
 한국통신학회 2006년도 하계종합학술발표회 논문집, pp.823~826, 라마다프라자제주호텔, 2006.7.5~7
@@ -331,16 +331,16 @@ Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon,
 ## 2000년
 1. [<b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b>][00-1]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon and Byungyun Lee, 
-ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
+ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
 2. [<b>Application of Digital Technology to Nuclear Power Plant Operations</b>][00-2]<br>
 Myung-Hyun Yoon, Byungyun Lee and Hong-ju Moon, 
-ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
+ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
 3. [<b>A Fault-Tolerant Design of the Digital Distributed Control Systems for Nuclear Power Plants</b>][00-3]<br>
 Hong-ju Moon, Soo Young Shin, Wook Hyun Kwon, Byungyun Lee, Myung-Hyun Yoon and Yong-Kwan Lee, 
-ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
+ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
 4. [<b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b>][00-4]<br>
 Byungyun Lee, Hongju Moon and Myung-Hyun Yoon, 
-ANS International Topical Meeting on Nclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
+ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
 5. [<b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>][00-5]<br>
 Hong-ju Moon, Myung-Hyun Yoon and Yong-Kwan Lee, 
 Proceedings of the International Workshop on Fault-Tolerant Control and Computing(FTCC), pp.32∼36, Seoul, Korea, May 20~23, 2000
