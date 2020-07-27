@@ -7,7 +7,10 @@ permalink: /about/
 # Myung-Hyun Yoon
 | [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
 | [Publications](/publications/) 
-| [Patents](/patents/) |
+| [Patents](/patents/) |<br>
+| [Scholar][1] 
+| [Publications][2] 
+| [Patents][3] |
 
 I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
@@ -37,6 +40,10 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * 2005~2007 Adjuct Professor at Dept. of Computer Engineering, Kyungnam University
 * 2006~2007 Adjuct Professor at Dept. of Electronics, Korea Polytechnic University
 
+## Publications
+* I published 120 papers([Publications](/publications/)) registered 45 patents([Patents](/patents/))
+* Ph.D Thesis: [<b>New Signal Processing Techniques for NDE Applications</b>][phd], Myung-Hyun Yoon, Iowa State University, 1984
+
 ## Certificate
 * Technology Transfer Agent, MOTIE, Dec. 6, 2016
 
@@ -46,3 +53,8 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 
 ## Interests
 I like traveling and taking a picture. I am interested in IT devices and appliances.
+
+[1]: https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko
+[2]: /publications/
+[3]: /patents/
+[phd]: https://lib.dr.iastate.edu/rtd/10527/
