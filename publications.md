@@ -175,7 +175,7 @@ Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B.
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
 9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-9]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
-Internationl Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
+International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
 10. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-10]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, H.S. Sim, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
