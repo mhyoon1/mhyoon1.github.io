@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 # Myung-Hyun Yoon
-| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
-| [Publications](/publications/) 
-| [Patents](/patents/) |<br>
 | [Scholar][1] 
 | [Publications][2] 
 | [Patents][3] |
@@ -22,7 +19,7 @@ I've been a research scientist as well as research engineer for all my lifetime,
 I received a Ph.D. degree in Electrical Engineering from Iowa State University in 1994, and master's degree in neclear engineering 
 at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
-## Work Experience
+## Working Experience
 * 2020~     Research Fellow, KICTech
 * 2017~2020 Director of IT Industry Promotion Agency, Gyungnam Technopark
 * 2013~2017 Vice President of Communications & Media R&D Division, KETI
@@ -35,14 +32,15 @@ I am a research scientist at KETI, working on deep learning and its applications
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
 
 ## Teaching Experience
-* 1994~1997 Instructor at Dept. of Control & Meassurement, Korea University
-* 2000~2001 Instructor at Dept. of Control & Meassurement, Hanbat University
-* 2005~2007 Adjuct Professor at Dept. of Computer Engineering, Kyungnam University
-* 2006~2007 Adjuct Professor at Dept. of Electronics, Korea Polytechnic University
+* 1994~1997 Instructor of Dept. of Control & Meassurement, Korea University
+* 2000~2001 Instructor of Dept. of Control & Meassurement, Hanbat University
+* 2005~2007 Adjunct Professor of Dept. of Computer Engineering, Kyungnam University
+* 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
 
 ## Publications
-* I published 120 papers([Publications](/publications/)) registered 45 patents([Patents](/patents/))
-* Ph.D Thesis: [<b>New Signal Processing Techniques for NDE Applications</b>][phd], Myung-Hyun Yoon, Iowa State University, 1984
+* I published 120 papers([Publications][2]), and registered 45 patents([Patents][3])
+* [<b>New Ultrasonic Signal Processing Techniques for NDE Applications</b>][phd], Myung-Hyun Yoon, Iowa State University, 1994 (Ph.D)
+* [<b>Optimal Control of Xenon Spatial Oscillation in Load Following Operation</b>][ms], Myung-Hyun Yoon, KAIST, 1984 (M.S.)
 
 ## Certificate
 * Technology Transfer Agent, MOTIE, Dec. 6, 2016
@@ -58,3 +56,4 @@ I like traveling and taking a picture. I am interested in IT devices and applian
 [2]: /publications/
 [3]: /patents/
 [phd]: https://lib.dr.iastate.edu/rtd/10527/
+[ms]: https://library.kaist.ac.kr/search/ctlgSearch/thesis/view.do?bibctrlno=64339&se=t0&ty=B&_csrf=34505a49-911c-47d0-a0f0-c9e3a957ab5e
