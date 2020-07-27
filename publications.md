@@ -130,10 +130,10 @@ The 8th International Conference on Applications and Principles of Information S
 8. [<b>UWB 기반 무선 위치인지 서비스 기술</b>][08-8]<br>
 강정훈, 이민구, 임호정, 유준재, 윤명현, 고원식 
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9.
-9. <b>웹기반 저전력 USN 시스템 아키텍처</b><br>
+9. [<b>웹기반 저전력 USN 시스템 아키텍처</b>][08-9]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권, 
 The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
-10. <b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b><br>
+10. [<b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b>][08-10]<br>
 엄홍식, 강정훈, 고원석, 고정권, 이민구, 임호정, 윤명현, 
 The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
 11. [<b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b>][08-11]<br>
@@ -142,9 +142,9 @@ The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속�
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
 Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon, 
 제18회 통신정보 합동학술대회(JCCI 2008), 라마다프라자제주호텔, 2008.4.23~25
-13. <b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b><br>
+13. [<b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b>][08-13]<br>
 임호정, 유준재. 강정훈, 이민구, 윤명현, 송병철, 임상채, 
-한국건축친환경설비학회 춘계학술발표대회, 2008.4.12
+한국건축친환경설비학회 춘계학술발표대회, pp.37~30, 2008.4.12
 14. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
 The 7th International Conference on Applications and Principles of Information Science(APIS 2008), Auckland, New Zealand, Jan. 28~30, 2008
@@ -470,7 +470,10 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [08-6]: /home/paper/KMS-1.pdf
 [08-7]: /home/paper/KMS-2.pdf
 [08-8]: /home/paper/KMS-3.pdf
+[08-9]: /home/paper/UIT-1.pdf
+[08-10]: /home/paper/UIT-2.pdf
 [08-11]: /home/paper/2008-11.pdf
+[08-13]: /home/paper/kiaebs_2008.pdf
 [08-15]: /home/paper/2008-15.pdf
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
