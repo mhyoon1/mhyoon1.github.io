@@ -74,7 +74,7 @@ Telecommunications Review 22권 2호, pp.154~167, 2012
 윤명현, 오세윤, KEIT PD Issue Report 12-8호, 2012.9.
 4. [<b>스마트가전 현황 및 발전방향</b>][12-4]<br>
 윤명현, 장동현, KEIT PD Issue Report 12-4호, 2012.5.
-5. [<b>2011년 연구개발 주요성과 및 2012년 추진계획</b>][12-5]<br>
+5. [<b>홈네트워크/정보가전 2011년 연구개발 주요성과 및 2012년 추진계획</b>][12-5]<br>
 윤명현, KEIT PD Issue Report 12-1호, pp.27~31, 2012.2.
 6. [<b>WPAN기술 표준화 동향</b>][11-1]<br>
 윤명현, 장동현, KEIT PD Issue Report 11-9호, pp.19~31, 2011.11.
