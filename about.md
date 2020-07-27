@@ -38,9 +38,12 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
 
 ## Publications/Patents
-* I published 120 papers([Publications][2]), and registered 45 patents([Patents][3])
-* [<b>New Ultrasonic Signal Processing Techniques for NDE Applications</b>][phd], Myung-Hyun Yoon, Iowa State University, 1994 (Ph.D)
-* [<b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b>][ms], Myung-Hyun Yoon, KAIST, 1984 (M.S.)
+* I published 122 papers([Publications][2]), and registered 35 patents([Patents][3])
+* [<b>New Ultrasonic Signal Processing Techniques for NDE Applications</b>][phd] (Ph.D Dissertation), 
+Department of Electrical Engineering and Computer Engineering, Iowa State University, Ames, Iowa, U.S.A., Aug. 1994
+Myung-Hyun Yoon, Iowa State University, 1994 (Ph.D)
+* [<b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b>][ms] (M.S. Thesis), 
+Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
 
 ## Certificate
 * Technology Transfer Agent, MOTIE, Dec. 6, 2016
