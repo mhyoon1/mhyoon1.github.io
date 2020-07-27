@@ -26,7 +26,7 @@ at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 * 2009~2012 Home Network/Information Appliances Program Director(PD), KEIT
 * 2001~2009 Director of Research Center, KETI
 * 1994~2001 Senior Researcher, KEPRI
-* 1984~1989 KEPCO
+* 1984~1989 Engineer, KEPCO
 
 I am a research scientist at KETI, working on deep learning and its applications. 
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
