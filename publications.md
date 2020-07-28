@@ -299,7 +299,7 @@ Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon,
 ## 2003년
 1. <b>Design of a Simple Home Device  Protocol</b><br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
-Intrnational Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
+International Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
 
 ## 2002년
 1. [<b>Design of a New Chip Architecture for a Home Gateway</b>][02-1]<br>
