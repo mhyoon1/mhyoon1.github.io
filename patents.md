@@ -7,7 +7,8 @@ permalink: /patents/
 # Patents
 | [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
 | [Publications](/publications/) 
-| [Patents](/patents/) |
+| [Patents](/patents/) 
+| [Talks](/talks/) |
 
 ## 국내특허
 1. <b>대역외 간섭신호 제거 장치 및 방법</b><br>
