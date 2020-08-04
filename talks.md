@@ -11,5 +11,8 @@ permalink: /talks/
 | [Talks](/talks/) |
 
 ## 국내특허
-1. <b>Deep Learning (1) - History of AI</b><br>
-2. <b>Deep Learning (2) - Linear Regression/Logistic Regression</b>
+1. [<b>Deep Learning (1) - History of AI</b>][20-1]<br>
+2. [<b>Deep Learning (2) - Linear Regression/Logistic Regression</b>][20-2]
+
+[20-1]: /home/talks/1.AI.pdf
+[20-2]: /home/talks/2.LR.pdf
