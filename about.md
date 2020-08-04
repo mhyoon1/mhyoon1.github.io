@@ -53,8 +53,8 @@ Department of Nuclear Engineering, Korea Advanced Institute of Science and Techn
 
 ## Interests
 I like traveling the historical and natural scenery places domastic and foreign and taking pictures. 
-# [Photo Blog](http://myoon.tistory.com)
-# [Naver Blog](http://blog.naver.com/mhyoon4)
+* [Photo Blog](http://myoon.tistory.com)
+* [Naver Blog](http://blog.naver.com/mhyoon4)
 
 [1]: https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko
 [2]: /publications/
