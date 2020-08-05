@@ -59,7 +59,7 @@ I like traveling the historical and natural scenery places domastic and foreign 
 
 [1]: /publications/
 [2]: /patents/
-[3]: /Talks/
+[3]: /talks/
 [4]: https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko
 [5]: https://www.researchgate.net/profile/Myung_Hyun_Yoon
 
