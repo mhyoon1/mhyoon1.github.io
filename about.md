@@ -9,7 +9,7 @@ permalink: /about/
 | [Patents][2] 
 | [Talks][3] |
 
-See also [Scholar][4], and [ResearchGate][5].<br> 
+See also <[Scholar]>[4], and <[ResearchGate]>[5].<br> 
 I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
 ## Education
@@ -60,7 +60,8 @@ I like traveling the historical and natural scenery places domastic and foreign 
 [1]: /publications/
 [2]: /patents/
 [3]: /Talks/
-[3]: https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko
-[4]: https://www.researchgate.net/profile/Myung_Hyun_Yoon
+[4]: https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko
+[5]: https://www.researchgate.net/profile/Myung_Hyun_Yoon
+
 [phd]: https://lib.dr.iastate.edu/rtd/10527/
 [ms]: https://library.kaist.ac.kr/search/ctlgSearch/thesis/view.do?bibctrlno=64339&se=t0&ty=B&_csrf=34505a49-911c-47d0-a0f0-c9e3a957ab5e
