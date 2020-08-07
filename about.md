@@ -10,7 +10,8 @@ permalink: /about/
 | [Talks][3] |
 
 See also [<b>Scholar</b>][4] and [<b>ResearchGate</b>][5].
-
+<table border=0 bgcolor=black width=20><td><center><font color=white>ABC</td></table>
+                                                         
 I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
 ## Education
