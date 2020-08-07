@@ -9,13 +9,13 @@ permalink: /publications/
 | [Patents](/patents/) 
 | [Talks](/talks) |
 
-## 2013~2017년(KETI)
+## KETI (2013~2017)
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
-
+---
 1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
@@ -25,7 +25,6 @@ The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), 
 3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
 The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
-
 1. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
@@ -35,7 +34,6 @@ International Conference on Computing and Precision Engineering(ICCPE 2015) & In
 3. [<b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b>][15-3]<br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
 The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
-
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.222~223, Shanghai China, July 8~11, 2014
@@ -48,7 +46,6 @@ Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beo
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
-
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
@@ -58,23 +55,20 @@ Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum,
 3. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-3]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
-
-## 2009~2012년(KEIT)
+## KEIT PD (2009~2012)
 1. [<b>스마트TV 산업 활성화 정책</b>][12-1]<br>
 윤명현, 김대진, 
 KT경제경영연구소 DIGIECO Focus, 2012.5.8.
 2. [<b>스마트TV 산업 활성화를 위한 정책적 이슈</b>][12-2]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
-
-## 2001~2009년(KETI)
+## KETI (2001~2009)
 1. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
 Woochool Park, Hyunmoon Park, Haemoon Seo, Myunghyun Yoon, Sungdong Kim, Sunghyun Yang, 
 The 8th International Conference on Applications and Principles of Information Science(APIS 2009), Okinawa Japan, 2009
 2. <b>The Requirements of Error Components for Satisfying SSR in the WPAN Transmitter</b><br>
 Yong-Kuk Park, Min-Goo Lee, Jun-Jae Yoo, Myung-Hyun Yoon, Hyeong-Seok Kim, 
 The 8th International Conference on Applications and Principles of Information Science(APIS 2009), Okinawa Japan, 2009
-
 1. <b>센서 인터페이스를 위한 AFE 회로의 설계</b><br>
 문연국, 김동순, 황태호, 원광호, 윤명현, 
 제12회 차세대통신소프트웨어 학술대회(NCS 2008), 휘닉스파크, 2008.12.3~5
@@ -120,7 +114,6 @@ Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon,
 15. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
 The 7th International Conference on Applications and Principles of Information Science(APIS 2008), Auckland, New Zealand, Jan. 28~30, 2008
- 
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 3rd International Conference on Multimedia, Information Technology and Its Applications(MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
@@ -157,7 +150,6 @@ The 6th International Conference on Applications and Principles of Information S
 12. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.575~578, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
-
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 2006.11.25
@@ -215,7 +207,7 @@ The 5th Asia Pacific International Symposium on Information Technology(APIS 2006
 19. [<b>Home Automation Control with Indoor Positioning System</b>][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
-
+---
 1. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-1]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
