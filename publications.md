@@ -21,7 +21,7 @@ KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2
 2. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b><br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
 The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016
-(<a href="https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing">PDF</a>, 
+(<a color="red" href="https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing">Paper</a>, 
 <a href="https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing">Slide</a>)
 3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
