@@ -9,9 +9,9 @@ permalink: /about/
 | [Patents][2] 
 | [Talks][3] |
 
-See also <[Scholar]>[4], and <[ResearchGate]>[5].<br> 
-I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
+See also [Scholar][4], and [ResearchGate][5].
 
+I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 ## Education
 * 1989~1994 Ph.D. in Electrical Engineering, Iowa State University 
 * 1982~1984 M.S. in Nuclear Engineering, Korea Advanced Institute of Science and Technology
@@ -19,7 +19,6 @@ I've been a research scientist as well as research engineer for all my lifetime,
 
 I received a Ph.D. degree in Electrical Engineering from Iowa State University in 1994, and master's degree in neclear engineering 
 at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
-
 ## Working Experience
 * 2020~     Research Fellow, KICTech
 * 2017~2020 Director of IT Industry Promotion Agency, Gyungnam Technopark
@@ -31,27 +30,22 @@ at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
 I am a research scientist at KETI, working on deep learning and its applications. 
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
-
 ## Teaching Experience
 * 1994~1997 Instructor of Dept. of Control & Meassurement, Korea University
 * 2000~2001 Instructor of Dept. of Control & Meassurement, Hanbat University
 * 2005~2007 Adjunct Professor of Dept. of Computer Engineering, Kyungnam University
 * 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
-
 ## Publications/Patents
 * I published 122 papers([Publications][2]), and registered 35 patents([Patents][3])
 * [<b>New Ultrasonic Signal Processing Techniques for NDE Applications</b>][phd] (Ph.D Dissertation), 
 Department of Electrical Engineering and Computer Engineering, Iowa State University, Ames, Iowa, U.S.A., Aug. 1994
 * [<b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b>][ms] (M.S. Thesis), 
 Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
-
 ## Certificate
 * Technology Transfer Agent, MOTIE, Dec. 6, 2016
-
 ## Awards
 * Marquis Who's Who in the World 2016
 * Commendation from Minister of MOTIE, Oct. 8, 2019
-
 ## Interests
 I like traveling the historical and natural scenery places domastic and foreign and taking pictures. 
 * [Photo Blog](http://myoon.tistory.com)
