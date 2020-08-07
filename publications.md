@@ -15,7 +15,7 @@ Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Y
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
- 
+
 1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
@@ -25,7 +25,6 @@ The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), 
 3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
 The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
- 
 1. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
@@ -47,7 +46,6 @@ Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beo
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
- 
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
@@ -58,7 +56,7 @@ Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum,
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 
-## KEIT PD (2009~2012)
+## 2009~2012(KEIT PD)
 1. [<b>스마트TV 산업 활성화 정책</b>][12-1]<br>
 윤명현, 김대진, 
 KT경제경영연구소 DIGIECO Focus, 2012.5.8.
@@ -66,7 +64,7 @@ KT경제경영연구소 DIGIECO Focus, 2012.5.8.
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
 
-## KETI (2001~2009)
+## 2001~2009(KETI)
 1. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
 Woochool Park, Hyunmoon Park, Haemoon Seo, Myunghyun Yoon, Sungdong Kim, Sunghyun Yang, 
 The 8th International Conference on Applications and Principles of Information Science(APIS 2009), Okinawa Japan, 2009
@@ -275,23 +273,20 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 21. [<b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제15회 통신정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
-
 1. [<b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][04-1]<br>
 Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon, 
 한국통신학회 2004년도 하계종합학술발표회, 2004.7.
 2. [<b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b>][04-2]<br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
-
 1. <b>Design of a Simple Home Device  Protocol</b><br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
-
 1. [<b>Design of a New Chip Architecture for a Home Gateway</b>][02-1]<br>
 Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon, 
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
-## 1994~2000년(KEPRI)
+## 1994~2000(KEPRI)
 1. [<b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b>][00-1]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon and Byungyun Lee, 
 ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
@@ -307,8 +302,6 @@ ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and 
 5. [<b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>][00-5]<br>
 Hong-ju Moon, Myung-Hyun Yoon and Yong-Kwan Lee, 
 Proceedings of the International Workshop on Fault-Tolerant Control and Computing(FTCC), pp.32∼36, Seoul, Korea, May 20~23, 2000
-
-## 1999년
 1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
 Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics(ICMT '99), pp.474~479, Pusan Korea, Oct. 21~23, 1999
@@ -339,8 +332,6 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 10. [<b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b>][99-10]<br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
 1999년도 대한전기학회 하계학술대회 논문집, pp.1013~1016, 1999.7.
-
-## 1998년
 1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
 윤명현, 신창훈, 문홍주, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집 pp.78~84, 1998.10.
@@ -353,8 +344,6 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 4. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
 6th International Conference on Nuclear Engineering(ICONE-6), San Diego, California, May 10~15, 1998
-
-## 1997년
 1. <b>A New Method of Rod Drop Time Measurement Using Movable Coil Signals</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
 EPRI Technical Conference, Nov. 1997
@@ -370,8 +359,6 @@ Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221~1224, Tokushima,
 5. [<b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b>][97-5]<br>
 Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson, 
 14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165~170, July 1997
-
-## 1996년
 1. [<b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b>][96-1]<br>
 신창훈, 윤명현, 정학영, 
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1004~1007, 1996.10.
@@ -379,7 +366,7 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 윤명현, 신창훈, 박익수, 
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008~1011, 1996.10.
 
-## 1991~1993년
+## 1990~1993(ISU)
 1. [<b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b>][93-1]<br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.12A, pp.767~774, Oct. 1993
@@ -393,7 +380,7 @@ Proceedings of the 1991 IEEE International Conference on Systems Engineering, pp
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
-## 1985년
+## 1985(KAIST)
 1. [<b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b>][85-1]<br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
