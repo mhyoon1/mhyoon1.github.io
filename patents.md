@@ -5,7 +5,6 @@ permalink: /patents/
 ---
 
 # Patents
-| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
 | [Publications](/publications/) 
 | [Patents](/patents/) 
 | [Talks](/talks/) |
@@ -100,7 +99,6 @@ permalink: /patents/
 30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법</b> 
 김기훈, 윤명현
 등록번호10-0273170 (2000.9.1)
-
 ## 국외특허
 1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b>, 
 Hae Moon Seo, Kwang Ho Won, Young kuk Park, Myung Hyun Yoon, Jun Jae Yoo, Application No. 10/981,789 (2004.11.5.), Publication No. US 2006/0019700 A1 (2006.1.26.), 미국
