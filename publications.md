@@ -9,13 +9,13 @@ permalink: /publications/
 | [Patents](/patents/) 
 | [Talks](/talks) |
 
-## KETI (2013~2017)
+## 2013~2017(KETI)
 1. [<b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>][17-1]<br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
-
+ 
 1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
@@ -25,7 +25,7 @@ The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), 
 3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
 The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
-
+ 
 1. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
@@ -47,7 +47,7 @@ Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beo
 4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
-
+ 
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
