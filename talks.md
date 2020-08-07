@@ -16,5 +16,5 @@ permalink: /talks/
 4. Deep Learning(4)-Convolutional Neural Network
 
 
-[20-1]: /home/talks/1.AI.pdf
+[20-1]: /home/talks/10.AI.pdf
 [20-2]: /home/talks/2.LR.pdf
