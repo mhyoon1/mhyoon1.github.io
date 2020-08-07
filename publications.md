@@ -18,7 +18,7 @@ KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250
 1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
-2. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability ([Paper][16-2], [Slide][16-2-1])</b><br>
+2. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b> ([Paper][16-2], [Slide][16-2-1])<br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
 The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016
 3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
