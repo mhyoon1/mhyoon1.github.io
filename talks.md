@@ -10,8 +10,8 @@ permalink: /talks/
 | [Talks](/talks/) |
 
 ## 발표
-1. [<b>Deep Learning(1) - History of AI</b>][20-1]<br>
-2. [<b>Deep Learning(2) - Linear Regression/Logistic Regression</b>][20-2]
+1. Deep Learning(1): Artificial Intelligence ([Slide][20-1]), Seminar at NIDS, KICTech, Jul. 2020
+2. Deep Learning(2): Linear Regression/Logistic Regression ([Slide][20-2]), Seminar at NIDS, KICTech, Jul. 2020
 3. Deep Learning(3) 
 4. Deep Learning(4)-Convolutional Neural Network
 
