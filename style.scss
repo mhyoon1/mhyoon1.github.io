@@ -19,7 +19,7 @@ html {
 body {
   background: $white;
   font: 16px/1.5 $helvetica;
-  color: $gray;
+  color: $darkerGray;
 }
 
 .container {
@@ -65,11 +65,11 @@ p {
 }
 
 a {
-  color: $blue;
+  // color: $blue;
   text-decoration: none;
   cursor: pointer;
   // &:hover, &:active {
-  //   color: $orange;
+  color: $orange;
   // }
 }
 
