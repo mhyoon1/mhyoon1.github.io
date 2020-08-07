@@ -9,7 +9,7 @@ permalink: /about/
 | [Patents][2] 
 | [Talks][3] |
 
-See also [</b>Scholar</b>][4], and [ResearchGate][5].
+See also [<b>Scholar</b>][4], and [ResearchGate][5].
 
 I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
