@@ -4,13 +4,13 @@ title: Talks
 permalink: /talks/
 ---
 
-# Talkss
-| [Scholar](https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko) 
+# Talks
+
 | [Publications](/publications/) 
 | [Patents](/patents/) 
 | [Talks](/talks/) |
 
-## 국내특허
+## 발표
 1. [<b>Deep Learning (1) - History of AI</b>][20-1]<br>
 2. [<b>Deep Learning (2) - Linear Regression/Logistic Regression</b>][20-2]
 
