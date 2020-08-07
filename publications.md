@@ -15,13 +15,13 @@ Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Y
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
-
 1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
-2. [<b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b>][16-2]<br>
+2. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b><br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
 The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016
+| [PDF][16-2] | [Slide][16-2-1] |
 3. [<b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b>][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
 The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
@@ -209,7 +209,6 @@ The 5th Asia Pacific International Symposium on Information Technology(APIS 2006
 19. [<b>Home Automation Control with Indoor Positioning System</b>][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
----
 1. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-1]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
@@ -388,7 +387,8 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [17-1]: /home/paper/2017-01.pdf
 [17-2]: /home/paper/2017-02.pdf
 [16-1]: /home/paper/2016-02.pdf
-[16-2]: /home/paper/2016-03.pdf
+[16-2]: https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing
+[16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
 [16-3]: /home/paper/2016-01.pdf
 [15-2]: /home/paper/2015-03.pdf
 [15-3]: /home/paper/ICOIN15-1.pdf
