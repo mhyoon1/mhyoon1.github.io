@@ -11,10 +11,10 @@ permalink: /publications/
 
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>
-<span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCI-E </span> [(Paper)][17-1]<br>
+[(Paper)][17-1] <span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCI-E </span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
-2. [<b>자율주행을 위한 다중센서 기반 인공지능 기술</b>][17-2]<br>
+2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
 1. [<b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b>][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
@@ -384,8 +384,8 @@ Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 
-[17-1]: /home/paper/2017-01.pdf
-[17-2]: /home/paper/2017-02.pdf
+[17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
+[17-2]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
 [16-1]: /home/paper/2016-02.pdf
 [16-2]: https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing
 [16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
