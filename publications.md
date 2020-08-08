@@ -384,7 +384,7 @@ Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
-노희천, 윤명현, 한국원자력학회 추계학술발표회
+노희천, 윤명현, 한국원자력학회 추계학술발표회, 1984
 
 [17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
 [17-2]: https://drive.google.com/file/d/1DXcWS0yMEn_Ldl5OEWExeyajhPXsv0DR/view?usp=sharing
