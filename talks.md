@@ -18,9 +18,9 @@ permalink: /talks/
 6. <b>4차 산업혁명과 인공지능 기술</b> [(Slide)][19-1], 마산대 세미나, 2019.10.25.
 
 
-[20-1]: https://drive.google.com/file/d/1jQAszeMAmkEilT3AM1ApE4HRxTdekCM_/view?usp=sharing
-[20-2]: https://drive.google.com/file/d/1oXOEYhHfVwXULLAXk7K8qVUwGdH_oiOX/view?usp=sharing
-[20-3]: https://drive.google.com/file/d/1C6KOkFc4jGLN68WrZgAGeJv0ZkTPTEnz/view?usp=sharing
-[20-4]: https://drive.google.com/file/d/1SSZZIps5oMWHsU0agjK1A9ntIGLU3fCL/view?usp=sharing
-[20-5]: https://drive.google.com/file/d/1OpcB0ENMdA2cf4kuoyeqC5V3gzQHAWH2/view?usp=sharing
+[20-1]: https://drive.google.com/file/d/1sYEXUa-nlXMEFE9tAXKGff5BeWVx7Bk7/view?usp=sharing
+[20-2]: https://drive.google.com/file/d/1fAx_Bq1MEVfvCgAI5W3uLhSnouX2Gqmd/view?usp=sharing
+[20-3]: https://drive.google.com/file/d/1v7n1HykBrcEytKgxT34lMr1jyB4Vo08N/view?usp=sharing
+[20-4]: https://drive.google.com/file/d/1C1R__rKcYEycsi-bh1QpJryF94sCx03k/view?usp=sharing
+[20-5]: https://drive.google.com/file/d/1TI3KC7PdendVFJXspa_mKh_knjAeHz5U/view?usp=sharing
 [19-1]: https://drive.google.com/file/d/1esrf6mtwqVRaDlEgZSGySTgY7cclT431/view?usp=sharing
