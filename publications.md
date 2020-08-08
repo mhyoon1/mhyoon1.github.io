@@ -385,7 +385,7 @@ Myung-Hyun Yoon, Hee-Cheon No,
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 
 [17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
-[17-2]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
+[17-2]: https://drive.google.com/file/d/1DXcWS0yMEn_Ldl5OEWExeyajhPXsv0DR/view?usp=sharing
 [16-1]: https://drive.google.com/file/d/12WxOimMGcspSkN7Slf-tqjCOIBJdb1rz/view?usp=sharing
 [16-2]: https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing
 [16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
