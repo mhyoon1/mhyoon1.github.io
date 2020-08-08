@@ -34,16 +34,16 @@ International Conference on Computing and Precision Engineering(ICCPE 2015) & In
 3. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b> [(Paper)][15-3]<br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
 The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
-1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
+1. <b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b> [(Paper,][14-1] [Slide)][14-1-2]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.222~223, Shanghai China, July 8~11, 2014
-2. [<b>Digital Backend Design of Implantable RFID Tag</b>][14-2]<br>
+2. <b>Digital Backend Design of Implantable RFID Tag</b> [(Paper)][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
 6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.224~225, Shanghai China, July 8~11, 2014
-3. [<b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b>][14-3]<br>
+3. <b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b> [(Paper)][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), pp.1~4, Beijing China, Jun. 25~27, 2014
-4. [<b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b>][14-4]<br>
+4. <b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b> [(Paper)][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
 1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
@@ -392,10 +392,11 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [16-3]: https://drive.google.com/file/d/1IbaNLBbCxFB37hEvt2IvEFYDeglpHR2z/view?usp=sharing
 [15-2]: https://drive.google.com/file/d/1r713l7FASnCJ7j087wNwE4843Pux1Hzf/view?usp=sharing
 [15-3]: https://drive.google.com/file/d/1ZQhpura4XWzUMluyLR_v_MyYaOVxxowp/view?usp=sharing
-[14-1]: /home/paper/2014-01.pdf
-[14-2]: /home/paper/2014-02.pdf
-[14-3]: /home/paper/2014-03.pdf
-[14-4]: /home/paper/2014-04.pdf
+[14-1]: https://drive.google.com/file/d/1TS8HVZRartwQgX8jgGhdetDT7Ws6MeK7/view?usp=sharing
+[14-1-2]: https://drive.google.com/file/d/1RUCV1TZuQZOQLHj1r2q3p3QKF3y65WzE/view?usp=sharing
+[14-2]: https://drive.google.com/file/d/1FpNxPllz3glsYbnR4wsFREYB1XOYoCmc/view?usp=sharing
+[14-3]: https://drive.google.com/file/d/1jtyNUW7YIu7B8twoS0GYcTO8G7EGvhA9/view?usp=sharing
+[14-4]: https://drive.google.com/file/d/1CMwEUUD8AynB2-uU2prw-PgWlb7_P1ln/view?usp=sharing
 [13-1]: /home/paper/2013-01.pdf
 [13-3]: /home/paper/2013-02.pdf
 [12-1]: /home/paper/2012-04.pdf
