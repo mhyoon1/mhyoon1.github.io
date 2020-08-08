@@ -46,13 +46,13 @@ Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beo
 4. <b>A Framework for Providing Dynamic Context-Aware User Interface of the Secondary Devices Using the SmartTV in Home Network Environment</b> [(Paper)][14-4]<br>
 Jaewon Moon, Tae-Beom Lim, Sungju Park, Seungwoo Kum, Kyungwon Kim, Jongbin Park, Myunghyun Yoon, Dong-Hee Shin, 
 2014 International Conference on Computer Science and Service System(CSSS 2014), pp.579~582, Bangkok Thailand, Jun. 13~15, 2014
-1. [<b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b>][13-1]<br>
+1. <b>스마트홈 상에서의 RGB-Depth 카메라 기반 Non-intrusive 상황인지모듈 개발</b> [(Paper)][13-1]<br>
 박종빈, 금성우, 김경원, 정종진, 임태범, 윤명현, 
 2013년 대한전자공학회 추계학술대회 논문집, pp.2557~2559, 고려대학교, 2013.11.23
 2. <b>A Framework for Dynamic Context-awarable User Interfaces of the Second Screen Devices in a Home Network Environment</b><br>
 Jae-Won Moon, Myung-Hyun Yoon, Tae-Boem Lim, Kyung-Won Kim, Seung-Woo Kum, 
 37th Annual International Computer Software & Applications Conference(IEEE COMPSAC 2013), pp.284~285, Kyoto Japan, July 22~26, 2013
-3. [<b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b>][13-3]<br>
+3. <b>Channel Reliability Dependent Wyner-Ziv Video Coding Using Rate Adaptive LDPC Code with Degree-1 Syndrome</b> [(Paper)][13-3]<br>
 Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 
@@ -397,8 +397,8 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [14-2]: https://drive.google.com/file/d/1FpNxPllz3glsYbnR4wsFREYB1XOYoCmc/view?usp=sharing
 [14-3]: https://drive.google.com/file/d/1jtyNUW7YIu7B8twoS0GYcTO8G7EGvhA9/view?usp=sharing
 [14-4]: https://drive.google.com/file/d/1CMwEUUD8AynB2-uU2prw-PgWlb7_P1ln/view?usp=sharing
-[13-1]: /home/paper/2013-01.pdf
-[13-3]: /home/paper/2013-02.pdf
+[13-1]: https://drive.google.com/file/d/17KfpwMYb-hDIQ53gr0Hw0HQFm9ynrArh/view?usp=sharing
+[13-3]: https://drive.google.com/file/d/1QJ-vHX9vuIsHemZxCXQ_oa4eQcidSVnn/view?usp=sharing
 [12-1]: /home/paper/2012-04.pdf
 [12-2]: /home/paper/2012-05.pdf
 
