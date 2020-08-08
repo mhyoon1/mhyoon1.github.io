@@ -57,10 +57,10 @@ Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo J
 2013 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2013), pp.1~4, London, United Kingdom, Jun. 5~7, 2013
 
 ## 2009~2012(KEIT PD)
-1. [<b>스마트TV 산업 활성화 정책</b>][12-1]<br>
+1. <b>스마트TV 산업 활성화 정책</b> [(Paper)][12-1]<br>
 윤명현, 김대진, 
 KT경제경영연구소 DIGIECO Focus, 2012.5.8.
-2. [<b>스마트TV 산업 활성화를 위한 정책적 이슈</b>][12-2]<br>
+2. <b>스마트TV 산업 활성화를 위한 정책적 이슈</b> [(Paper)][12-2]<br>
 윤명현, 김대진, 
 Telecommunications Review 22권 2호, pp.154~167, 2012
 
@@ -399,8 +399,8 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [14-4]: https://drive.google.com/file/d/1CMwEUUD8AynB2-uU2prw-PgWlb7_P1ln/view?usp=sharing
 [13-1]: https://drive.google.com/file/d/17KfpwMYb-hDIQ53gr0Hw0HQFm9ynrArh/view?usp=sharing
 [13-3]: https://drive.google.com/file/d/1QJ-vHX9vuIsHemZxCXQ_oa4eQcidSVnn/view?usp=sharing
-[12-1]: /home/paper/2012-04.pdf
-[12-2]: /home/paper/2012-05.pdf
+[12-1]: https://drive.google.com/file/d/1qw6sZ65FKh0QLVlrOIceSufQ7qUvq563/view?usp=sharing
+[12-2]: https://drive.google.com/file/d/1tVupNAFBwwOYzITwT7OkIrzk5PDV2lXB/view?usp=sharing
 
 [08-4]: /home/paper/CICS08-1.pdf
 [08-5]: /home/paper/CICS08-2.pdf
