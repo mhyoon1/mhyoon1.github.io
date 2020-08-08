@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b>
-[(Paper)][17-1] <span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCI-E&nbsp;</span><br>
+[(Paper)][17-1] <span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCIE&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
@@ -366,10 +366,10 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008~1011, 1996.10.
 
 ## 1990~1993(ISU)
-1. [<b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b>][93-1]<br>
+1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b> [(Paper)][93-1]<br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.12A, pp.767~774, Oct. 1993
-2. [<b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b>][92-1]<br>
+2. <b>Characterization of Materials Using Grain Backscattered Ultrasonic Signals</b> [(Paper)][92-1]<br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.11A, pp.959~965, Oct. 1992
 3. <b>Estimation of Colored Plant Noise Using Kalman Filter Based Deconvolution</b><br>
@@ -383,6 +383,8 @@ Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 1. [<b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b>][85-1]<br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
+2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
+노희천, 윤명현, 한국원자력학회 추계학술발표회
 
 [17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
 [17-2]: https://drive.google.com/file/d/1DXcWS0yMEn_Ldl5OEWExeyajhPXsv0DR/view?usp=sharing
@@ -489,6 +491,6 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [96-1]: /home/paper/kacc96-2.pdf
 [96-2]: /home/paper/kacc96-1.pdf
 
-[93-1]: /home/paper/QNDE-93.pdf
-[92-1]: /home/paper/QNDE-92.pdf
+[93-1]: https://drive.google.com/file/d/1_u8J_X_yLeQOKqo--51iw_hj3pYO-0qs/view?usp=sharing
+[92-1]: https://drive.google.com/file/d/1r45KiBIlLXfeiuFBevZcHDrjKXjG7cAA/view?usp=sharing
 [85-1]: https://www.tandfonline.com/doi/abs/10.13182/NSE85-A17677
