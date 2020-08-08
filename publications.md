@@ -28,10 +28,10 @@ The 11th Asia Pacific International Conference on Information Science and Techno
 1. <b>A Study on the Development of Realistic Testbed for the UX(User eXperience) Profiling in a Service Design</b><br>
 Songyi Kim, Youngchoong Park, Byoungha Park, Seong-Dong Kim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Conference on Computing and Precision Engineering(ICCPE 2015) & International Conference on Inventions(ICI 2015), NanTou Taiwan, Nov. 27~30, 2015
-2. [<b>홈 정보가전 연동 서비스를 위한 IoT 기술</b>][15-2]<br>
+2. <b>홈 정보가전 연동 서비스를 위한 IoT 기술</b> [(Paper)][15-2]<br>
 금성우, 육근웅, 문재원, 임태범, 윤명현, 
 한국통신학회지 정보와 통신(Information and Communications Magazine) 32권 4호, pp.36~43, 2015.4.15.
-3. [<b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b>][15-3]<br>
+3. <b>DLNA Protocol Analysis Tool for Smart Device Interoperability Test</b> [(Paper)][15-3]<br>
 Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon, 
 The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
 1. [<b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b>][14-1]<br>
@@ -390,8 +390,8 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [16-2]: https://drive.google.com/file/d/1HnfudC4H4fnIo02SnYqHv6VgNQjfNxeT/view?usp=sharing
 [16-2-1]: https://drive.google.com/file/d/1sk6XuN0lOsRp-K-9aH7vpLv1hHVQbHLd/view?usp=sharing
 [16-3]: https://drive.google.com/file/d/1IbaNLBbCxFB37hEvt2IvEFYDeglpHR2z/view?usp=sharing
-[15-2]: /home/paper/2015-03.pdf
-[15-3]: /home/paper/ICOIN15-1.pdf
+[15-2]: https://drive.google.com/file/d/1r713l7FASnCJ7j087wNwE4843Pux1Hzf/view?usp=sharing
+[15-3]: https://drive.google.com/file/d/1ZQhpura4XWzUMluyLR_v_MyYaOVxxowp/view?usp=sharing
 [14-1]: /home/paper/2014-01.pdf
 [14-2]: /home/paper/2014-02.pdf
 [14-3]: /home/paper/2014-03.pdf
