@@ -80,10 +80,10 @@ The 8th International Conference on Applications and Principles of Information S
 3. <b>유비쿼터스 센서 네트워크를 위한 웹 기법</b><br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 한국정보과학회 학술심포지엄, 2008.11.28
-4. [<b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b>][08-4]<br>
+4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b> [(Paper)][08-4]<br>
 이민구, 강정훈, 임호정, 윤명현, 
 2008년도 정보 및 제어 학술대회(CICS 2008), pp.548~549, 현대성우리조트, 2008.10.31~11.1
-5. [<b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b>][08-5]<br>
+5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b> [(Paper)][08-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 
 2008년도 정보 및 제어 학술대회(CICS 2008), pp.546~547, 현대성우리조트, 2008.10.31~11.1
 6. [<b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b>][08-6]<br>
@@ -410,8 +410,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [12-1]: https://drive.google.com/file/d/1qw6sZ65FKh0QLVlrOIceSufQ7qUvq563/view?usp=sharing
 [12-2]: https://drive.google.com/file/d/1tVupNAFBwwOYzITwT7OkIrzk5PDV2lXB/view?usp=sharing
 
-[08-4]: /home/paper/CICS08-1.pdf
-[08-5]: /home/paper/CICS08-2.pdf
+[08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
+[08-5]: https://drive.google.com/file/d/1hhxHmeWJH1Wz3_jdtpd9t2mWyOvcvqBw/view?usp=sharing
 [08-6]: /home/paper/KMS-1.pdf
 [08-7]: /home/paper/KMS-2.pdf
 [08-8]: /home/paper/KMS-3.pdf
