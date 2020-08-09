@@ -86,22 +86,22 @@ The 8th International Conference on Applications and Principles of Information S
 5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b> [(Paper)][08-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 
 2008년도 정보 및 제어 학술대회(CICS 2008), pp.546~547, 현대성우리조트, 2008.10.31~11.1
-6. [<b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b>][08-6]<br>
+6. <b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b> [(Paper)][08-6]<br>
 조수형, 윤명현, 
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.19~26, 2008.9.
-7. [<b>구속형 위치인지 서비스 기술 및 응용</b>][08-7]<br>
+7. <b>구속형 위치인지 서비스 기술 및 응용</b> [(Paper)][08-7]<br>
 신준호, 윤명현, 
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.27~34, 2008.9.
-8. [<b>UWB 기반 무선 위치인지 서비스 기술</b>][08-8]<br>
+8. <b>UWB 기반 무선 위치인지 서비스 기술</b> [(Paper)][08-8]<br>
 강정훈, 이민구, 임호정, 유준재, 윤명현, 고원식 
 한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9.
-9. [<b>웹기반 저전력 USN 시스템 아키텍처</b>][08-9]<br>
+9. <b>웹기반 저전력 USN 시스템 아키텍처</b> [(Paper)][08-9]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권, 
 The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
-10. [<b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b>][08-10]<br>
+10. <b>IEEE 802.15.4 동기화 저전력 USN 프로토콜 향상 기법</b> [(Paper)][08-10]<br>
 엄홍식, 강정훈, 고원석, 고정권, 이민구, 임호정, 윤명현, 
 The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
-11. [<b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b>][08-11]<br>
+11. <b>IEEE 802.15.4 기반 저전력 멀티-홉 메쉬 센서 네트워크 프로토콜</b> [(Paper)][08-11]<br>
 고원식, 강정훈, 엄흥식, 이민구, 임호정, 윤명현, 장영민, 
 한국통신학회 하계종합학술대회 논문집, pp.845~848, 2008.7.2
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
@@ -412,12 +412,12 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 
 [08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
 [08-5]: https://drive.google.com/file/d/1hhxHmeWJH1Wz3_jdtpd9t2mWyOvcvqBw/view?usp=sharing
-[08-6]: /home/paper/KMS-1.pdf
-[08-7]: /home/paper/KMS-2.pdf
-[08-8]: /home/paper/KMS-3.pdf
-[08-9]: /home/paper/UIT-1.pdf
-[08-10]: /home/paper/UIT-2.pdf
-[08-11]: /home/paper/2008-11.pdf
+[08-6]: https://drive.google.com/file/d/1_uICYCaqP2_3wd62BwgFqGP84wdbf37V/view?usp=sharing
+[08-7]: https://drive.google.com/file/d/1ack5Dn-7W7cystbNm3MUOv8dpQEiHZBz/view?usp=sharing
+[08-8]: https://drive.google.com/file/d/13vm7f9A0EBfHi1P0uQsSV9JPQjEkpWd9/view?usp=sharing
+[08-9]: https://drive.google.com/file/d/1DmXjOymIv83Ll-vdGj7enpN3XZITs5Oj/view?usp=sharing
+[08-10]: https://drive.google.com/file/d/1LLHRbeJrp_gpFWQqiT_mQIeR4BsV4S4P/view?usp=sharing
+[08-11]: https://drive.google.com/file/d/1HSxXibsRnC9FJ1AmvSn9Mt0HGj75DiEW/view?usp=sharing
 [08-13]: /home/paper/kiaebs_2008.pdf
 [08-14]: /home/paper/2008-15.pdf
 [07-1]: /home/paper/MITA2007.pdf
