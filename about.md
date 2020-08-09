@@ -38,7 +38,7 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
 
 ## Publications/Patents
-I published 123 papers and registered 35 patents. ([Publications][2], [Patents][3])
+I published 123 papers and registered 35 patents. ([Publications][2], [Patents][3])<br>
 See also [Scholar][4] and [ResearchGate][5].
 
 ## Certificate
