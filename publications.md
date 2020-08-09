@@ -386,6 +386,12 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
 노희천, 윤명현, 한국원자력학회 추계학술발표회, 1984
 
+## 학위논문
+1. <b>New Ultrasonic Signal Processing Techniques for NDE Applications</b> [(Ph.D Dissertation)][phd]<br>, 
+Myung-Hyun Yoon, Department of Electrical Engineering and Computer Engineering, Iowa State University, Ames, Iowa, U.S.A., Aug. 1994
+2. <b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b> [(M.S. Thesis)][ms]<br> 
+Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
+
 [17-1]: https://drive.google.com/file/d/1hGgh6ZDUh4TVXJ0uQM0ZE2dFZE4QGHlG/view?usp=sharing
 [17-2]: https://drive.google.com/file/d/1DXcWS0yMEn_Ldl5OEWExeyajhPXsv0DR/view?usp=sharing
 [16-1]: https://drive.google.com/file/d/12WxOimMGcspSkN7Slf-tqjCOIBJdb1rz/view?usp=sharing
@@ -494,3 +500,6 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 [93-1]: https://drive.google.com/file/d/1_u8J_X_yLeQOKqo--51iw_hj3pYO-0qs/view?usp=sharing
 [92-1]: https://drive.google.com/file/d/1r45KiBIlLXfeiuFBevZcHDrjKXjG7cAA/view?usp=sharing
 [85-1]: https://www.tandfonline.com/doi/abs/10.13182/NSE85-A17677
+
+[phd]: https://lib.dr.iastate.edu/rtd/10527/
+[ms]: https://library.kaist.ac.kr/search/ctlgSearch/thesis/view.do?bibctrlno=64339&se=t0&ty=B&_csrf=34505a49-911c-47d0-a0f0-c9e3a957ab5e
