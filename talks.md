@@ -16,7 +16,7 @@ permalink: /talks/
 4. <b>Deep Learning(4): Convolutional Neural Network</b> [(Slide)][20-4], NIDS, KICTech 세미나, 2020.7.
 5. <b>Deep Learning(5): Recurrent Neural Network</b> [(Slide)][20-5], NIDS, KICTech 세미나, 2020.7.
 1. <b>4차 산업혁명과 인공지능 기술</b> [(Slide)][19-1], 마산대 세미나, 2019.10.25.
-2. <b>4차 산업혁명과 경남의 제조혁신</b>, 단조학회 초청강연, 재료연구소, 2019.6.13.
+2. <b>4차 산업혁명과 경남의 제조혁신</b>, 한국소성가공학회 단조심포지엄 초청강연, 재료연구소, 2019.6.13.
 3. <b>경남 스마트공장 공급기업 육성방안</b>, 경남스마트공장공급기업포럼 강연, 2019.5.22.
 
 [20-1]: https://drive.google.com/file/d/1sYEXUa-nlXMEFE9tAXKGff5BeWVx7Bk7/view?usp=sharing
