@@ -155,7 +155,7 @@ The 6th International Conference on Applications and Principles of Information S
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 2006.11.25
-2. [<b>An Eventual Consistent Wireless Light Control System</b>][06-2]<br>
+2. <b>An Eventual Consistent Wireless Light Control System</b> [(Paper)][06-2] <span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCI&nbsp;</span><br>
 Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo, 
 The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulder, Colorado, Oct. 31~Nov. 3, 2006
 3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
@@ -430,7 +430,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [07-9]: /home/paper/ICUT2007-1.pdf
 
 [06-1]: /home/paper/ieek06-01.pdf
-[06-2]: /home/paper/SENSYS06.pdf
+[06-2]: https://drive.google.com/file/d/1xUFnT-R3v2mTCWEiq19ZCYrqCqVFaX5j/view?usp=sharing
 [06-3]: /home/paper/cics06-01.pdf
 [06-4]: /home/paper/SICE_ICASE_02.pdf
 [06-5]: /home/paper/SICE_ICASE_01.pdf
