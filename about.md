@@ -9,8 +9,6 @@ permalink: /about/
 | [Patents][2] 
 | [Talks][3] |
 
-See also [<b>Scholar</b>][4] and [<b>ResearchGate</b>][5].
-                                                         
 I've been a research scientist as well as research engineer for all my lifetime, and want to remain as a eternal researcher untill the day I die.
 
 ## Education
@@ -40,11 +38,8 @@ Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 
 * 2006~2007 Adjunct Professor of Dept. of Electronics Engineering, Korea Polytechnic University
 
 ## Publications/Patents
-* I published 122 papers([Publications][2]), and registered 35 patents([Patents][3])
-* [<b>New Ultrasonic Signal Processing Techniques for NDE Applications</b>][phd] (Ph.D Dissertation), 
-Department of Electrical Engineering and Computer Engineering, Iowa State University, Ames, Iowa, U.S.A., Aug. 1994
-* [<b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b>][ms] (M.S. Thesis), 
-Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
+I published 123 papers and registered 35 patents. ([Publications][2], [Patents][3])
+See also [Scholar][4] and [ResearchGate][5].
 
 ## Certificate
 * Technology Transfer Agent, MOTIE, Dec. 6, 2016
@@ -55,7 +50,7 @@ Department of Nuclear Engineering, Korea Advanced Institute of Science and Techn
 
 ## Interests
 I like traveling the historical and natural scenery places domastic and foreign and taking pictures. 
-* [<b>Photo Blog</b>](http://myoon.tistory.com)
+* [Photo Blog](http://myoon.tistory.com)
 * [Naver Blog](http://blog.naver.com/mhyoon4)
 
 [1]: /publications/
@@ -63,6 +58,3 @@ I like traveling the historical and natural scenery places domastic and foreign 
 [3]: /talks/
 [4]: https://scholar.google.com/citations?user=DK7SHI8AAAAJ&hl=ko
 [5]: https://www.researchgate.net/profile/Myung_Hyun_Yoon
-
-[phd]: https://lib.dr.iastate.edu/rtd/10527/
-[ms]: https://library.kaist.ac.kr/search/ctlgSearch/thesis/view.do?bibctrlno=64339&se=t0&ty=B&_csrf=34505a49-911c-47d0-a0f0-c9e3a957ab5e
