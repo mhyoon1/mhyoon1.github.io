@@ -106,7 +106,7 @@ The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속�
 한국통신학회 하계종합학술대회 논문집, pp.845~848, 2008.7.2
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
 Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon, 
-제18회 통신정보 합동학술대회(JCCI 2008), 라마다프라자제주호텔, 2008.4.23~25
+제18회 통신정보 합동학술대회(JCCI 2008) 논문집 pp.73~80, 라마다프라자제주호텔, 2008.4.23~25
 13. [<b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b>][08-13]<br>
 임호정, 유준재. 강정훈, 이민구, 윤명현, 송병철, 임상채, 
 한국건축친환경설비학회 춘계학술발표대회, pp.37~30, 2008.4.12
