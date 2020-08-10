@@ -358,10 +358,10 @@ Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221~1224, Tokushima,
 5. <b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b> [(Paper,][97-5] [Slide)][97-5-2]<br>
 Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson, 
 14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165~170, July 1997
-1. <b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b> [(Paper)][96-1]<br>
+1. <b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b> [(Paper,][96-1] [Slide)][96-1-1]<br>
 신창훈, 윤명현, 정학영, 
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1004~1007, 1996.10.
-2. <b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b> [(Paper)][96-2]<br>
+2. <b>시간지연을 가진 발전소 제어시스템의 자동동조를 위한 System Identification 방법</b> [(Paper,][96-2] [Slide)][96-2-1]<br>
 윤명현, 신창훈, 박익수, 
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008~1011, 1996.10.
 
@@ -500,7 +500,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [97-5]: https://drive.google.com/file/d/1JEP8la2xHUlpP7y6Jb_dXK4SDB40nwb1/view?usp=sharing
 [97-5-2]: https://drive.google.com/file/d/1IQXZfCpcdWsXEf-Zow6w0rrkcEdJzE37/view?usp=sharing
 [96-1]: https://drive.google.com/file/d/1qvhH0U3MQBHDJ2ePdUhUgT0d5udoFOMb/view?usp=sharing
+[96-1-1]: https://drive.google.com/file/d/1PqHKYvKDSlA_78WpDqOfLWZLap_YrjS1/view?usp=sharing
 [96-2]: https://drive.google.com/file/d/1EmhbPVMfzKJaQ6VBkhqXKOliKK-OGnpS/view?usp=sharing
+[96-2-1]: https://drive.google.com/file/d/1A04ssXofnweISyA884kUSbtGfY0O6Mxl/view?usp=sharing
 
 [93-1]: https://drive.google.com/file/d/18Tlkitg2QnO8Ko8HUDhp2219qB-7ocF1/view?usp=sharing
 [92-1]: https://drive.google.com/file/d/1plhKUOLVuoU_cW93GMf5JbUXM8DtT9Bc/view?usp=sharing
