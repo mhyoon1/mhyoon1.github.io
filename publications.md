@@ -269,7 +269,7 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 20. [<b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b>][05-20]<br>
 이민구, 강정훈, 유준재, 윤명현, 
 2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.206~208, 단국대, 2005.5.24
-21. [<b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-21]<br>
+21. <b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제15회 통신정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
 1. <b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][04-1]<br>
@@ -365,7 +365,7 @@ Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson,
 윤명현, 신창훈, 박익수, 
 '96 한국자동제어학술회의 논문집(Proceedings of the 11th KACC), pp.1008~1011, 1996.10.
 
-## 1990~1993(ISU)
+## 1989~1993(ISU)
 1. <b>Accounting for Ultrasonic Signal Attenuation Through Model Parameter Interpolation</b> [(Paper)][93-1]<br>
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.12A, pp.767~774, Oct. 1993
@@ -379,7 +379,7 @@ Proceedings of the 1991 IEEE International Conference on Systems Engineering, pp
 Myung-Hyun Yoon, Tenkasi V. Ramabadran, 
 Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
-## 1985(KAIST)
+## 1982~1984(KAIST)
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b> [(Paper)][85-1] <span style="background-color:#F38630; color:#FFFFFF;">&nbsp;SCI&nbsp;</span><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
@@ -469,7 +469,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-18]: /home/paper/CSCC05-01.pdf
 [05-19]: /home/paper/ICS05-02.pdf
 [05-20]: /home/paper/ICS05-01.pdf
-[05-21]: /home/paper/JCCI05-01.pdf
+[05-21]: https://drive.google.com/file/d/12ZyCEizk9usasZMj4vWiWSOPAax-CZU2/view?usp=sharing
 [04-1]: https://drive.google.com/file/d/1jL0nscl5ga6Oi5l6_554R8HBZ1pdfFUN/view?usp=sharing
 [04-2]: https://drive.google.com/file/d/1rZXB0rTtetaZrz_IjG5NkB86uVtTdbRW/view?usp=sharing
 [04-2-1]: https://drive.google.com/file/d/1taTuZWUq_Q06awrYArgKSUS-M4GlWbD7/view?usp=sharing
