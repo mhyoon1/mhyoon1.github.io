@@ -343,7 +343,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 4. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
 Keehoon Kim, Myung-Hyun Yoon, 
 6th International Conference on Nuclear Engineering(ICONE-6), San Diego, California, May 10~15, 1998
-1. <b>A New Method of Rod Drop Time Measurement Using Movable Coil Signals</b><br>
+1. <b>A New Method of Rod Drop Time Measurement Using Movable Coil Signals</b> [(Slide)][97-1]<br>
 Keehoon Kim, Myung-Hyun Yoon, 
 EPRI Technical Conference, Nov. 1997
 2. <b>공정용 PID 제어기의 자동동조 시스템 설계</b> [(Paper)][97-2]<br>
@@ -491,6 +491,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [99-10]: https://drive.google.com/file/d/1V-PvA02NytBUcdKKfzS0Uhn329rgY3e-/view?usp=sharing
 [98-1]: https://drive.google.com/file/d/1kxJa2kkRVH4Zf6CeR0WqsV5U_9MMyEXe/view?usp=sharing
 [98-1-1]: https://drive.google.com/file/d/1vUDgg9C7tNKJzV8zJT6MN74BnQXzi3GO/view?usp=sharing
+[97-1]: https://drive.google.com/file/d/1FoDWUOCLAXdVnp21bF7xn6JJr215boeg/view?usp=sharing
 [98-2]: https://drive.google.com/file/d/12KvvDc9pwZ3Th7ItwVpRfPheotGH81sW/view?usp=sharing
 [98-4]: https://drive.google.com/file/d/1fyEybQPBr5yIoDV4ROzIKgr_f6wiq-1N/view?usp=sharing
 [97-2]: https://drive.google.com/file/d/1fPBMi2KLF8sctrar-IFXN7itmnt1AaP_/view?usp=sharing
