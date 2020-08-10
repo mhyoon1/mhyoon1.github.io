@@ -307,25 +307,25 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b> [(Paper)][99-2]<br>
 이성우, 윤명현, 문홍주, 이병윤, 
 1999도 한국에너지공학회 추계학술발표회 논문집 pp.143~148, 1999.11.
-3. [<b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b>][99-3]<br>
+3. <b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b> [(Paper)][99-3]<br>
 윤명현, 문홍주, 신창훈, 이병윤, 이성우, 이재영, 신수용, 권욱현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D122~D125, 1999.10.
-4. [<b>원전 급수제어계통의 디지털화 설계 및 구현</b>][99-4]<br>
+4. <b>원전 급수제어계통의 디지털화 설계 및 구현</b> [(Paper)][99-4]<br>
 신창훈, 윤명현, 이성우, 문홍주, 이병윤, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.A191~A194, 1999.10.
 5. <b>원자력발전소 분산제어시스템을 위한 통신 프로토콜의 실시간 특성 해석</b><br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
 제14차 한국자동제어학술회의 논문집, pp.D102∼D105, 1999.10.
-6. [<b>분산제어시스템 제어 통신망의 실시간 주기 및 비주기 데이터의 전송 방식</b>][99-6]<br>
+6. <b>분산제어시스템 제어 통신망의 실시간 주기 및 비주기 데이터의 전송 방식</b> [(Paper)][99-6]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 전태수, 김영신, 권욱현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D94~D97, 1999.10.
-7. [<b>네트워크 관리 소프트웨어와 매체 접속 계층의 결함 감지 및 이중 채널 관리기를 이용한 제어 통신망의 매체 이중화 관리 방법</b>][99-7]<br>
+7. <b>네트워크 관리 소프트웨어와 매체 접속 계층의 결함 감지 및 이중 채널 관리기를 이용한 제어 통신망의 매체 이중화 관리 방법</b> [(Paper)][99-7]<br>
 문홍주, 신창훈, 이병윤, 이성우, 윤명현, 이재민, 김광현, 권욱현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D98∼D101, 용인 고등기술원, 1999.10.14~16
-8. [<b>UML을 이용한 원전 디지털 제어시스템의 소프트웨어 설계 및 검증</b>][99-8]<br>
+8. <b>UML을 이용한 원전 디지털 제어시스템의 소프트웨어 설계 및 검증</b> [(Paper)][99-8]<br>
 이병윤, 신창훈, 문홍주, 이성우, 윤명현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B422~B425, 1999.10.
-9. [<b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b>][99-9]<br>
+9. <b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b> [(Paper)][99-9]<br>
 이병윤, 김동욱, 신창훈, 문홍주, 윤명현, 이성우, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450~B453, 용인 고등기술원, 1999.10.14~16
 10. [<b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b>][99-10]<br>
@@ -480,12 +480,12 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [00-5]: https://drive.google.com/file/d/1Zps54sRsnUbi7HFRsAmhD9OrsHOZVmau/view?usp=sharing
 [99-1]: https://drive.google.com/file/d/1WOSe797hS5j6TvyCHSjURii8_T1QaqEy/view?usp=sharing
 [99-2]: https://drive.google.com/file/d/1AMTXRb469lezgxrihkXA39QYqBa9GJ4O/view?usp=sharing
-[99-3]: /home/paper/kacc99-1.pdf
-[99-4]: /home/paper/kacc99-4.pdf
-[99-6]: /home/paper/kacc99-2.pdf
-[99-7]: /home/paper/kacc99-3.pdf
-[99-8]: /home/paper/kacc99-5.pdf
-[99-9]: /home/paper/kacc99-6.pdf
+[99-3]: https://drive.google.com/file/d/1s53S64wzU1cjlbSwmlUfOj3DPRNeFfF1/view?usp=sharing
+[99-4]: https://drive.google.com/file/d/1MgGYiZo83918o34ZocpT-NhSkcGrFsFM/view?usp=sharing
+[99-6]: https://drive.google.com/file/d/1YjswQCaO0FWfYYL3Q3AqgV-eFPgAGS23/view?usp=sharing
+[99-7]: https://drive.google.com/file/d/1nhlLdvXZECnhnglNMUzN5dGndqRMBoQa/view?usp=sharing
+[99-8]: https://drive.google.com/file/d/1ySuS4yTpP7RWBc5WRPs_G7-XMAMLyOJ3/view?usp=sharing
+[99-9]: https://drive.google.com/file/d/1oo2kTKpEquU-_h49tOje0VOeQGnOjRyg/view?usp=sharing
 [99-10]: /home/paper/1999-10.pdf
 [98-1]: /home/paper/kns98f-1.pdf
 [98-2]: /home/paper/kns98f-2.pdf
