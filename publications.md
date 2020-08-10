@@ -331,7 +331,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 10. <b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b> [(Paper)][99-10]<br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
 1999년도 대한전기학회 하계학술대회 논문집, pp.1013~1016, 1999.7.
-1. <b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b> [(Paper)][98-1]<br>
+1. <b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b> [(Paper,][98-1] [Slide)][98-1-1]<br>
 윤명현, 신창훈, 문홍주, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집 pp.78~84, 1998.10.
 2. <b>고리2호기 I&C 업그레이드 및 수명관리 연구</b> [(Paper)][98-2]<br>
@@ -489,6 +489,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [99-9]: https://drive.google.com/file/d/1oo2kTKpEquU-_h49tOje0VOeQGnOjRyg/view?usp=sharing
 [99-10]: https://drive.google.com/file/d/1V-PvA02NytBUcdKKfzS0Uhn329rgY3e-/view?usp=sharing
 [98-1]: https://drive.google.com/file/d/1kxJa2kkRVH4Zf6CeR0WqsV5U_9MMyEXe/view?usp=sharing
+[98-1-1]: https://drive.google.com/file/d/1vUDgg9C7tNKJzV8zJT6MN74BnQXzi3GO/view?usp=sharing
 [98-2]: https://drive.google.com/file/d/12KvvDc9pwZ3Th7ItwVpRfPheotGH81sW/view?usp=sharing
 [98-4]: https://drive.google.com/file/d/1fyEybQPBr5yIoDV4ROzIKgr_f6wiq-1N/view?usp=sharing
 [97-2]: https://drive.google.com/file/d/1fPBMi2KLF8sctrar-IFXN7itmnt1AaP_/view?usp=sharing
