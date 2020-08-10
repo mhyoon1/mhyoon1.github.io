@@ -328,16 +328,16 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 9. <b>원전 디지털 제어 계통 소프트웨어의 확인 및 검증 방법론 고찰</b> [(Paper)][99-9]<br>
 이병윤, 김동욱, 신창훈, 문홍주, 윤명현, 이성우, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.B450~B453, 용인 고등기술원, 1999.10.14~16
-10. [<b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b>][99-10]<br>
+10. <b>원자력발전소 제어계통을 위한 통신망의 해석과 사례연구</b> [(Paper)][99-10]<br>
 이성우, 윤명현, 문홍주, 신창훈, 이병윤, 
 1999년도 대한전기학회 하계학술대회 논문집, pp.1013~1016, 1999.7.
-1. [<b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b>][98-1]<br>
+1. <b>고리2호기 I&C Upgrade를 위한 새로운 통합 전산시스템 제안</b> [(Paper)][98-1]<br>
 윤명현, 신창훈, 문홍주, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집 pp.78~84, 1998.10.
-2. [<b>고리2호기 I&C 업그레이드 및 수명관리 연구</b>][98-2]<br>
+2. <b>고리2호기 I&C 업그레이드 및 수명관리 연구</b> [(Paper)][98-2]<br>
 신창훈, 윤명현, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집, 1998.10.
-3. [<b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b>][98-4]<br>
+3. <b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b> [(Paper)][98-4]<br>
 윤명현, 김기훈, 신창훈, 
 한국원자력학회 '98춘계학술발표회 논문집(I), pp.258∼263, 1998.5.
 4. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
@@ -486,10 +486,10 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [99-7]: https://drive.google.com/file/d/1nhlLdvXZECnhnglNMUzN5dGndqRMBoQa/view?usp=sharing
 [99-8]: https://drive.google.com/file/d/1ySuS4yTpP7RWBc5WRPs_G7-XMAMLyOJ3/view?usp=sharing
 [99-9]: https://drive.google.com/file/d/1oo2kTKpEquU-_h49tOje0VOeQGnOjRyg/view?usp=sharing
-[99-10]: /home/paper/1999-10.pdf
-[98-1]: /home/paper/kns98f-1.pdf
-[98-2]: /home/paper/kns98f-2.pdf
-[98-4]: /home/paper/kns98s.pdf
+[99-10]: https://drive.google.com/file/d/1V-PvA02NytBUcdKKfzS0Uhn329rgY3e-/view?usp=sharing
+[98-1]: https://drive.google.com/file/d/1kxJa2kkRVH4Zf6CeR0WqsV5U_9MMyEXe/view?usp=sharing
+[98-2]: https://drive.google.com/file/d/12KvvDc9pwZ3Th7ItwVpRfPheotGH81sW/view?usp=sharing
+[98-4]: https://drive.google.com/file/d/1fyEybQPBr5yIoDV4ROzIKgr_f6wiq-1N/view?usp=sharing
 [97-2]: /home/paper/kacc97.pdf
 [97-3]: /home/paper/sice97-2.pdf
 [97-4]: /home/paper/sice97-1.pdf
