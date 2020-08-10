@@ -307,7 +307,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b> [(Paper)][99-2]<br>
 이성우, 윤명현, 문홍주, 이병윤, 
 1999도 한국에너지공학회 추계학술발표회 논문집 pp.143~148, 1999.11.
-3. <b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b> [(Paper)][99-3]<br>
+3. <b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b> [(Paper,][99-3] [Slide)][99-3-1]<br>
 윤명현, 문홍주, 신창훈, 이병윤, 이성우, 이재영, 신수용, 권욱현, 
 제14차 한국자동제어학술회의 논문집(Proceedings of the 14th KACC), pp.D122~D125, 1999.10.
 4. <b>원전 급수제어계통의 디지털화 설계 및 구현</b> [(Paper)][99-4]<br>
@@ -482,6 +482,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [99-1]: https://drive.google.com/file/d/1WOSe797hS5j6TvyCHSjURii8_T1QaqEy/view?usp=sharing
 [99-2]: https://drive.google.com/file/d/1AMTXRb469lezgxrihkXA39QYqBa9GJ4O/view?usp=sharing
 [99-3]: https://drive.google.com/file/d/1s53S64wzU1cjlbSwmlUfOj3DPRNeFfF1/view?usp=sharing
+[99-3-1]: https://drive.google.com/file/d/1vZyUfVFg4QhXqxnyXI543cdOqxtoSa4p/view?usp=sharing
 [99-4]: https://drive.google.com/file/d/1MgGYiZo83918o34ZocpT-NhSkcGrFsFM/view?usp=sharing
 [99-6]: https://drive.google.com/file/d/1YjswQCaO0FWfYYL3Q3AqgV-eFPgAGS23/view?usp=sharing
 [99-7]: https://drive.google.com/file/d/1nhlLdvXZECnhnglNMUzN5dGndqRMBoQa/view?usp=sharing
