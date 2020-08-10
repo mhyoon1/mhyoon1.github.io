@@ -272,16 +272,16 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 21. [<b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제15회 통신정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
-1. [<b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][04-1]<br>
+1. <b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][04-1]<br>
 Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoon, 
 한국통신학회 2004년도 하계종합학술발표회, 2004.7.
-2. [<b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b>][04-2]<br>
+2. <b>내장형 저온소성세라믹 발룬용 측정지그의 설계 및 평가</b> [(Paper,][04-2] [Slide)][04-2-1]<br>
 박성대, 유찬세, 유명재, 이우성, 원광호, 윤명현, 
 한국전기전자재료학회 2004년도 하계학술대회 논문집 Vol.5 No.2, pp.644~647, 2004.7.8
 1. <b>Design of a Simple Home Device  Protocol</b><br>
 Seung-Ok Lim, Kwang-Mo Jung, Myung-Hyun Yoon, 
 International Technical Conference on Circuits, Systems, Computers and Communications (ITC-CSCC 2003), Phoenix Park, Korea, July 7~9, 2003
-1. [<b>Design of a New Chip Architecture for a Home Gateway</b>][02-1]<br>
+1. <b>Design of a New Chip Architecture for a Home Gateway</b> [(Paper)][02-1]<br>
 Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon, 
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
@@ -470,9 +470,10 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-19]: /home/paper/ICS05-02.pdf
 [05-20]: /home/paper/ICS05-01.pdf
 [05-21]: /home/paper/JCCI05-01.pdf
-[04-1]: /home/paper/KICS04-01.pdf
-[04-2]: /home/paper/2004-02.pdf
-[02-1]: /home/paper/2002-1.pdf
+[04-1]: https://drive.google.com/file/d/1jL0nscl5ga6Oi5l6_554R8HBZ1pdfFUN/view?usp=sharing
+[04-2]: https://drive.google.com/file/d/1rZXB0rTtetaZrz_IjG5NkB86uVtTdbRW/view?usp=sharing
+[04-2-1]: https://drive.google.com/file/d/1taTuZWUq_Q06awrYArgKSUS-M4GlWbD7/view?usp=sharing
+[02-1]: https://drive.google.com/file/d/1xcomSPHE02p0pwGllSJjvgeQULmcYg4c/view?usp=sharing
 
 [00-1]: https://drive.google.com/file/d/1ygbb0uS3d3ABnJ57WcLWJZYtfm0gZ-63/view?usp=sharing
 [00-2]: https://drive.google.com/file/d/1lAofXXF9eY0-n4hBVdnupm2hI_5gZsJm/view?usp=sharing
