@@ -263,10 +263,10 @@ The 6th International Conference on ASIC, pp.467~470, Shanghai China, Oct. 24~27
 18. [<b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-18]<br>
 Yong-Kuk Park, Hae-Moon Seo, Kwang-Ho Won, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
-19. [<b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b>][05-19]<br>
+19. <b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b> [(Paper)][05-19]<br>
 강정훈, 이민구, 윤명현, 유준재, 
 2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.209~211, 단국대, 2005.5.24
-20. [<b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b>][05-20]<br>
+20. <b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b> [(Paper)][05-20]<br>
 이민구, 강정훈, 유준재, 윤명현, 
 2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.206~208, 단국대, 2005.5.24
 21. <b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-21]<br>
@@ -467,8 +467,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-16]: /home/paper/CSCC05-03.pdf
 [05-17]: /home/paper/CSCC05-02.pdf
 [05-18]: /home/paper/CSCC05-01.pdf
-[05-19]: /home/paper/ICS05-02.pdf
-[05-20]: /home/paper/ICS05-01.pdf
+[05-19]: https://drive.google.com/file/d/1NTckTC6GS7RDvk5_a7C1_FrjR_RIPJ7s/view?usp=sharing
+[05-20]: https://drive.google.com/file/d/1UNA3Jjf-ShDNoMpGR_edSgPo__L1wtnA/view?usp=sharing
 [05-21]: https://drive.google.com/file/d/12ZyCEizk9usasZMj4vWiWSOPAax-CZU2/view?usp=sharing
 [04-1]: https://drive.google.com/file/d/1jL0nscl5ga6Oi5l6_554R8HBZ1pdfFUN/view?usp=sharing
 [04-2]: https://drive.google.com/file/d/1rZXB0rTtetaZrz_IjG5NkB86uVtTdbRW/view?usp=sharing
