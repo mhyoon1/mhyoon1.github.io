@@ -497,8 +497,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [96-1]: /home/paper/kacc96-2.pdf
 [96-2]: /home/paper/kacc96-1.pdf
 
-[93-1]: https://drive.google.com/file/d/1_u8J_X_yLeQOKqo--51iw_hj3pYO-0qs/view?usp=sharing
-[92-1]: https://drive.google.com/file/d/1r45KiBIlLXfeiuFBevZcHDrjKXjG7cAA/view?usp=sharing
+[93-1]: https://drive.google.com/file/d/18Tlkitg2QnO8Ko8HUDhp2219qB-7ocF1/view?usp=sharing
+[92-1]: https://drive.google.com/file/d/1plhKUOLVuoU_cW93GMf5JbUXM8DtT9Bc/view?usp=sharing
 [85-1]: https://www.tandfonline.com/doi/abs/10.13182/NSE85-A17677
 
 [phd]: https://lib.dr.iastate.edu/rtd/10527/
