@@ -286,16 +286,16 @@ Kwang-Soon Choi, Kwang-Mo Jung, Myung-Hyun Yoon,
 2nd WSEAS International Conference on Multimedia, Internet and Video Technologies (ICOMIV 2002), Skiathos Island, Greece, Sep. 25~28, 2002
 
 ## 1994~2000(KEPRI)
-1. [<b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b>][00-1]<br>
+1. <b>Auto-Tuning of Control Parameters for Nuclear Plant Process Control</b> [(Paper)][00-1]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon and Byungyun Lee, 
 ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
-2. [<b>Application of Digital Technology to Nuclear Power Plant Operations</b>][00-2]<br>
+2. <b>Application of Digital Technology to Nuclear Power Plant Operations</b> [(Paper)][00-2]<br>
 Myung-Hyun Yoon, Byungyun Lee and Hong-ju Moon, 
 ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Washington DC, Nov. 2000
-3. [<b>A Fault-Tolerant Design of the Digital Distributed Control Systems for Nuclear Power Plants</b>][00-3]<br>
+3. <b>A Fault-Tolerant Design of the Digital Distributed Control Systems for Nuclear Power Plants</b> [(Paper)][00-3]<br>
 Hong-ju Moon, Soo Young Shin, Wook Hyun Kwon, Byungyun Lee, Myung-Hyun Yoon and Yong-Kwan Lee, 
 ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
-4. [<b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b>][00-4]<br>
+4. <b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b> [(Paper)][00-4]<br>
 Byungyun Lee, Hongju Moon and Myung-Hyun Yoon, 
 ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
 5. [<b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>][00-5]<br>
@@ -387,7 +387,7 @@ Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 노희천, 윤명현, 한국원자력학회 추계학술발표회, 1984
 
 ## 학위논문
-1. <b>New Ultrasonic Signal Processing Techniques for NDE Applications</b> [(Ph.D Dissertation)][phd]<br>, 
+1. <b>New Ultrasonic Signal Processing Techniques for NDE Applications</b> [(Ph.D Dissertation)][phd]<br>
 Myung-Hyun Yoon, Department of Electrical Engineering and Computer Engineering, Iowa State University, Ames, Iowa, U.S.A., Aug. 1994
 2. <b>Optimal Control of Xenon Spatial Oscillations in Load Following Operation</b> [(M.S. Thesis)][ms]<br> 
 Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea, Feb. 1984
@@ -473,10 +473,10 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [04-2]: /home/paper/2004-02.pdf
 [02-1]: /home/paper/2002-1.pdf
 
-[00-1]: /home/paper/npic00-01.pdf
-[00-2]: /home/paper/npic00-02.pdf
-[00-3]: /home/paper/npic00-03.pdf
-[00-4]: /home/paper/npic00-04.pdf
+[00-1]: https://drive.google.com/file/d/1ygbb0uS3d3ABnJ57WcLWJZYtfm0gZ-63/view?usp=sharing
+[00-2]: https://drive.google.com/file/d/1lAofXXF9eY0-n4hBVdnupm2hI_5gZsJm/view?usp=sharing
+[00-3]: https://drive.google.com/file/d/1ll0IhRRUcdzHk50xcvQlH8cRsiInH_CH/view?usp=sharing
+[00-4]: https://drive.google.com/file/d/1EaMujdt-bPskK7l64vqP4YVAkx_iosVk/view?usp=sharing
 [00-5]: /home/paper/ftcc2000.pdf
 [99-1]: /home/paper/icmt99.pdf
 [99-2]: /home/paper/1999-2.pdf
