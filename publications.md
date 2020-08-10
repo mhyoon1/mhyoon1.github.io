@@ -337,7 +337,7 @@ Proceedings of the 1999 International Conference on Mechatronic Technology & the
 2. <b>고리2호기 I&C 업그레이드 및 수명관리 연구</b> [(Paper)][98-2]<br>
 신창훈, 윤명현, 박익수, 이종태, 
 한국원자력학회 '98추계학술발표회 논문집, 1998.10.
-3. <b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b> [(Paper)][98-4]<br>
+3. <b>CRDM내 이동 권선 신호를 이용한 고리2호기 제어봉 낙하 시간 측정 시험</b> [(Paper,][98-4] [Slide)][98-4-1]<br>
 윤명현, 김기훈, 신창훈, 
 한국원자력학회 '98춘계학술발표회 논문집(I), pp.258∼263, 1998.5.
 4. <b>Rod Drop Time Test System Based on Voltage Induction from Magnetic-Jack Drive Devices</b><br>
@@ -411,6 +411,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [12-2]: https://drive.google.com/file/d/1tVupNAFBwwOYzITwT7OkIrzk5PDV2lXB/view?usp=sharing
 
 [08-4]: https://drive.google.com/file/d/145onU8ZQrRxmsVyf6hHGjPq9E3hnMc2w/view?usp=sharing
+[98-4-1]: https://drive.google.com/file/d/15kJeTHNFpAe0bISf59rtbtHA19TxBEAC/view?usp=sharing
 [08-5]: https://drive.google.com/file/d/1hhxHmeWJH1Wz3_jdtpd9t2mWyOvcvqBw/view?usp=sharing
 [08-6]: https://drive.google.com/file/d/1_uICYCaqP2_3wd62BwgFqGP84wdbf37V/view?usp=sharing
 [08-7]: https://drive.google.com/file/d/1ack5Dn-7W7cystbNm3MUOv8dpQEiHZBz/view?usp=sharing
