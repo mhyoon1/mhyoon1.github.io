@@ -355,7 +355,7 @@ Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225~1228, Tokushima,
 4. <b>Design of On-line Auto-tuning PID Controller for Power Plant Process Control</b> [(Paper,][97-4] [Slide)][97-4-2]<br>
 Myung-Hyun Yoon, Chang-Hoon Shin, 
 Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221~1224, Tokushima, Japan, July 29~31, 1997
-5. <b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b> [(Paper)][97-5]<br>
+5. <b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b> [(Paper,][97-5] [Slide)][97-5-2]<br>
 Myung-Hyun Yoon, Ik Soo Park, W. Richard Pierce, Rohini Mattu, C. Dan Wilkinson, 
 14th IFAC Workshop on Distributed Computer Control Systems(DCCS'97), pp.165~170, July 1997
 1. <b>릴레이 피드백을 이용한 개선된 PID 제어기 자동동조 기법</b> [(Paper)][96-1]<br>
@@ -496,6 +496,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [97-4]: https://drive.google.com/file/d/1LkmEEAXWo5viTwMDPD9IkfZMJyceKhNm/view?usp=sharing
 [97-4-2]: https://drive.google.com/file/d/1NoqS4qnhSPW0Q1LFwtTYbrW8CvMIGojT/view?usp=sharing
 [97-5]: https://drive.google.com/file/d/1JEP8la2xHUlpP7y6Jb_dXK4SDB40nwb1/view?usp=sharing
+[97-5-2]: https://drive.google.com/file/d/1IQXZfCpcdWsXEf-Zow6w0rrkcEdJzE37/view?usp=sharing
 [96-1]: https://drive.google.com/file/d/1qvhH0U3MQBHDJ2ePdUhUgT0d5udoFOMb/view?usp=sharing
 [96-2]: https://drive.google.com/file/d/1EmhbPVMfzKJaQ6VBkhqXKOliKK-OGnpS/view?usp=sharing
 
