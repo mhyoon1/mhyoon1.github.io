@@ -298,13 +298,13 @@ ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and 
 4. <b>Methodologies and Processes for the Development of Embedded System S/W for Nuclear Power Plant I&C Equipment Using CASE Tools</b> [(Paper)][00-4]<br>
 Byungyun Lee, Hongju Moon and Myung-Hyun Yoon, 
 ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and Human Machine Interface Technology (NPIC&HMIT 2000), Nov. 2000
-5. [<b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b>][00-5]<br>
+5. <b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b> [(Paper)][00-5]<br>
 Hong-ju Moon, Myung-Hyun Yoon and Yong-Kwan Lee, 
 Proceedings of the International Workshop on Fault-Tolerant Control and Computing(FTCC), pp.32∼36, Seoul, Korea, May 20~23, 2000
-1. [<b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b>][99-1]<br>
+1. <b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b> [(Paper)][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
 Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics(ICMT '99), pp.474~479, Pusan Korea, Oct. 21~23, 1999
-2. [<b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b>][99-2]<br>
+2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b> [(Paper)][99-2]<br>
 이성우, 윤명현, 문홍주, 이병윤, 
 1999도 한국에너지공학회 추계학술발표회 논문집 pp.143~148, 1999.11.
 3. [<b>IEEE 802.4 매체 접근 제어 방식과 IEEE 802.3 물리계층 규격을 결합한 분산제어시스템 제어 통신망의 구현</b>][99-3]<br>
@@ -477,9 +477,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [00-2]: https://drive.google.com/file/d/1lAofXXF9eY0-n4hBVdnupm2hI_5gZsJm/view?usp=sharing
 [00-3]: https://drive.google.com/file/d/1ll0IhRRUcdzHk50xcvQlH8cRsiInH_CH/view?usp=sharing
 [00-4]: https://drive.google.com/file/d/1EaMujdt-bPskK7l64vqP4YVAkx_iosVk/view?usp=sharing
-[00-5]: /home/paper/ftcc2000.pdf
-[99-1]: /home/paper/icmt99.pdf
-[99-2]: /home/paper/1999-2.pdf
+[00-5]: https://drive.google.com/file/d/1Zps54sRsnUbi7HFRsAmhD9OrsHOZVmau/view?usp=sharing
+[99-1]: https://drive.google.com/file/d/1WOSe797hS5j6TvyCHSjURii8_T1QaqEy/view?usp=sharing
+[99-2]: https://drive.google.com/file/d/1AMTXRb469lezgxrihkXA39QYqBa9GJ4O/view?usp=sharing
 [99-3]: /home/paper/kacc99-1.pdf
 [99-4]: /home/paper/kacc99-4.pdf
 [99-6]: /home/paper/kacc99-2.pdf
