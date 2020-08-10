@@ -349,10 +349,10 @@ EPRI Technical Conference, Nov. 1997
 2. <b>공정용 PID 제어기의 자동동조 시스템 설계</b> [(Paper)][97-2]<br>
 신창훈, 윤명현, 박익수, 
 '97한국자동제어학술회의 논문집(Proceedings of the 12th KACC), pp.915~918, 1997.10.
-3. <b>Automatic Tuning Algorithm of the PID Controller Using Two Nyquist Points Identification</b> [(Paper)][97-3]<br>
+3. <b>Automatic Tuning Algorithm of the PID Controller Using Two Nyquist Points Identification</b> [(Paper,][97-3] [Slide)][97-3-2]<br>
 Chang-Hoon Shin, Myung-Hyun Yoon, Ik-Soo Park, 
 Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1225~1228, Tokushima, Japan, July 29~31, 1997
-4. <b>Design of On-line Auto-tuning PID Controller for Power Plant Process Control</b> [(Paper)][97-4]<br>
+4. <b>Design of On-line Auto-tuning PID Controller for Power Plant Process Control</b> [(Paper,][97-4] [Slide)][97-4-2]<br>
 Myung-Hyun Yoon, Chang-Hoon Shin, 
 Proceeding of the 36th SICE Annual Conference(SICE'97), pp.1221~1224, Tokushima, Japan, July 29~31, 1997
 5. <b>Adopting Modern Computer System Technology to Nuclear Power Plant Operations</b> [(Paper)][97-5]<br>
@@ -492,7 +492,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [98-4]: https://drive.google.com/file/d/1fyEybQPBr5yIoDV4ROzIKgr_f6wiq-1N/view?usp=sharing
 [97-2]: https://drive.google.com/file/d/1fPBMi2KLF8sctrar-IFXN7itmnt1AaP_/view?usp=sharing
 [97-3]: https://drive.google.com/file/d/1k6QzDKpt9zup8Swor8gOXsirRjXlQQvM/view?usp=sharing
+[97-3-2]: https://drive.google.com/file/d/1mW5ICdtjHmDT-MTqdYcIKvLoz33D80yr/view?usp=sharing
 [97-4]: https://drive.google.com/file/d/1LkmEEAXWo5viTwMDPD9IkfZMJyceKhNm/view?usp=sharing
+[97-4-2]: https://drive.google.com/file/d/1NoqS4qnhSPW0Q1LFwtTYbrW8CvMIGojT/view?usp=sharing
 [97-5]: https://drive.google.com/file/d/1JEP8la2xHUlpP7y6Jb_dXK4SDB40nwb1/view?usp=sharing
 [96-1]: https://drive.google.com/file/d/1qvhH0U3MQBHDJ2ePdUhUgT0d5udoFOMb/view?usp=sharing
 [96-2]: https://drive.google.com/file/d/1EmhbPVMfzKJaQ6VBkhqXKOliKK-OGnpS/view?usp=sharing
