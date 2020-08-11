@@ -254,13 +254,13 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Y
 15. [<b>센서 네트워크 및 애플리케이션 기술 동향</b>][05-15]<br>
 강정훈, 유준재, 윤명현, 이민구, 
 전자공학회지(The Magazine of the IEEK) 제32권 7호, pp.18~31, 2005.7.
-16. [<b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b>][05-16]<br>
+16. <b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b> [(Paper)][05-16]<br>
 Yeonkug Moon, Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
 The 6th International Conference on ASIC, pp.587~590, Shanghai China, Oct. 24~27, 2005
-17. [<b>A Low Power Fully CMOS Integrated RF Transceiver for Wireless Sensor Networks in Sub-GHZ ISM-band</b>][05-17]<br>
+17. <b>A Low Power Fully CMOS Integrated RF Transceiver for Wireless Sensor Networks in Sub-GHZ ISM-band</b> [(Paper)][05-17]<br>
 Hae-Moon Seo, Kwang-Ho Won, Yong-Kuk Park, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 6th International Conference on ASIC, pp.467~470, Shanghai China, Oct. 24~27, 2005
-18. [<b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-18]<br>
+18. <b>Low Power Radio Receiver Specifications of Ubiquitous System for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-18]<br>
 Yong-Kuk Park, Hae-Moon Seo, Kwang-Ho Won, Yeon-Kug Moon, Myung-Hyun Yoon, Jun-Jae Yoo, and Seong-Dong Kim, 
 The 20th Commemorative International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2005), Jeju Korea, July 4~7, 2005
 19. <b>저전력 무선 센서 네트워크를 위한 적응적 MAC 프로토콜</b> [(Paper)][05-19]<br>
@@ -464,9 +464,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-13]: /home/paper/APCC05-02.pdf
 [05-14]: /home/paper/APCC05-01.pdf
 [05-15]: /home/paper/IEEK-01.pdf
-[05-16]: /home/paper/CSCC05-03.pdf
-[05-17]: /home/paper/CSCC05-02.pdf
-[05-18]: /home/paper/CSCC05-01.pdf
+[05-16]: https://drive.google.com/file/d/11fY2xagMr2o12o-sLGufUzMpFEleRCqC/view?usp=sharing
+[05-17]: https://drive.google.com/file/d/1q5kPN2N4y8HDf7GYYKtVBVM1MaQoDafC/view?usp=sharing
+[05-18]: https://drive.google.com/file/d/1X4GPrKFa4Wwr66po8AesiVOGKi0l2k-t/view?usp=sharing
 [05-19]: https://drive.google.com/file/d/1NTckTC6GS7RDvk5_a7C1_FrjR_RIPJ7s/view?usp=sharing
 [05-20]: https://drive.google.com/file/d/1UNA3Jjf-ShDNoMpGR_edSgPo__L1wtnA/view?usp=sharing
 [05-21]: https://drive.google.com/file/d/12ZyCEizk9usasZMj4vWiWSOPAax-CZU2/view?usp=sharing
