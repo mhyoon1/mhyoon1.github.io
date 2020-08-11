@@ -251,7 +251,7 @@ Hae-Moon Seo, Yeon-Kug Moon, Yong-Kuk Park, Sang-Shin Lee, Tae-Ho Hwang, Byoung-
 14. [<b>Design of a CMOS Highly Linear Channel Selection Filter and Programmable Gain Amplifier for a WPAN Zero-IF Receiver</b>][05-14]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Yup Ahn, Ho-Jung Lim, June-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), pp.450~453, Perth Australia, Oct. 3~5 2005
-15. [<b>센서 네트워크 및 애플리케이션 기술 동향</b>][05-15]<br>
+15. <b>센서 네트워크 및 애플리케이션 기술 동향</b> [(Paper)][05-15]<br>
 강정훈, 유준재, 윤명현, 이민구, 
 전자공학회지(The Magazine of the IEEK) 제32권 7호, pp.18~31, 2005.7.
 16. <b>A CMOS Continuous-Time Gm-C filter and Programmable Gain Amplifier for WPAN Receivers</b> [(Paper)][05-16]<br>
@@ -463,7 +463,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-12]: /home/paper/APCC05-03.pdf
 [05-13]: /home/paper/APCC05-02.pdf
 [05-14]: /home/paper/APCC05-01.pdf
-[05-15]: /home/paper/IEEK-01.pdf
+[05-15]: https://drive.google.com/file/d/1g--Eq7Ts9Hr7a_2bbChXyxoyxXdo4rBr/view?usp=sharing
 [05-16]: https://drive.google.com/file/d/11fY2xagMr2o12o-sLGufUzMpFEleRCqC/view?usp=sharing
 [05-17]: https://drive.google.com/file/d/1q5kPN2N4y8HDf7GYYKtVBVM1MaQoDafC/view?usp=sharing
 [05-18]: https://drive.google.com/file/d/1X4GPrKFa4Wwr66po8AesiVOGKi0l2k-t/view?usp=sharing
