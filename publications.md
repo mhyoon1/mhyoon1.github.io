@@ -12,8 +12,8 @@ permalink: /publications/
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b> [(Paper)][17-1] 
 <span style="background-color:#0C37AB; color:white;">&nbsp;KCI&nbsp;</span>
-<span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCIE&nbsp;</span>
-<span style="background-color:#F38630; color:#FFFFFF;">&nbsp;SCOPUS&nbsp;</span><br>
+<span style="background-color:#C31C15; color:white;">&nbsp;SCIE&nbsp;</span>
+<span style="background-color:#F38630; color:white;">&nbsp;SCOPUS&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
@@ -383,7 +383,7 @@ Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
 ## 1982~1984(KAIST)
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b> [(Paper)][85-1] 
-<span style="background-color:$red; color:$white;">&nbsp;SCIE&nbsp;</span><br>
+<span style="background-color:red; color:white;">&nbsp;SCIE&nbsp;</span><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
