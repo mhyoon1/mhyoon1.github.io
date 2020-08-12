@@ -383,7 +383,7 @@ Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
 ## 1982~1984(KAIST)
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b> [(Paper)][85-1] 
-<span style="background-color:$red; color:white;">&nbsp;SCIE&nbsp;</span><br>
+<span style="background-color:$red; color:$white;">&nbsp;SCIE&nbsp;</span><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
