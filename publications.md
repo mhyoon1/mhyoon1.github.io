@@ -244,13 +244,13 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Ho
 11. [<b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b>][05-11]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.616~618, 2005.10.28
-12. [<b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-12]<br>
+12. <b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-12]<br>
 Yong-Kuk Park, Won-Ki Jeon, Hae-Moon Seo, Yeon-Kuk Moon, Jaeho Kim, Byoung-Chul Song, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), pp.595~599, Perth Australia, Oct. 3-5 2005
-13. [<b>A Fully CMOS Integrated RF Transceiver for Ubiquitous Networks in Sub-GHz ISM-band</b>][05-13]<br>
+13. <b>A Fully CMOS Integrated RF Transceiver for Ubiquitous Networks in Sub-GHz ISM-band</b> [(Paper)][05-13]<br>
 Hae-Moon Seo, Yeon-Kug Moon, Yong-Kuk Park, Sang-Shin Lee, Tae-Ho Hwang, Byoung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), Perth Australia, Oct. 3-5 2005
-14. [<b>Design of a CMOS Highly Linear Channel Selection Filter and Programmable Gain Amplifier for a WPAN Zero-IF Receiver</b>][05-14]<br>
+14. <b>Design of a CMOS Highly Linear Channel Selection Filter and Programmable Gain Amplifier for a WPAN Zero-IF Receiver</b> [(Paper)][05-14]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Myung-Hyun Yoon, Il-Yup Ahn, Ho-Jung Lim, June-Jae Yoo, Seong-Dong Kim, 
 2005 Asia-Pacific Conference on Communications(APCC 2005), pp.450~453, Perth Australia, Oct. 3~5 2005
 15. <b>센서 네트워크 및 애플리케이션 기술 동향</b> [(Paper)][05-15]<br>
@@ -462,9 +462,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-9]: /home/paper/CICS05-01.pdf
 [05-10]: /home/paper/CICS05-02.pdf
 [05-11]: /home/paper/CICS05-07.pdf
-[05-12]: /home/paper/APCC05-03.pdf
-[05-13]: /home/paper/APCC05-02.pdf
-[05-14]: /home/paper/APCC05-01.pdf
+[05-12]: https://drive.google.com/file/d/1baaNYlk_2phq-GTZNnD4SK_Z6taOmjYl/view?usp=sharing
+[05-13]: https://drive.google.com/file/d/1lJAiADm35RbTJTFVxoU8QCBxhew5KqGf/view?usp=sharing
+[05-14]: https://drive.google.com/file/d/1pGHGORqJfjHT0hYP4hD9kcCSqlozPhuR/view?usp=sharing
 [05-15]: https://drive.google.com/file/d/1g--Eq7Ts9Hr7a_2bbChXyxoyxXdo4rBr/view?usp=sharing
 [05-16]: https://drive.google.com/file/d/11fY2xagMr2o12o-sLGufUzMpFEleRCqC/view?usp=sharing
 [05-17]: https://drive.google.com/file/d/1q5kPN2N4y8HDf7GYYKtVBVM1MaQoDafC/view?usp=sharing
