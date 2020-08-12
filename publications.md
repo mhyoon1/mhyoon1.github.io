@@ -157,7 +157,7 @@ The 6th International Conference on Applications and Principles of Information S
 1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 2006.11.25
-2. <b>An Eventual Consistent Wireless Light Control System</b> [(Paper)][06-2] <span style="background-color:#F38630; color:#FFFFFF;">&nbsp;SCI&nbsp;</span><br>
+2. <b>An Eventual Consistent Wireless Light Control System</b> [(Paper)][06-2]<br>
 Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo, 
 The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulder, Colorado, Oct. 31~Nov. 3, 2006
 3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
@@ -382,7 +382,8 @@ Myung-Hyun Yoon, Tenkasi V. Ramabadran,
 Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
 ## 1982~1984(KAIST)
-1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b> [(Paper)][85-1] <span style="background-color:#F38630; color:#FFFFFF;">&nbsp;SCI&nbsp;</span><br>
+1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b> [(Paper)][85-1] 
+<span style="background-color:$red; color:white;">&nbsp;SCIE&nbsp;</span><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
