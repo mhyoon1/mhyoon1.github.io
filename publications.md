@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-$white: #FFFFFF;
-
 # Publications
 | [Publications](/publications/) 
 | [Patents](/patents/) 
@@ -13,7 +11,7 @@ $white: #FFFFFF;
 
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b> [(Paper)][17-1] 
-<span style="background-color:#0C37AB; color:$white;">&nbsp;KCI&nbsp;</span>
+<span style="background-color:#0C37AB; color:white;">&nbsp;KCI&nbsp;</span>
 <span style="background-color:#C31C15; color:#FFFFFF;">&nbsp;SCIE&nbsp;</span>
 <span style="background-color:#F38630; color:#FFFFFF;">&nbsp;SCOPUS&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
