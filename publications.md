@@ -136,7 +136,8 @@ The 22nd International Technical Conference on Circuits/Systems, Computers and C
 4. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
-5. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-5]<br>
+5. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-5] 
+<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
 6. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-6]<br>
