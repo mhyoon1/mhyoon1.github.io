@@ -156,13 +156,13 @@ Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sun
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
 10. <b>The Development of PDA Program for Localization System at Intelligent Home</b> [(Paper)][07-10]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, H.S. Sim, 
-The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
+The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007 (ISSN 1738-9062)
 11. <b>Sensor Networks for Asset Management System</b> [(Paper)][07-11]<br>
 Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
-The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.591~594, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
+The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.591~594, Kuala Lumpur, Malaysia, Jan. 20~23, 2007 (ISSN 1738-9062)
 12. <b>Design and Implementation of Ubiquitous Gateway</b> [(Paper)][07-12]<br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
-The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.575~578, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
+The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.575~578, Kuala Lumpur, Malaysia, Jan. 20~23, 2007 (ISSN 1738-9062)
 1. <b>Testbed 중심 센서 네트워크 발전 동향</b> [(Paper)][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 2006.11.25
