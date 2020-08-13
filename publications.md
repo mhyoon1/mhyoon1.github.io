@@ -163,25 +163,25 @@ The 6th International Conference on Applications and Principles of Information S
 12. <b>Design and Implementation of Ubiquitous Gateway</b><br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.575~578, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
-1. [<b>Testbed 중심 센서 네트워크 발전 동향</b>][06-1]<br>
+1. <b>Testbed 중심 센서 네트워크 발전 동향</b> [(Paper)][06-1]<br>
 임호정, 윤명현, 강정훈, 이민구, 유준재, 이명수, 
 2006년도 대한전자공학회 추계종합학술대회 제29권 제2호, pp.1036~1039, 한양대학교, 2006.11.25
 2. <b>An Eventual Consistent Wireless Light Control System</b> [(Paper)][06-2]<br>
 Jeonghoon Kang, Junejae Yoo, Myunghyun Yoon, Alec Woo, 
 The 4th ACM Conference on Embedded Networked Sensor Systems(SenSys 2006), Boulder, Colorado, Oct. 31~Nov. 3, 2006
-3. [<b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b>][06-3]<br>
+3. <b>지능형 홈에서의 위치인지를 위한 모바일 단말 시스템 구현</b> [(Paper)][06-3]<br>
 임호정, 유준재, 강정훈, 이민구, 윤명현, 이명수, 심화섭, 
 2006년도 정보 및 제어 학술대회(CICS'06) 논문집, pp.491~493, 평창, 2006.10.27~28
-4. [<b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b>][06-4]<br>
+4. <b>Joint Optimization of Link Scheduling, Power Control, and Routing in Ad Hoc Wireless Networks</b> [(Paper)][06-4]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 SICE-ICASE International Joint Conference 2006, pp.2142~2147, Busan, Korea, Oct. 18~21, 2006 
-5. [<b>The Implementation of Indoor Location System to Control ZigBee Home Network</b>][06-5]<br>
+5. <b>The Implementation of Indoor Location System to Control ZigBee Home Network</b> [(Paper)][06-5]<br>
 Woo-Chool Park, Myung-Hyun Yoon, 
 SICE-ICASE International Joint Conference 2006, pp.2158~2161, Busan, Korea, Oct. 18~21, 2006
 6. <b>지능 공간 실현을 위한 위치인지 시스템 개발</b><br>
 이상학, 윤정미, 조수형, 신준호, 윤명현, 
 UIT 연구회 논문지(Journal of UIT Research) Vol.2, No.1, pp.99~104, 한국정보처리학회 UIT연구회, 2006.10. (ISSN 1738-8791)
-7. [<b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b>][06-7]<br>
+7. <b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b> [(Paper)][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
 한국통신학회 2006년도 하계종합학술발표회 논문집, pp.823~826, 라마다프라자제주호텔, 2006.7.5~7
 8. [<b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>][06-8]<br>
@@ -445,12 +445,12 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [07-8]: /home/paper/ICUT2007-2.pdf
 [07-9]: /home/paper/ICUT2007-1.pdf
 
-[06-1]: /home/paper/ieek06-01.pdf
+[06-1]: https://drive.google.com/file/d/1JViPkdz41uloUqLK99Cj-MwAqHHxBnk2/view?usp=sharing
 [06-2]: https://drive.google.com/file/d/1xUFnT-R3v2mTCWEiq19ZCYrqCqVFaX5j/view?usp=sharing
-[06-3]: /home/paper/cics06-01.pdf
-[06-4]: /home/paper/SICE_ICASE_02.pdf
-[06-5]: /home/paper/SICE_ICASE_01.pdf
-[06-7]: /home/paper/2006-07.pdf
+[06-3]: https://drive.google.com/file/d/1ZDTvd6Rqng4sAlQZyAhQSbgGHwIOgfuU/view?usp=sharing
+[06-4]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
+[06-5]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
+[06-7]: https://drive.google.com/file/d/1IVJUcz1MIB0JFfXx8BpSOGXHv89RxIIH/view?usp=sharing
 [06-8]: /home/paper/MITA06-1.pdf
 [06-9]: /home/paper/MITA06-2.pdf
 [06-10]: /home/paper/SUTC06.pdf
@@ -467,8 +467,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-1]: https://drive.google.com/file/d/1-ITw3qU-yK4MN6ZL2FlC3EuHQ-xUnwWO/view?usp=sharing
 [05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
 [05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
-[05-4]: /home/paper/2005-1.pdf
-[05-5]: /home/paper/CICS05-05.pdf
+[05-4]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
+[05-5]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
 [05-6]: /home/paper/CICS05-04.pdf
 [05-7]: /home/paper/CICS05-06.pdf
 [05-8]: /home/paper/CICS05-03.pdf
