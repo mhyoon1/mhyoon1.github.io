@@ -17,7 +17,7 @@ permalink: /publications/
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017 (ISSN 1976-7277)
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
-황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
+황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017 (ISSN 1738-9887)
 1. <b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b> [(Paper)][16-1]<br>
 Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon, 
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
