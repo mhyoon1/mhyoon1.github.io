@@ -217,13 +217,13 @@ The 5th Asia Pacific International Symposium on Information Technology(APIS 2006
 19. [<b>Home Automation Control with Indoor Positioning System</b>][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
-1. [<b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b>][05-1]<br>
+1. <b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-1]<br>
 Yong-Kuk Park, Hae-Moon Seo, Yeon Kuk Moon, Won-Ki Jeon, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
-2. [<b>A Fully CMOS Integrated Radio Transceiver for Wireless Sensor Network Applications</b>][05-2]<br>
+2. <b>A Fully CMOS Integrated Radio Transceiver for Wireless Sensor Network Applications</b> [(Paper)][05-2]<br>
 Hae-Moon Seo, Yeon Kuk Moon, Yong-Kuk Park, Sung-Ok Lim, Sang-Shin Lee, Byung-Gwan Min, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, Sung-Dong Kim, 
 제7회 전자정보통신 학술대회(CEIC 2005), pp.467~470, 온양관광호텔, Dec. 1~2, 2005
-3. [<b>Design of a CMOS Analog Front End for WPAN Receivers</b>][05-3]<br>
+3. <b>Design of a CMOS Analog Front End for WPAN Receivers</b> [(Paper)][05-3]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
 4. [<b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b>][05-4]<br>
@@ -460,9 +460,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [06-18]: /home/paper/APIS06-03.pdf
 [06-19]: /home/paper/APIS06-04.pdf
 
-[05-1]: /home/paper/CEIC05-03.pdf
-[05-2]: /home/paper/CEIC05-01.pdf
-[05-3]: /home/paper/CEIC05-02.pdf
+[05-1]: https://drive.google.com/file/d/1-ITw3qU-yK4MN6ZL2FlC3EuHQ-xUnwWO/view?usp=sharing
+[05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
+[05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
 [05-4]: /home/paper/2005-1.pdf
 [05-5]: /home/paper/CICS05-05.pdf
 [05-6]: /home/paper/CICS05-04.pdf
