@@ -117,13 +117,13 @@ Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon,
 10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008
 15. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b> [(Paper)][08-15]<br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
-Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science p.550~553, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
+Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science pp.550~553, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
 16. <b>The Design of Logging DB/Middleware Architecture in USN/RFID Integrated System</b> [(Paper)][08-16]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.K. Lee, J.J. Yoo,
-Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science p.613~616, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
+Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science pp.613~616, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
 17. <b>A Quick Tracking Algorithm for Packing Lot Management System</b> [(Paper)][08-17]<br>
 Min Goo Lee, Han Jong Ryu, Jeong Hoon Kang, Myung Hyun Yoon,
-Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science p.634~637, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
+Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science pp.634~637, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 3rd International Conference on Multimedia, Information Technology and Its Applications(MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
