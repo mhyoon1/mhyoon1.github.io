@@ -11,9 +11,9 @@ permalink: /publications/
 
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b> [(Paper)][17-1] 
-<span style="background-color:#0C37AB; color:white;">&nbsp;KCI&nbsp;</span>
-<span style="background-color:#C31C15; color:white;">&nbsp;SCIE&nbsp;</span>
-<span style="background-color:#F38630; color:white;">&nbsp;SCOPUS&nbsp;</span><br>
+<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span>
+<span style="background-color:red; color:white;">&nbsp;SCIE&nbsp;</span>
+<span style="background-color:orange; color:white;">&nbsp;SCOPUS&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017 (ISSN 1976-7277)
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
