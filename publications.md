@@ -109,10 +109,10 @@ The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속�
 12. <b>A Radio Frequency Modulation for Digital-IF Transmitter Supporting Wireless Software-Defined Radio(SDR) Applications</b><br>
 Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon, 
 한국통신학회 제18회 통신정보합동학술대회(JCCI 2008) pp.73~80, 라마다프라자제주호텔, 2008.4.23~25
-13. [<b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b>][08-13]<br>
+13. <b>무선 센서 네트워크를 위한 절전형 빌딩 게이트웨이 시스템</b> [(Paper)][08-13]<br>
 임호정, 유준재. 강정훈, 이민구, 윤명현, 송병철, 임상채, 
 한국건축친환경설비학회 춘계학술발표대회, pp.37~30, 2008.4.12
-14. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-14]<br>
+14. <b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b> [(Paaper)][08-14]<br>
 Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
 10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008
 15. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b> [(Paper)][08-15]<br>
@@ -428,9 +428,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [08-9]: https://drive.google.com/file/d/1DmXjOymIv83Ll-vdGj7enpN3XZITs5Oj/view?usp=sharing
 [08-10]: https://drive.google.com/file/d/1LLHRbeJrp_gpFWQqiT_mQIeR4BsV4S4P/view?usp=sharing
 [08-11]: https://drive.google.com/file/d/1HSxXibsRnC9FJ1AmvSn9Mt0HGj75DiEW/view?usp=sharing
-[08-13]: /home/paper/kiaebs_2008.pdf
-[08-14]: /home/paper/2008-15.pdf
-[08-15]: 
+[08-13]: https://drive.google.com/file/d/1CTR9YhkZ7GmrXFRSRgJ_p_CaFlW8B8V8/view?usp=sharing
+[08-14]: https://drive.google.com/file/d/16veirjUut0Rb3ZMC5nl8hxJFq9HTsK8h/view?usp=sharing
+[08-15]: https://drive.google.com/file/d/1AdIIbVgU-qDRD9VO1ZHU9_hThgR0RoV7/view?usp=sharing
 
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
