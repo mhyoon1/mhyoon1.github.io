@@ -136,15 +136,15 @@ The 22nd International Technical Conference on Circuits/Systems, Computers and C
 4. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
-5. [<b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b>][07-5] 
+5. <b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b> [(Paper)][07-5] 
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
-6. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-6]
+6. <b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b> [(Paper)][07-6]
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 남상엽, 이민구, 강정훈, 윤명현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June, 2007
-7. [<b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b>][07-7]
+7. <b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b> [(Paper)][07-7]
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 박우출, 이명수, 윤명현, 김성동, 양성현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June, 2007
@@ -439,9 +439,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
 [07-3]: /home/paper/ITC-CSCC07-1.pdf
-[07-5]: /home/paper/KMMS07.pdf
-[07-6]: /home/paper/2007-5.pdf
-[07-7]: /home/paper/2007-6.pdf
+[07-5]: https://drive.google.com/file/d/1xKOXCZWNaqAQpXCgjnVstOm3nAWq-dDE/view?usp=sharing
+[07-6]: https://drive.google.com/file/d/1N08k6JMaTZh3pXC3uZsoqCsOIpXxMP-N/view?usp=sharing
+[07-7]: https://drive.google.com/file/d/1l5YArF5nfKKCJznh1mWr8Vq4NdGVYNUY/view?usp=sharing
 [07-8]: /home/paper/ICUT2007-2.pdf
 [07-9]: /home/paper/ICUT2007-1.pdf
 [07-10]: https://drive.google.com/file/d/1QfGQWEoWSyMWiEXqHeZVgIQsFr9w0z6U/view?usp=sharing
