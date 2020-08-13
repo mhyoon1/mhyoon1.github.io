@@ -184,10 +184,10 @@ UIT 연구회 논문지(Journal of UIT Research) Vol.2, No.1, pp.99~104, 한국�
 7. <b>개인무선통신을 위한 다이렉 컨버젼 수신기의 CMOS 아날로그 프런트엔드 회로 설계</b> [(Paper)][06-7]<br>
 문연국, 서해문, 박용국, 임승옥, 원광호, 윤명현, 유준재, 이명수, 김성동, 
 한국통신학회 2006년도 하계종합학술발표회 논문집, pp.823~826, 라마다프라자제주호텔, 2006.7.5~7
-8. [<b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b>][06-8]<br>
+8. <b>Joint Opportunistic Scheduling and Power Control for Ad Hoc Networks</b> [(Paper)][06-8]<br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.191~194, Dailian China, July 4~6, 2006
-9. [<b>Web-supported Mesh Sensor Network Technology for Asset Management System</b>][06-9]<br>
+9. <b>Web-supported Mesh Sensor Network Technology for Asset Management System</b> [(Paper)][06-9]<br>
 Min Goo Lee, Myung Hyun Yoon, Jung Hoon Kang, Jun Jae Yoo, Yun Sik Lee, Han Jong Ryu, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.355~358, Dailian China, July 4~6, 2006 
 10. [<b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b>][06-10]<br>
@@ -451,8 +451,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [06-4]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
 [06-5]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
 [06-7]: https://drive.google.com/file/d/1IVJUcz1MIB0JFfXx8BpSOGXHv89RxIIH/view?usp=sharing
-[06-8]: /home/paper/MITA06-1.pdf
-[06-9]: /home/paper/MITA06-2.pdf
+[06-8]: https://drive.google.com/file/d/1NfgZ3r21w3qfnV-aeDasitBkE7UoPf1N/view?usp=sharing
+[06-9]: https://drive.google.com/file/d/1toku95asua-GXstSu8PyRKIWEFyHX1uG/view?usp=sharing
 [06-10]: /home/paper/SUTC06.pdf
 [06-11]: /home/paper/ICS06-02.pdf
 [06-12]: /home/paper/cics06-03.pdf
