@@ -141,11 +141,11 @@ Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Ko
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
 6. [<b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b>][07-6]
-<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br><br>
+<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 남상엽, 이민구, 강정훈, 윤명현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June, 2007
 7. [<b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b>][07-7]
-<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br><br>
+<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 박우출, 이명수, 윤명현, 김성동, 양성현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June, 2007
 8. [<b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b>][07-8]<br>
@@ -154,13 +154,13 @@ International Conference on Ubiquitous Information Technologies & Applications(I
 9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-9]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
-10. [<b>The Development of PDA Program for Localization System at Intelligent Home</b>][07-10]<br>
+10. <b>The Development of PDA Program for Localization System at Intelligent Home</b> [(Paper)][07-10]<br>
 Hojung Lim, M.H. Yoon, J.H. Kang, M.G. Lee, J.J. Yoo, M.S. Lee, H.S. Sim, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.595~598, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
-11. <b>Sensor Networks for Asset Management System</b><br>
+11. <b>Sensor Networks for Asset Management System</b> [(Paper)][07-11]<br>
 Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.591~594, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
-12. <b>Design and Implementation of Ubiquitous Gateway</b><br>
+12. <b>Design and Implementation of Ubiquitous Gateway</b> [(Paper)][07-12]<br>
 Soohyung Cho, Kim Daewhan, Yoon Myunghyun, 
 The 6th International Conference on Applications and Principles of Information Science(APIS 2007), pp.575~578, Kuala Lumpur, Malaysia, Jan. 20~23, 2007
 1. <b>Testbed 중심 센서 네트워크 발전 동향</b> [(Paper)][06-1]<br>
@@ -444,7 +444,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [07-7]: /home/paper/2007-6.pdf
 [07-8]: /home/paper/ICUT2007-2.pdf
 [07-9]: /home/paper/ICUT2007-1.pdf
-
+[07-10]: https://drive.google.com/file/d/1QfGQWEoWSyMWiEXqHeZVgIQsFr9w0z6U/view?usp=sharing
+[07-11]: https://drive.google.com/file/d/1gjQPi-7hBQ9s76uclFg86iAAsQi1-8Jj/view?usp=sharing
+[07-12]: https://drive.google.com/file/d/1euB1tv2BBV-VlQ5LOMJAIaamkwzPb1pK/view?usp=sharing
 [06-1]: https://drive.google.com/file/d/1JViPkdz41uloUqLK99Cj-MwAqHHxBnk2/view?usp=sharing
 [06-2]: https://drive.google.com/file/d/1xUFnT-R3v2mTCWEiq19ZCYrqCqVFaX5j/view?usp=sharing
 [06-3]: https://drive.google.com/file/d/1ZDTvd6Rqng4sAlQZyAhQSbgGHwIOgfuU/view?usp=sharing
