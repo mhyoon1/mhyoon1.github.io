@@ -15,7 +15,7 @@ permalink: /publications/
 <span style="background-color:#C31C15; color:white;">&nbsp;SCIE&nbsp;</span>
 <span style="background-color:#F38630; color:white;">&nbsp;SCOPUS&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
-KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017
+KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017 (ISSN 1976-7277)
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
 황영배, 윤명현, OSIA S&TR Journal Vol.30 No.1, pp.23~29, Mar. 2017
 1. <b>Dynamic Screen Object Detection Scheme for Non-Planar Interactive Digital Signage System</b> [(Paper)][16-1]<br>
@@ -115,9 +115,15 @@ Hae-Moon Seo, Yong-Kuk Park, Woo-Chool Park, Myung-Soo Lee, Myung-Hyun Yoon,
 14. [<b>An Approach to Mitigating Sybil Attack in Wireless Networks using ZigBee</b>][08-14]<br>
 Gunhee Lee, Jaesung Lim, Dong-kyoo Kim, SungHyun Yang, MyungHyun Yoon, 
 10th International Conference on Advanced Communication Technology(ICACT 2008), pp.1005~1009, Phoenix Park, Korea, Feb. 17~20, 2008
-15. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b><br>
+15. <b>Intrusion Detection/Counterplan for ZigBee Home Network Security</b> [(Paper)][08-15]<br>
 Woochool Park, Myungsoo Lee, Myunghyun Yoon, Sunghyun Yang, 
-The 7th International Conference on Applications and Principles of Information Science(APIS 2008), Auckland, New Zealand, Jan. 28~30, 2008
+Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science p.550~553, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
+16. <b>The Design of Logging DB/Middleware Architecture in USN/RFID Integrated System</b> [(Paper)][08-16]<br>
+Hojung Lim, M.H. Yoon, J.H. Kang, M.K. Lee, J.J. Yoo,
+Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science p.613~616, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
+17. <b>A Quick Tracking Algorithm for Packing Lot Management System</b> [(Paper)][08-17]<br>
+Min Goo Lee, Han Jong Ryu, Jeong Hoon Kang, Myung Hyun Yoon,
+Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science p.634~637, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
 1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 3rd International Conference on Multimedia, Information Technology and Its Applications(MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
@@ -424,6 +430,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [08-11]: https://drive.google.com/file/d/1HSxXibsRnC9FJ1AmvSn9Mt0HGj75DiEW/view?usp=sharing
 [08-13]: /home/paper/kiaebs_2008.pdf
 [08-14]: /home/paper/2008-15.pdf
+[08-15]: 
+
 [07-1]: /home/paper/MITA2007.pdf
 [07-2]: /home/paper/ITC-CSCC07-2.pdf
 [07-3]: /home/paper/ITC-CSCC07-1.pdf
