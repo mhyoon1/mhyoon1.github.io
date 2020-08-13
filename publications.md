@@ -64,7 +64,7 @@ Jongbin Park, Min Jang, Sang-Hyo Kim, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo J
 KT경제경영연구소 DIGIECO Focus, 2012.5.8.
 2. <b>스마트TV 산업 활성화를 위한 정책적 이슈</b> [(Paper)][12-2]<br>
 윤명현, 김대진, 
-Telecommunications Review 22권 2호, pp.154~167, 2012
+Telecommunications Review 22권 2호, pp.154~167, 2012 (ISSN 1226-5586)
 
 ## 2001~2009(KETI)
 1. <b>Wireless Multi-mode Security Solutions for Ubiquitous Home Network</b><br>
