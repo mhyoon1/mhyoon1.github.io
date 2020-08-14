@@ -190,9 +190,9 @@ The 2006 International Conference on Multimedia, Information Technology and Its 
 9. <b>Web-supported Mesh Sensor Network Technology for Asset Management System</b> [(Paper)][06-9]<br>
 Min Goo Lee, Myung Hyun Yoon, Jung Hoon Kang, Jun Jae Yoo, Yun Sik Lee, Han Jong Ryu, 
 The 2006 International Conference on Multimedia, Information Technology and Its Applications(MITA 2006), pp.355~358, Dailian China, July 4~6, 2006 
-10. [<b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b>][06-10]<br>
+10. <b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b> [(Paper)][06-10]<br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
-The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing(SUTC 2006), pp.256~261, Taichung Taiwan, June 5~7, 2006
+The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing(SUTC 2006), pp.256~261, Taichung Taiwan, Jun. 5~7, 2006
 11. [<b>무선 센서 네트워크 운영체제 기술 동향 분석</b>][06-11]<br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29
@@ -455,7 +455,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [06-7]: https://drive.google.com/file/d/1IVJUcz1MIB0JFfXx8BpSOGXHv89RxIIH/view?usp=sharing
 [06-8]: https://drive.google.com/file/d/1NfgZ3r21w3qfnV-aeDasitBkE7UoPf1N/view?usp=sharing
 [06-9]: https://drive.google.com/file/d/1toku95asua-GXstSu8PyRKIWEFyHX1uG/view?usp=sharing
-[06-10]: /home/paper/SUTC06.pdf
+[06-10]: https://drive.google.com/file/d/1A-eGkLifKrvNezAOrYfhUFX4AUnDVbgM/view?usp=sharing
 [06-11]: /home/paper/ICS06-02.pdf
 [06-12]: /home/paper/cics06-03.pdf
 [06-13]: /home/paper/ICS06-01.pdf
