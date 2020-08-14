@@ -12,7 +12,7 @@ permalink: /publications/
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b> [(Paper)][17-1] 
 <span style="background-color:blue; color:white; font-size:14px;">&nbsp;KCI&nbsp;</span>
-<span style="background-color:red; color:white;">&nbsp;SCIE&nbsp;</span>
+<span style="background-color:red; color:white; font-size:15px">&nbsp;SCIE&nbsp;</span>
 <span style="background-color:orange; color:white;">&nbsp;SCOPUS&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017 (ISSN 1976-7277)
