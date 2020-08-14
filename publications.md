@@ -124,13 +124,13 @@ Proceedings of the 7th APIS(International Conference on Applications and Princip
 17. <b>A Quick Tracking Algorithm for Packing Lot Management System</b> [(Paper)][08-17]<br>
 Min Goo Lee, Han Jong Ryu, Jeong Hoon Kang, Myung Hyun Yoon,
 Proceedings of the 7th APIS(International Conference on Applications and Principles of Information Science) pp.634~637, Auckland, New Zealand, Jan. 28~30, 2008 (ISSN 1976-7587)
-1. [<b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b>][07-1]<br>
+1. <b>Clustering Algorithm for Multi-Radio Wireless Mesh Networks</b> [(Paper)][07-1]<br>
 Ma. Victoria Que, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 3rd International Conference on Multimedia, Information Technology and Its Applications(MITA 2007), pp.45~48, Manila Philippines, Aug. 19~22, 2007
-2. [<b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b>][07-2]<br>
+2. <b>Hybrid Cluster Mesh Organization Scheme for Energy Efficient Wireless Sensor Networks</b> [(Paper)][07-2]<br>
 Sungil Lee, Jaesung Lim, SungHyun Yang, Myung Hyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.697~698, Busan Korea, July 8~11, 2007
-3. [<b>WUSB Security and Threats: a Survey and a Decision</b>][07-3]<br>
+3. <b>WUSB Security and Threats: a Survey and a Decision</b> [(Paper)][07-3]<br>
 Gunhee Lee, Dong-kyoo Kim, Jaesung Lim, SungHyun Yang, MyungHyun Yoon, 
 The 22nd International Technical Conference on Circuits/Systems, Computers and Communications(ITC-CSCC 2007), pp.147~148, Busan Korea, July 8~11, 2007
 4. <b>A Patterned Preamble MAC Protocol for Wireless Sensor Networks</b><br>
