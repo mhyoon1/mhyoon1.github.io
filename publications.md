@@ -143,11 +143,11 @@ Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang,
 6. <b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b> [(Paper)][07-6]
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 남상엽, 이민구, 강정훈, 윤명현, 
-대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June, 2007
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, Jun. 2007 (ISSN 1975-5066)
 7. <b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b> [(Paper)][07-7]
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 박우출, 이명수, 윤명현, 김성동, 양성현, 
-대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June, 2007
+대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, Jun. 2007 (ISSN 1975-5066)
 8. [<b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b>][07-8]<br>
 Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B. Kim, 
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
