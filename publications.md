@@ -23,7 +23,7 @@ Jongbin Park, Jungeol Chun, Jae-Won Moon, Tae-Beom Lim, Myung-Hyun Yoon,
 KSII The 8th International Conference on Internet(ICONI 2016), Hong Kong, Dec. 2016
 2. <b>Layered Architecture of Device Virtualization and Functional Collaboration for Efficient Cyber Services Configurability</b> ([Paper][16-2], [Slide][16-2-1])<br>
 Kyou Ho Lee, Chae Min Park, Myung Hyun Yoon, 
-The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016
+The 8th International Conference on Ubiquitous and Future Networks(ICUFN 2016), pp.635~640, Vienna Austria, July 5~8, 2016  (ISSN 2288-0712)
 3. <b>Backscatter Wireless Communication System Using Ambient Wi-Fi Signal in Indoor Propagation Environments</b> [(Paper)][16-3]<br>
 Young-Han Kim, Hyun-Seok Ahn, Yongseok Lim, Changseok Yoon, Seung-ok Lim, Myung-Hyun Yoon, 
 The 11th Asia Pacific International Conference on Information Science and Technology(APIC-IST 2016), pp.159~161, Hokkaido Japan, June 26~29, 2016
@@ -38,10 +38,10 @@ Yong-Suk Park, Se-Ho Park, Kyung-Taek Lee, Myung-Hyun Yoon,
 The 29th International Conference on Information Networking(ICOIN 2015), pp.464~465, Siam Reap, Cambodia, Jan. 12~14, 2015
 1. <b>Seamless Video Streaming Algorithm Using Variable Media Chunk</b> [(Paper,][14-1] [Slide)][14-1-2]<br>
 Myung-Hyun Yoon, Kue Back Lee, Chae Min Park, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.222~223, Shanghai China, July 8~11, 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.222~223, Shanghai China, July 8~11, 2014 (ISSN 2288-0712)
 2. <b>Digital Backend Design of Implantable RFID Tag</b> [(Paper)][14-2]<br>
 Yong-Ju Park, Hyun-Suk Ahn, Young-Han Kim, Yong-Suk Lim, Seung-Ok Lim and Myung-Hyun Yoon, 
-6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.224~225, Shanghai China, July 8~11, 2014
+6th International Conference on Ubiquitous and Future Networks(ICUFN 2014), pp.224~225, Shanghai China, July 8~11, 2014 (ISSN 2288-0712)
 3. <b>Private Image Region Protection and Reconstruction Scheme for Cloud-based Video Monitoring System Using Transform Domain Wyner-Ziv Video Coding</b> [(Paper)][14-3]<br>
 Jongbin Park, Kyung-Won Kim, Jae-Won Moon, Seung-Woo Kum, Jong-Jin Jung, Tae-Beom Lim, Myung-Hyun Yoon, Byeungwoo Jeon, 
 2014 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting(BMSB 2014), pp.1~4, Beijing China, Jun. 25~27, 2014
