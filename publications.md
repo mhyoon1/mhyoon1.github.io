@@ -84,19 +84,19 @@ The 8th International Conference on Applications and Principles of Information S
 한국정보과학회 학술심포지엄, 2008.11.28
 4. <b>다중 센서값의 효율적인 전송을 위한 Periodic 데이터 전송 방법 구현</b> [(Paper)][08-4]<br>
 이민구, 강정훈, 임호정, 윤명현, 
-2008년도 정보 및 제어 학술대회(CICS 2008), pp.548~549, 현대성우리조트, 2008.10.31~11.1
+2008년도 정보 및 제어 학술대회(CICS 2008) 논문집 pp.548~549, 현대성우리조트, 2008.10.31~11.1
 5. <b>Interrupt 기반의 반응 속도가 향상된 센서 네트워크 전송 방법 구현</b> [(Paper)][08-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 
-2008년도 정보 및 제어 학술대회(CICS 2008), pp.546~547, 현대성우리조트, 2008.10.31~11.1
+2008년도 정보 및 제어 학술대회(CICS 2008) 논문집 pp.546~547, 현대성우리조트, 2008.10.31~11.1
 6. <b>위치인지 서비스를 위한 플래폼 및 프레임워크 기술</b> [(Paper)][08-6]<br>
 조수형, 윤명현, 
-한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.19~26, 2008.9.
+한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.19~26, 2008.9. (ISSN 1229-778X)
 7. <b>구속형 위치인지 서비스 기술 및 응용</b> [(Paper)][08-7]<br>
 신준호, 윤명현, 
-한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.27~34, 2008.9.
+한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.27~34, 2008.9. (ISSN 1229-778X)
 8. <b>UWB 기반 무선 위치인지 서비스 기술</b> [(Paper)][08-8]<br>
 강정훈, 이민구, 임호정, 유준재, 윤명현, 고원식 
-한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9.
+한국멀티미디어학회지(Korea Multimedia Society) 제12권 제3호, pp.35~45, 2008.9. (ISSN 1229-778X)
 9. <b>웹기반 저전력 USN 시스템 아키텍처</b> [(Paper)][08-9]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 고원식, 엄흥식, 허병회, 고정권, 
 The 1st Ubiquitous Convergence Technology(UCT 2008) Workshop & Conference, 속초설악파크호텔, 2008.7.23
@@ -436,9 +436,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [08-15]: https://drive.google.com/file/d/1AdIIbVgU-qDRD9VO1ZHU9_hThgR0RoV7/view?usp=sharing
 [08-16]: https://drive.google.com/file/d/1HDzmY4A5hJnB-546NLEUbgF8wFl9sAYR/view?usp=sharing
 [08-17]: https://drive.google.com/file/d/1cwjp9BMmraJAkNOuOWeLYl7dIaRLuyeY/view?usp=sharing
-[07-1]: /home/paper/MITA2007.pdf
-[07-2]: /home/paper/ITC-CSCC07-2.pdf
-[07-3]: /home/paper/ITC-CSCC07-1.pdf
+[07-1]: https://drive.google.com/file/d/1dN8reqaykPqvM-SnIiHyFT6iEATbEQ-q/view?usp=sharing
+[07-2]: https://drive.google.com/file/d/1JiTVBRC3xpDXlajMeCB3AtC2R8aYc8Rk/view?usp=sharing
+[07-3]: https://drive.google.com/file/d/1MzcnN30XyDGw0sl2pH3Ms6s1pNPhkbAs/view?usp=sharing
 [07-5]: https://drive.google.com/file/d/1xKOXCZWNaqAQpXCgjnVstOm3nAWq-dDE/view?usp=sharing
 [07-6]: https://drive.google.com/file/d/1N08k6JMaTZh3pXC3uZsoqCsOIpXxMP-N/view?usp=sharing
 [07-7]: https://drive.google.com/file/d/1l5YArF5nfKKCJznh1mWr8Vq4NdGVYNUY/view?usp=sharing
