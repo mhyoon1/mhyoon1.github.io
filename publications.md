@@ -148,10 +148,10 @@ Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang,
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 박우출, 이명수, 윤명현, 김성동, 양성현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June 2007 (ISSN 1975-5066)
-8. [<b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b>][07-8]<br>
+8. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b> [(Paper)][07-8]<br>
 Hojung Lim, J.J. Yoo, J.H. Kang, M.G. Lee, M.H. Yoon, M.S. Lee, S.I. Hwang, D.B. Kim, 
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
-9. [<b>Security Threats Analysis for ZigBee Home Network Services</b>][07-9]<br>
+9. <b>Security Threats Analysis for ZigBee Home Network Services</b> [(Paper)][07-9]<br>
 Woo Chool Park, Myung Soo Lee, Myung Hyun Yoon, June Jae Yoo, Sung Dong Kim, Sung Hyun Yang, 
 International Conference on Ubiquitous Information Technologies & Applications(ICUT 2007), Dubai UAE, Feb. 12~14, 2007
 10. <b>The Development of PDA Program for Localization System at Intelligent Home</b> [(Paper)][07-10]<br>
@@ -442,8 +442,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [07-5]: https://drive.google.com/file/d/1xKOXCZWNaqAQpXCgjnVstOm3nAWq-dDE/view?usp=sharing
 [07-6]: https://drive.google.com/file/d/1N08k6JMaTZh3pXC3uZsoqCsOIpXxMP-N/view?usp=sharing
 [07-7]: https://drive.google.com/file/d/1l5YArF5nfKKCJznh1mWr8Vq4NdGVYNUY/view?usp=sharing
-[07-8]: /home/paper/ICUT2007-2.pdf
-[07-9]: /home/paper/ICUT2007-1.pdf
+[07-8]: https://drive.google.com/file/d/16rqRO_UmGhWb-6quUSC00HEzMSJfaKLt/view?usp=sharing
+[07-9]: https://drive.google.com/file/d/1YR6_69j-yUZGak-8nte5kaUqXVfbHCYQ/view?usp=sharing
 [07-10]: https://drive.google.com/file/d/1QfGQWEoWSyMWiEXqHeZVgIQsFr9w0z6U/view?usp=sharing
 [07-11]: https://drive.google.com/file/d/1gjQPi-7hBQ9s76uclFg86iAAsQi1-8Jj/view?usp=sharing
 [07-12]: https://drive.google.com/file/d/1euB1tv2BBV-VlQ5LOMJAIaamkwzPb1pK/view?usp=sharing
