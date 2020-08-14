@@ -139,7 +139,7 @@ Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Ko
 5. <b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b> [(Paper)][07-5] 
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
-한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June. 2007
+한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, Jun. 2007 (ISSN 1229-7771)
 6. <b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b> [(Paper)][07-6]
 <span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
 남상엽, 이민구, 강정훈, 윤명현, 
