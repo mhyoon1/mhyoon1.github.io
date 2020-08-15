@@ -20,13 +20,13 @@ I received a Ph.D. degree in Electrical Engineering from Iowa State University i
 at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
 ## Working Experience
-* 2020~     Research Fellow, KICTech
-* 2017~2020 Director of IT Industry Promotion Agency, Gyungnam Technopark
-* 2013~2017 Vice President of Communications & Media R&D Division, KETI
-* 2009~2012 Home Network/Information Appliances Program Director(PD), KEIT
-* 2001~2009 Director of Research Center, KETI
-* 1994~2001 Senior Researcher, KEPRI
-* 1984~1989 Engineer, KEPCO
+* 2020.4.~     Research Fellow, KICTech
+* 2017.4.~2020.4. Director of IT Industry Promotion Agency, Gyungnam Technopark
+* 2013.1.~2017.3. Vice President of Communications & Media R&D Division, KETI
+* 2009.3.~2012.12. Home Network/Information Appliances Program Director(PD), KEIT
+* 2001.3.~2009.2. Director of Research Center, KETI
+* 1994.2.~2001.3. Senior Researcher, KEPRI
+* 1984.2.~1989.8. Engineer, KEPCO
 
 I am a research scientist at KETI, working on deep learning and its applications. 
 Prior to working at KETI, I worked as a research engineer at KEPRI from 1994 to 2001.
