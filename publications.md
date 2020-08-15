@@ -12,8 +12,8 @@ permalink: /publications/
 ## 2013~2017(KETI)
 1. <b>Implementation of Bistatic Backscatter Wireless Communication System Using Ambient Wi-Fi Signals</b> [(Paper)][17-1] 
 <span style="background-color:blue; color:white; font-size:14px;">&nbsp;KCI&nbsp;</span>
-<span style="background-color:red; color:white; font-size:15px">&nbsp;SCIE&nbsp;</span>
-<span style="background-color:orange; color:white;">&nbsp;SCOPUS&nbsp;</span><br>
+<span style="background-color:red; color:white; font-size:14px">&nbsp;SCIE&nbsp;</span>
+<span style="background-color:orange; color:white; font-size:14px;">&nbsp;SCOPUS&nbsp;</span><br>
 Kim, Young-Han; Ahn, Hyun-Seok; Yoon, Changseok; Lim, Yongseok; Lim, Seung-ok; Yoon, Myung-Hyun, 
 KSII Transactions on Internet and Information Systems(TIIS) Vol.11 No.2, pp.1250~1264, Feb. 2017 (ISSN 1976-7277)
 2. <b>자율주행을 위한 다중센서 기반 인공지능 기술</b> [(Paper)][17-2]<br>
@@ -137,15 +137,15 @@ The 22nd International Technical Conference on Circuits/Systems, Computers and C
 Ryu Han Jong, Lee Min Goo, Kang Jung Hoon, Yoon Myung Hyun, 
 Proceedings of International Ubiquitous Workshop(IUW 2007), pp. 55~60, Sokcho Korea, July 3~4, 2007
 5. <b>Scheduling and Power Control Framework for Ad hoc Wireless Networks</b> [(Paper)][07-5] 
-<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
+<span style="background-color:blue; color:white; font-size:14px;">&nbsp;KCI&nbsp;</span><br>
 Reizel Casaquite, Myung-Hyun Yoon, Won-Joo Hwang, 
 한국멀티미디어학회논문지(Journal of Korea Multimedia Society) Vol.10, No.6, pp.745~753, June 2007 (ISSN 1229-7771)
 6. <b>유비쿼터스 센서 네트워크를 이용한 시스템관리 응용 시스템의 구현에 관한 연구</b> [(Paper)][07-6]
-<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
+<span style="background-color:blue; color:white; font-size:14px;">&nbsp;KCI&nbsp;</span><br>
 남상엽, 이민구, 강정훈, 윤명현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.116~122, June 2007 (ISSN 1975-5066)
 7. <b>유비쿼터스 홈 네트워크에서의 ZigBee End-to-End 보안 기술</b> [(Paper)][07-7]
-<span style="background-color:blue; color:white;">&nbsp;KCI&nbsp;</span><br>
+<span style="background-color:blue; color:white; font-size:14px;">&nbsp;KCI&nbsp;</span><br>
 박우출, 이명수, 윤명현, 김성동, 양성현, 
 대한임베디드공학회논문지(IEMEK Journal of Embedded Systems and Applications) Vol.2, No.2, pp.128~136, June 2007 (ISSN 1975-5066)
 8. <b>The Development of Integrated ZigBee/RFID Module and Remote Monitoring System</b> [(Paper)][07-8]<br>
@@ -392,7 +392,7 @@ Review of Progress in Quantitative NDE Vol.10A, pp.733~740, Oct. 1991
 
 ## 1982~1984(KAIST)
 1. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b> [(Paper)][85-1] 
-<span style="background-color:red; color:white;">&nbsp;SCIE&nbsp;</span><br>
+<span style="background-color:red; color:white; font-size:14px;">&nbsp;SCIE&nbsp;</span><br>
 Myung-Hyun Yoon, Hee-Cheon No, 
 Nuclear Science and Engineering Vol.90, pp.203~209, Oct. 1985
 2. <b>Direct Numerical Technique of Mathematical Programming for Optimal Control of Xenon Oscillation in Load Following Operation</b><br>
