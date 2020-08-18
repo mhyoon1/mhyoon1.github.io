@@ -193,16 +193,16 @@ The 2006 International Conference on Multimedia, Information Technology and Its 
 10. <b>The Design of Multi-Hop Routing with Asset Monitoring Application Using Wireless Sensor Networks</b> [(Paper)][06-10]<br>
 Hojung Lim, Jeong-Hoon Kang, Min-Goo Lee, Joon-Jae Yoo, Myung-Hyun Yoon, Myung-Soo Lee, Jeong-Hun Choi, 
 The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing(SUTC 2006), pp.256~261, Taichung Taiwan, Jun. 5~7, 2006
-11. [<b>무선 센서 네트워크 운영체제 기술 동향 분석</b>][06-11]<br>
+11. <b>무선 센서 네트워크 운영체제 기술 동향 분석</b> [(Paper)][06-11]<br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 황성일, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.177~179, 서울시립대학교, 2006.4.29
-12. [<b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b>][06-12]<br>
+12. <b>무선 센서 네트워크 기반의 빌딩 조명 제어 시스템</b> [(Paper)][06-12]<br>
 강정훈, 유준재, 윤명현, 이명수, 임호정, 이민구, 장동섭, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.174~176, 서울시립대학교, 2006.4.29
-13. [<b>홈 네트워크에서의 USN 보안 고려사항 분석</b>][06-13]<br>
+13. <b>홈 네트워크에서의 USN 보안 고려사항 분석</b> [(Paper)][06-13]<br>
 박우출, 박현문, 이명수, 윤명현, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.171~173, 서울시립대학교, 2006.4.29
-14. [<b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b>][06-14]<br>
+14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b> [(Paper)][06-14]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
@@ -456,10 +456,10 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [06-8]: https://drive.google.com/file/d/1NfgZ3r21w3qfnV-aeDasitBkE7UoPf1N/view?usp=sharing
 [06-9]: https://drive.google.com/file/d/1toku95asua-GXstSu8PyRKIWEFyHX1uG/view?usp=sharing
 [06-10]: https://drive.google.com/file/d/1A-eGkLifKrvNezAOrYfhUFX4AUnDVbgM/view?usp=sharing
-[06-11]: /home/paper/ICS06-02.pdf
-[06-12]: /home/paper/cics06-03.pdf
-[06-13]: /home/paper/ICS06-01.pdf
-[06-14]: /home/paper/cics06-02.pdf
+[06-11]: https://drive.google.com/file/d/1yB7zYIT1Isqz9cX0QQbyiFrFW7XMzze6/view?usp=sharing
+[06-12]: https://drive.google.com/file/d/1lygnlFPom2nZq_bmX2ypl24zzPcSiJka/view?usp=sharing
+[06-13]: https://drive.google.com/file/d/1bZwXx4fd47yNFuL1tG8Bbr4e5KeOvkA3/view?usp=sharing
+[06-14]: https://drive.google.com/file/d/13BWRHgD9RMncFtDEZ3J5NKj9j5l8qHNu/view?usp=sharing
 [06-15]: /home/paper/ICACT06-01.pdf
 [06-16]: https://drive.google.com/file/d/1NOVEFwTF1r3FyOV3gtbtq90djmxDAZzA/view?usp=sharing
 [06-17]: https://drive.google.com/file/d/1weowV8O8oWh5Ps8bSAQlE45vPTvzAufK/view?usp=sharing
