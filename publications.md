@@ -208,16 +208,16 @@ The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworth
 15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 8th International Conference on Advanced Communication Technology(ICACT 2006), pp.719~724, Phoenix Park, Korea, Feb. 20~22, 2006
-16. [<b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b>][06-16]<br>
+16. <b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b> [(Paper)][06-16]<br>
 Soohyung Cho, Daewhan Kim, Myunghyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
-17. [<b>The Development of Localization Server System for Location-Awareness in Smart Home</b>][06-17]<br>
+17. <b>The Development of Localization Server System for Location-Awareness in Smart Home</b> [(Paper)][06-17]<br>
 Hojung Lim, Jeonghoon Kang, Mingoo Lee, Junjae Yoo, Myunghyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
-18. [<b>A Study on the Efficient Routing Algorithm for Asset Management System</b>][06-18]<br>
+18. <b>A Study on the Efficient Routing Algorithm for Asset Management System</b> [(Paper)][06-18]<br>
 Mingoo Lee, Junghoon Kang, Hojung Lim, Myunghyun Yoon, Junjae Yoo, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
-19. [<b>Home Automation Control with Indoor Positioning System</b>][06-19]<br>
+19. <b>Home Automation Control with Indoor Positioning System</b> [(Paper)][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 1. <b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-1]<br>
@@ -461,10 +461,10 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [06-13]: /home/paper/ICS06-01.pdf
 [06-14]: /home/paper/cics06-02.pdf
 [06-15]: /home/paper/ICACT06-01.pdf
-[06-16]: /home/paper/APIS06-01.pdf
-[06-17]: /home/paper/APIS06-02.pdf
-[06-18]: /home/paper/APIS06-03.pdf
-[06-19]: /home/paper/APIS06-04.pdf
+[06-16]: https://drive.google.com/file/d/1NOVEFwTF1r3FyOV3gtbtq90djmxDAZzA/view?usp=sharing
+[06-17]: https://drive.google.com/file/d/1weowV8O8oWh5Ps8bSAQlE45vPTvzAufK/view?usp=sharing
+[06-18]: https://drive.google.com/file/d/12ztINrAQrEOTa__1nvXKt8j0sBWlRFhn/view?usp=sharing
+[06-19]: https://drive.google.com/file/d/1cgPr8aUThjyormZl2-dvI4igJ81u2pP-/view?usp=sharing
 
 [05-1]: https://drive.google.com/file/d/1-ITw3qU-yK4MN6ZL2FlC3EuHQ-xUnwWO/view?usp=sharing
 [05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
