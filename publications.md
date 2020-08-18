@@ -205,7 +205,7 @@ The IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworth
 14. <b>혈액관리 시스템을 위한 센서 네트워크 기술에 관한 연구</b> [(Paper)][06-14]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2006년도 정보 및 제어 심포지움(ICS '06) 논문집, pp.162~164, 서울시립대학교, 2006.4.29
-15. [<b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b>][06-15]<br>
+15. <b>Opportunistic Scheduling with Power Control in Ad Hoc Wireless Networks</b> [(Paper)][06-15]<br>
 Reizel Casaquite, In-Yeup Kong, Myung-Hyun Yoon, Won-Joo Hwang, 
 The 8th International Conference on Advanced Communication Technology(ICACT 2006), pp.719~724, Phoenix Park, Korea, Feb. 20~22, 2006
 16. <b>Design of Auto Turning System Based on Sensor Network Using Ultrasonic Sound</b> [(Paper)][06-16]<br>
@@ -460,7 +460,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [06-12]: https://drive.google.com/file/d/1lygnlFPom2nZq_bmX2ypl24zzPcSiJka/view?usp=sharing
 [06-13]: https://drive.google.com/file/d/1bZwXx4fd47yNFuL1tG8Bbr4e5KeOvkA3/view?usp=sharing
 [06-14]: https://drive.google.com/file/d/13BWRHgD9RMncFtDEZ3J5NKj9j5l8qHNu/view?usp=sharing
-[06-15]: /home/paper/ICACT06-01.pdf
+[06-15]: https://drive.google.com/file/d/1dT1kpP5-MldIWaTmalYtoyGIGIqzr2dJ/view?usp=sharing
 [06-16]: https://drive.google.com/file/d/1NOVEFwTF1r3FyOV3gtbtq90djmxDAZzA/view?usp=sharing
 [06-17]: https://drive.google.com/file/d/1weowV8O8oWh5Ps8bSAQlE45vPTvzAufK/view?usp=sharing
 [06-18]: https://drive.google.com/file/d/12ztINrAQrEOTa__1nvXKt8j0sBWlRFhn/view?usp=sharing
