@@ -280,7 +280,7 @@ The 20th Commemorative International Technical Conference on Circuits/Systems, C
 20. <b>센서 네트워크에서의 RSS (Received Signal Strength)를 이용한 향상된 멀티-홉 라우팅 프로토콜</b> [(Paper)][05-20]<br>
 이민구, 강정훈, 유준재, 윤명현, 
 2005 정보 및 제어 심포지엄(ICS 2005) 논문집, pp.206~208, 단국대, 2005.5.24
-21. <b>Low Power RF Receiver Requirements for Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-21]<br>
+21. <b>Low Power RF Receiver Requirements of Wireless Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-21]<br>
 Hae-Moon Seo, Yeon-Kuk Moon, Yong-Kuk Park, Kwang-Ho Won, Myung-Hyun Yoon, Jun-Jae Yoo, 
 제15회 통신정보 합동 학술대회(JCCI 2005), 대구인터불고호텔, 2005.4.27~29
 1. <b>RF Receiver Specification of Low-Rate Sensor Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][04-1]<br>
