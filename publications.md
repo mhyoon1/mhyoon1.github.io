@@ -217,7 +217,7 @@ The 5th Asia Pacific International Symposium on Information Technology(APIS 2006
 18. <b>A Study on the Efficient Routing Algorithm for Asset Management System</b> [(Paper)][06-18]<br>
 Mingoo Lee, Junghoon Kang, Hojung Lim, Myunghyun Yoon, Junjae Yoo, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
-19. <b>Home Automation Control with Indoor Positioning System</b> [(Paper)][06-19]<br>
+19. <b>Home Automation Control with Indoor Position System</b> [(Paper)][06-19]<br>
 Woo Chool Park, Myung Hyun Yoon, 
 The 5th Asia Pacific International Symposium on Information Technology(APIS 2006), Hangzhou China, Jan. 9~10, 2006
 1. <b>Radio Receiver Requirements for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-1]<br>
