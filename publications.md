@@ -235,13 +235,13 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Ho
 5. <b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b> [(Paper)][05-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.283~285, 수안보상록호텔, 2005.10.28~29
-6. [<b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b>][05-6]<br>
+6. <b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b> [(Paper)][05-6]<br>
 박우출, 이형수, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.286~288, 수안보상록호텔, 2005.10.28~29
-7. [<b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b>][05-7]<br>
+7. <b>자산관리 시스템을 위한 RSS 라우팅 알고리즘에 관한 연구</b> [(Paper)][05-7]<br>
 이민구, 강정훈, 임호정, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.289~291, 수안보상록호텔, 2005.10.28~29
-8. [<b>위치 정보를 이용한 가전기기 제어 시스템 구현</b>][05-8]<br>
+8. <b>위치 정보를 이용한 가전기기 제어 시스템 구현</b> [(Paper)][05-8]<br>
 박우출, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.312~314, 수안보상록호텔, 2005.10.28~29
 9. [<b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b>][05-9]<br>
@@ -474,7 +474,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-5-1] https://drive.google.com/file/d/18hD5WC_mrGw8faYQz-iEdAnkmxLHsH1H/view?usp=sharing
 [05-6]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
 [05-7]: https://drive.google.com/file/d/1q2nHyvM1EGfUJzZWpLM6kXWiuG_shJCc/view?usp=sharing
-[05-8]: /home/paper/CICS05-03.pdf
+[05-8]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
 [05-9]: /home/paper/CICS05-01.pdf
 [05-10]: /home/paper/CICS05-02.pdf
 [05-11]: /home/paper/CICS05-07.pdf
