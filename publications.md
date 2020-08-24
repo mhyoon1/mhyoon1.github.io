@@ -229,7 +229,7 @@ Hae-Moon Seo, Yeon Kuk Moon, Yong-Kuk Park, Sung-Ok Lim, Sang-Shin Lee, Byung-Gw
 3. <b>Design of a CMOS Analog Front End for WPAN Receivers</b> [(Paper)][05-3]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim, 
 제7회 전자정보통신 학술대회(CEIC 2005), 온양관광호텔, Dec. 1~2, 2005
-4. [<b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b>][05-4]<br>
+4. <b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b> [(Paper)][05-4]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Hoon Kang, Young Choong Park, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim,
 2005년도 대한전자공학회 추계종합학술대회 제28권 2호, pp.769~772, 2005.11.
 5. <b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b> [(Paper)][05-5]<br>
@@ -469,7 +469,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-1]: https://drive.google.com/file/d/1-ITw3qU-yK4MN6ZL2FlC3EuHQ-xUnwWO/view?usp=sharing
 [05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
 [05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
-[05-4]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
+[05-4]: https://drive.google.com/file/d/1RCC65vGDPvuprBqALWv4wBSEGVNNnPrw/view?usp=sharing
 [05-5]: https://drive.google.com/file/d/18hD5WC_mrGw8faYQz-iEdAnkmxLHsH1H/view?usp=sharing
 [05-6]: https://drive.google.com/file/d/1wkuYyKA-n0Rf9MWQp3JCLHg5IgjoyzIo/view?usp=sharing
 [05-7]: https://drive.google.com/file/d/1q2nHyvM1EGfUJzZWpLM6kXWiuG_shJCc/view?usp=sharing
