@@ -232,7 +232,7 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park , Kwang-Ho Won, Seung Ok Lim, Myung-H
 4. [<b>A CMOS Analog Front End for a WPAN Zero-IF Receiver</b>][05-4]<br>
 Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Hoon Kang, Young Choong Park, Myung-Hyun Yoon, June-Jae Yoo, Seong-Dong Kim,
 2005년도 대한전자공학회 추계종합학술대회 제28권 2호, pp.769~772, 2005.11.
-5. [<b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b>][05-5]<br>
+5. <b>RSS 정보를 이용한 효율적인 Localization 방법에 관한 연구</b> [(Paper)][05-5]<br>
 이민구, 강정훈, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.283~285, 수안보상록호텔, 2005.10.28~29
 6. [<b>위치인지 서비스를 위한 Indoor Positioning System 기술 개발</b>][05-6]<br>
@@ -471,8 +471,9 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
 [05-4]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
 [05-5]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
-[05-6]: /home/paper/CICS05-04.pdf
-[05-7]: /home/paper/CICS05-06.pdf
+[05-5-1] https://drive.google.com/file/d/18hD5WC_mrGw8faYQz-iEdAnkmxLHsH1H/view?usp=sharing
+[05-6]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
+[05-7]: https://drive.google.com/file/d/1q2nHyvM1EGfUJzZWpLM6kXWiuG_shJCc/view?usp=sharing
 [05-8]: /home/paper/CICS05-03.pdf
 [05-9]: /home/paper/CICS05-01.pdf
 [05-10]: /home/paper/CICS05-02.pdf
