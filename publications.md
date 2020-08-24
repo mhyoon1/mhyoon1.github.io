@@ -312,7 +312,7 @@ ANS International Topical Meeting on Nuclear Plant Instrumentation, Control and 
 5. <b>A Fault-Tolerant Computing Architecture in a Distributed Control System</b> [(Paper)][00-5]<br>
 Hong-ju Moon, Myung-Hyun Yoon and Yong-Kwan Lee, 
 Proceedings of the International Workshop on Fault-Tolerant Control and Computing(FTCC), pp.32∼36, Seoul, Korea, May 20~23, 2000
-1. <b>Physical-Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b> [(Paper)][99-1]<br>
+1. <b>Physical Layer Redundancy Method for Fault-Tolerant Networks and Its Application to an Autonomous Mobile Robot</b> [(Paper)][99-1]<br>
 Jae Min Lee, Dong Sung Kim, Wook Hyun Kwon, Hong-ju Moon and Myung-Hyun Yoon, 
 Proceedings of the 1999 International Conference on Mechatronic Technology & the 1999 International Symposium on Innovations in Mechatronics(ICMT '99), pp.474~479, Pusan Korea, Oct. 21~23, 1999
 2. <b>원자력발전소 분산제어시스템의 통신 프로토콜 설계</b> [(Paper)][99-2]<br>
