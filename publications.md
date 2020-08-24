@@ -244,7 +244,7 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Ho
 8. <b>위치 정보를 이용한 가전기기 제어 시스템 구현</b> [(Paper)][05-8]<br>
 박우출, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.312~314, 수안보상록호텔, 2005.10.28~29
-9. [<b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b>][05-9]<br>
+9. <b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b> [(Paper)][05-9]<br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.606~608, 수안보상록호텔, 2005.10.28~29
 10. [<b>메쉬 센서 네트워크 기술 동향 분석</b>][05-10]<br>
@@ -471,10 +471,10 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
 [05-4]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
 [05-5]: https://drive.google.com/file/d/18hD5WC_mrGw8faYQz-iEdAnkmxLHsH1H/view?usp=sharing
-[05-6]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
+[05-6]: https://drive.google.com/file/d/1wkuYyKA-n0Rf9MWQp3JCLHg5IgjoyzIo/view?usp=sharing
 [05-7]: https://drive.google.com/file/d/1q2nHyvM1EGfUJzZWpLM6kXWiuG_shJCc/view?usp=sharing
 [05-8]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
-[05-9]: /home/paper/CICS05-01.pdf
+[05-9]: https://drive.google.com/file/d/1iQIWCNLDpn3shkWaCiyR_tbv4gsdBmPd/view?usp=sharing
 [05-10]: /home/paper/CICS05-02.pdf
 [05-11]: /home/paper/CICS05-07.pdf
 [05-12]: https://drive.google.com/file/d/1baaNYlk_2phq-GTZNnD4SK_Z6taOmjYl/view?usp=sharing
