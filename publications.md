@@ -247,10 +247,10 @@ Yeon Kug Moon, Hae-Moon Seo, Yong-Kuk Park, Kwang-Ho Won, Seung Ok Lim, Jeong Ho
 9. <b>지능형 홈에서 위치인지를 위한 localization server system 기술 개발</b> [(Paper)][05-9]<br>
 임호정, 강정훈, 이민구, 유준재, 윤명현, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.606~608, 수안보상록호텔, 2005.10.28~29
-10. [<b>메쉬 센서 네트워크 기술 동향 분석</b>][05-10]<br>
+10. <b>메쉬 센서 네트워크 기술 동향 분석</b> [(Paper)][05-10]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.612~615, 수안보상록호텔, 2005.10.28~29
-11. [<b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b>][05-11]<br>
+11. <b>신뢰성 있는 애드-혹 네트워크 전송 프로토콜</b> [(Paper)][05-11]<br>
 강정훈, 이민구, 임호정, 윤명현, 유준재, 
 2005 정보 및 제어 학술대회(CICS’05) 논문집, pp.616~618, 2005.10.28
 12. <b>RF Receiver Specifications of Ubiquitous Network for Coexistence with Various Wireless Devices in 2.4GHz ISM-band</b> [(Paper)][05-12]<br>
@@ -475,8 +475,8 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-7]: https://drive.google.com/file/d/1q2nHyvM1EGfUJzZWpLM6kXWiuG_shJCc/view?usp=sharing
 [05-8]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
 [05-9]: https://drive.google.com/file/d/1iQIWCNLDpn3shkWaCiyR_tbv4gsdBmPd/view?usp=sharing
-[05-10]: /home/paper/CICS05-02.pdf
-[05-11]: /home/paper/CICS05-07.pdf
+[05-10]: https://drive.google.com/file/d/1aKq_9OLGjyevMUYILY_RvCmD0D8C5yPt/view?usp=sharing
+[05-11]: https://drive.google.com/file/d/1Y8VUqgD-dCkXB0ed98aUTVcBdVf1fO48/view?usp=sharing
 [05-12]: https://drive.google.com/file/d/1baaNYlk_2phq-GTZNnD4SK_Z6taOmjYl/view?usp=sharing
 [05-13]: https://drive.google.com/file/d/1lJAiADm35RbTJTFVxoU8QCBxhew5KqGf/view?usp=sharing
 [05-14]: https://drive.google.com/file/d/1pGHGORqJfjHT0hYP4hD9kcCSqlozPhuR/view?usp=sharing
