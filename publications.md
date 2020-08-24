@@ -470,8 +470,7 @@ Myung-Hyun Yoon, Department of Nuclear Engineering, Korea Advanced Institute of 
 [05-2]: https://drive.google.com/file/d/1O2fw5IlQDBE2COQShhWE3rksLVlLCh9u/view?usp=sharing
 [05-3]: https://drive.google.com/file/d/1JwG99qyfpmQXDdC0EF_1-mZSfhwp0hKC/view?usp=sharing
 [05-4]: https://drive.google.com/file/d/1VhbLMC8EUtpeVYP-BMckZPSGqUE3f41I/view?usp=sharing
-[05-5]: https://drive.google.com/file/d/13BMKBVRCUPXrODQ3lVAjgdNWyjItdQGG/view?usp=sharing
-[05-5-1] https://drive.google.com/file/d/18hD5WC_mrGw8faYQz-iEdAnkmxLHsH1H/view?usp=sharing
+[05-5]: https://drive.google.com/file/d/18hD5WC_mrGw8faYQz-iEdAnkmxLHsH1H/view?usp=sharing
 [05-6]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
 [05-7]: https://drive.google.com/file/d/1q2nHyvM1EGfUJzZWpLM6kXWiuG_shJCc/view?usp=sharing
 [05-8]: https://drive.google.com/file/d/13mCeozst-8vuxikJpNq3EwUcab_19Ve4/view?usp=sharing
