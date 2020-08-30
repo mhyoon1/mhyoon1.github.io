@@ -13,7 +13,7 @@ permalink: /patents/
 1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal)</b> [(Patent)][p1]<br>
 서해문, 이연성, 박우출, 이명수, 윤명현, 
 등록번호 10-0994155 (2010.11.8)
-2. <b>센서 네트워크 및 그의 구성 방법</b><br>
+2. <b>센서 네트워크 및 그의 구성 방법 (SEnsor Network System and Method for Composition Thereof)</b> [(Patent)][p2]<br>
 이민구, 강정훈,임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-0962412 (2010.6.2)
 3. <b>센서 네트워크 및 그의 구성 방법</b><br>
@@ -117,3 +117,4 @@ Keehoon Kim. Myung-Hyun Yoon
 Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.), 日本
 
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
+[p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
