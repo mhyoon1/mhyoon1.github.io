@@ -10,7 +10,7 @@ permalink: /patents/
 | [Talks](/talks/) |
 
 ## 국내특허
-1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal</b> [(Patent)][p1]<br>
+1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal)</b> [(Patent)][p1]<br>
 서해문, 이연성, 박우출, 이명수, 윤명현, 
 등록번호 10-0994155 (2010.11.8)
 2. <b>센서 네트워크 및 그의 구성 방법</b><br>
