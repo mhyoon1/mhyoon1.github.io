@@ -10,7 +10,7 @@ permalink: /patents/
 | [Talks](/talks/) |
 
 ## 국내특허
-1. <b>대역외 간섭신호 제거 장치 및 방법</b><br>
+1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal</b> [(Patent)][p1]<br>
 서해문, 이연성, 박우출, 이명수, 윤명현, 
 등록번호 10-0994155 (2010.11.8)
 2. <b>센서 네트워크 및 그의 구성 방법</b><br>
@@ -115,3 +115,5 @@ Application No. FR19980013240 (1998.10.22.), Publication No. 02770329 FR (1999.4
 5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b>, 
 Keehoon Kim. Myung-Hyun Yoon
 Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.), 日本
+
+[p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
