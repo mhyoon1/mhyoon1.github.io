@@ -356,7 +356,7 @@ Keehoon Kim, Myung-Hyun Yoon,
 6th International Conference on Nuclear Engineering(ICONE-6), San Diego, California, May 10~15, 1998
 1. <b>A New Method of Rod Drop Time Measurement Using Movable Coil Signals</b> [(Slide)][97-1]<br>
 Keehoon Kim, Myung-Hyun Yoon, 
-EPRI Technical Conference, Nov. 1997
+EPRI International Conference on Instruments and Control in Nuclear Power Plants, Nov. 1997
 2. <b>공정용 PID 제어기의 자동동조 시스템 설계</b> [(Paper)][97-2]<br>
 신창훈, 윤명현, 박익수, 
 '97한국자동제어학술회의 논문집(Proceedings of the 12th KACC), pp.915~918, 1997.10.
