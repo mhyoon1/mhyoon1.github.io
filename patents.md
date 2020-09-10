@@ -77,13 +77,13 @@ permalink: /patents/
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0570712 (2006.4.6)
 26. <b>홈 네트웍 내의 적응형 우선순위 제어를 통한 트래픽 제어기법 (A traffic control technology in home network through adaptive priority control)</b>, 
 임승옥, 정광모, 윤명현, 등록번호 10-0446794 (2004.8.24)
-27. <b>타이머 제어형 토큰버스 프로토콜을 사용하는 분산제어 시스템의 제어 통신망에 있어서 실시간 주기 및 비주기 데이터의 전송방법 (Transfer Method of Real-time Periodic and Aperiodic Data in Control Network of Distributed Control Systems Using Timer-Controlled Token Bus Protocol)</b>, 
+27. <b>타이머 제어형 토큰버스 프로토콜을 사용하는 분산제어 시스템의 제어 통신망에 있어서 실시간 주기 및 비주기 데이터의 전송방법 (Transfer Method of Real-time Periodic and Aperiodic Data in Control Network of Distributed Control Systems Using Timer-Controlled Token Bus Protocol)</b> [(pdf)][p27],<br> 
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이병윤, 이성우, 신창훈, 윤명현, 등록번호 10-0366224 (2002.12.12) 
-28. <b>IEEE 802.4 표준의 매체 접근 제어 방식과 IEEE 802.3 표준의 물리계층 규격을 결합해 주는 물리 계층 변환기 (Device for Physical Layer Transistion between IEEE802.3 MAC Sublayer and IEEE802.4 Physical Layer)</b>, 
+28. <b>IEEE 802.4 표준의 매체 접근 제어 방식과 IEEE 802.3 표준의 물리계층 규격을 결합해 주는 물리 계층 변환기 (Device for Physical Layer Transistion between IEEE802.3 MAC Sublayer and IEEE802.4 Physical Layer)</b> [(pdf)][p28], <br> 
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0366223 (2002.12.12)
-29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)[p29],<br>
+29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)][p29],<br>
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김동성, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0332693 (2002.4.2) 
-30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)[p30],<br>  
+30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)][p30],<br>  
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
@@ -104,6 +104,8 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p27]: https://drive.google.com/file/d/1oCFz_JBk-XE9bAtiJUMdgg2EuABZ8qa5/view?usp=sharing
+[p28]: https://drive.google.com/file/d/1GLfraKGY3L339khX7xOVH1z4lBGUF7t4/view?usp=sharing
 [p29]: https://drive.google.com/file/d/1hgKOcC_33RwP6gRmgBOeVVvgE64NedTM/view?usp=sharing
 [p30]: https://drive.google.com/file/d/1NWaR_Jf6zzGOCLx7oL5WomED13R6JnhB/view?usp=sharing
 
