@@ -83,7 +83,7 @@ permalink: /patents/
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0366223 (2002.12.12)
 29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)][p29],<br>
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김동성, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0332693 (2002.4.2) 
-30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device) [(pdf)][p30],<br>  
+30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)][p30],<br>  
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
