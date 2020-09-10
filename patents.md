@@ -19,22 +19,22 @@ permalink: /patents/
 3. <b>센서 네트워크 및 그의 구성 방법</b><br>
 이민구, 강정훈, 임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-BVG8 (2010.6.2)
-4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b>,<br> 
+4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b> [(pdf)[p4],<br> 
 서해문, 박우출, 이명수, 윤명현, 
 등록번호 10-0960022 (2010.5.19)
-5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b>, 
+5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b> [(pdf)[p4],<br> 
 박우출, 이명수, 윤명현, 서해문, 
 등록번호 10-0916242 (2009.9.1)
-6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b>, 
+6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4],<br> 
 이민구, 강정훈, 윤명현, 임호정
 등록번호 10-0911181 (2009.7.31)
-7. <b>위급상황 발생 지점의 예측 거리 표시가 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b>, 
+7. <b>위급상황 발생 지점의 예측 거리 표시가 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4],<br>  
 이민구, 강정훈, 이명수, 윤명현, 임호정
 등록번호 10-0903680 (2009.6.11)
-8. <b>지능적 도달거리 범위 결정이 가능한 센서 네트워크를 이용한 교통 위급상황 전파장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b>, 
+8. <b>지능적 도달거리 범위 결정이 가능한 센서 네트워크를 이용한 교통 위급상황 전파장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4],<br>  
 이민구, 강정훈, 이명수, 윤명현, 임호정
 등록번호 10-0895711 (2009.4.23)
-9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b>, 
+9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)[p4],<br> 
 이민구, 강정훈, 이명수, 윤명현, 임호정
 등록번호 10-0895710 (2009.4.23)
 10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b>, 
@@ -81,9 +81,9 @@ permalink: /patents/
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이병윤, 이성우, 신창훈, 윤명현, 등록번호 10-0366224 (2002.12.12) 
 28. <b>IEEE 802.4 표준의 매체 접근 제어 방식과 IEEE 802.3 표준의 물리계층 규격을 결합해 주는 물리 계층 변환기 (Device for Physical Layer Transistion between IEEE802.3 MAC Sublayer and IEEE802.4 Physical Layer)</b>, 
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0366223 (2002.12.12)
-29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b>, 
+29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)[p29],<br>
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김동성, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0332693 (2002.4.2) 
-30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b>, 
+30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)[p30],<br>  
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
@@ -92,9 +92,9 @@ Hae Moon Seo, Kwang Ho Won, Young kuk Park, Myung Hyun Yoon, Jun Jae Yoo, Applic
 2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b> [(pdf)][fp2],<br> 
 Hae-Moon Seo, Kwang-Ho Won, Yong Kuk Park, Myung-Hyun Yoon, June-Jae Yoo
 Application No. 10/899,148 (2004.7.27), Publication No. US 2005/0255806 A1 (2005.11.17.), 미국
-3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b> [(pdf)][fp3],<br> 
+3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b>,<br> 
 Kihoon Kim, Myung-Hyun Yoon, USPTO No. , 2000.4. 미국
-4. <b>Nuclear Reactor Rod Drop Time Measuring Procedure</b>, 
+4. <b>Nuclear Reactor Rod Drop Time Measuring Procedure</b> [(pdf)][fp4],<br> 
 Keehoon Kim, MyungHyun Yoon, 
 Application No. FR19980013240 (1998.10.22.), Publication No. 02770329 FR (1999.4.30.), 프랑스
 5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b> [(pdf)][fp5],<br> 
@@ -104,7 +104,10 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p29]: https://drive.google.com/file/d/1hgKOcC_33RwP6gRmgBOeVVvgE64NedTM/view?usp=sharing
+[p30]: https://drive.google.com/file/d/1NWaR_Jf6zzGOCLx7oL5WomED13R6JnhB/view?usp=sharing
+
 [fp1]: https://drive.google.com/file/d/1OrG75o2UJQnxpMt25ORAJie-y1chfjv-/view?usp=sharing
 [fp2]: https://drive.google.com/file/d/1Jih53P1MQGh-Jo86FVXSvBBwEmBs4Ohr/view?usp=sharing
-
+[fp4]: https://drive.google.com/file/d/1jgr0Ju1q1siP4BMrVNX4OidKRo1ST7Vp/view?usp=sharing
 [fp5]: https://drive.google.com/file/d/1pfNMa170tzIBsXjqAYyNcO7BSRs_xWqS/view?usp=sharing
