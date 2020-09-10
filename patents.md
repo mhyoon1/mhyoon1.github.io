@@ -98,9 +98,11 @@ USPTO No. , 2000.4. 미국
 4. <b>Nuclear Reactor Rod Drop Time Measuring Procedure</b>, 
 Keehoon Kim, MyungHyun Yoon
 Application No. FR19980013240 (1998.10.22.), Publication No. 02770329 FR (1999.4.30.), 프랑스
-5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b>, 
+5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b> [(pdf)][fp5], 
 Keehoon Kim. Myung-Hyun Yoon
 Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.), 日本
 
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
+
+[fp5]: https://drive.google.com/file/d/1pfNMa170tzIBsXjqAYyNcO7BSRs_xWqS/view?usp=sharing
