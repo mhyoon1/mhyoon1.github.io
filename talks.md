@@ -9,16 +9,16 @@ permalink: /talks/
 | [Patents](/patents/) 
 | [Talks](/talks/) |
 
-## 발표
+## 2020년
 1. <b>Deep Learning(1): Artificial Intelligence</b> [(Slide)][20-1]<br> NIDS, KICTech 세미나, 2020.7.
 2. <b>Deep Learning(2): Linear Regression/Logistic Regression</b> [(Slide)][20-2]<br> NIDS, KICTech 세미나, 2020.7.
 3. <b>Deep Learning(3): Neural Network</b> [(Slide)][20-3]<br> NIDS, KICTech 세미나, 2020.7. 
 4. <b>Deep Learning(4): Convolutional Neural Network</b> [(Slide)][20-4]<br> NIDS, KICTech 세미나, 2020.7.
 5. <b>Deep Learning(5): Recurrent Neural Network</b> [(Slide)][20-5]<br> NIDS, KICTech 세미나, 2020.7.
+## 2019년
 1. <b>4차 산업혁명과 인공지능 기술</b> [(Slide)][19-1]<br> 마산대 세미나, 2019.10.25.
 2. <b>4차 산업혁명과 경남의 제조혁신</b><br> 한국소성가공학회 단조심포지엄 초청강연, 재료연구소, 2019.6.13.
 3. <b>경남 스마트공장 공급기업 육성방안</b><br> 경남스마트공장공급기업포럼 강연, 2019.5.22.
-
 ## 2006년
 1. <b>USN 기술동향 및 응용서비스 사례</b>, 경기도과학기술진흥협의회 전자정보기술(EIT)분과위원회 세미나, 경기중소기업종합지원센터, 2006.6.8
 2. <b>지능형홈을 위한 USN 기술</b>, 유비쿼터스 홈 네트워크 기술 세미나, 대한전자공학회 컴퓨터소사이어티, KINTEX, 2006.6.1.
@@ -26,7 +26,6 @@ permalink: /talks/
 4. <b>Ubiquitous Sensor Networks for Smart Home Applications</b>, 2006년도 한국멀티미디어학회 춘계학술발표대회 튜토리얼 발표,부산 동서대학교, 2006. 5. 20.
 5. <b>센서 네트워크 응용 서비스 구현 사례와 기술 동향</b>, USN 기술동향 및 적용사례 세미나 (USN 발전협의회 발족 기념), 한국RFID/USN협회, 한국과학기술회관 대강당, 2006. 4. 27
 6. <b>센서 네트워크 기술동향과 응용 서비스 구현사례</b>, 2006년도 성장동력특성화대학사업단 워크샵, 한국폴리텍VII부산대학 성장동력특성화대학사업단, 해운대 아르피나 유스호스텔, 2006. 4. 21
-
 ## 2004년
 1. <b>지능형 홈을 위한 센서 네트워크 기술</b>, 지능형홈 사업설명회 및 심포지움, 창원대, 2004. 4. 23.
 
