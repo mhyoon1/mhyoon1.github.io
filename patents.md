@@ -67,13 +67,13 @@ permalink: /patents/
 박우출, 이명수, 윤명현, 유준재, 등록번호 10-0731986 (2007.6.19.) 
 21. <b>주파수 체배를 위한 커패시터 공통단자를 이용한 발진기 코어 (Oscillator Core with Capacitive Common Node for Frequency Multiplication)</b>, 
 원광호, 서해문, 박용국, 문연국, 윤명현, 신현철, 김용식, 등록번호 10-0731975 (2007.6.19.)
-22. <b>전류 혼합 방식을 이용한 I/Q 변조기 및 이를 이용한 직접 변환방식 송신기 (I/Q Modulator Using Current-Mixing and Direct Conversion Wireless Communication Transmitter Using the Same)</b>,
+22. <b>전류 혼합 방식을 이용한 I/Q 변조기 및 이를 이용한 직접 변환방식 송신기 (I/Q Modulator Using Current-Mixing and Direct Conversion Wireless Communication Transmitter Using the Same)</b> [(pdf)][p22],<br>
 서해문, 문연국, 박용국, 원광호, 윤명현, 김성동, 등록번호 10-0717964 (2007.5.8)
-23. <b>센서 네트워크를 이용한 사용상황 표시 시스템 (System of Displaying In-use Status Using Sensor Network)</b>,
+23. <b>센서 네트워크를 이용한 사용상황 표시 시스템 (System of Displaying In-use Status Using Sensor Network)</b> [(pdf)][p23],<br>
 이민구, 강정훈, 윤명현, 유준재, 구관모, 등록번호 10-0644280 (2006.11.2)
-24. <b>IEEE 802.15.4 무선통신을 지원하는 다중대역 지그비 송수신기 (Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication)</b>, 
+24. <b>IEEE 802.15.4 무선통신을 지원하는 다중대역 지그비 송수신기 (Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication)</b> [(pdf)][p24],<br> 
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0635535 (2006.10.11)
-25. <b>높은 반송파 억압비를 가지는 2의 Ｎ제곱차 저조파 주파수변조기 및 이를 이용한 직접 변환 송신기 (An N-th Power of 2 Sub-harmonic Frequency Modulator Having a High Carrier Suppression Ratio and a Direct-conversion Transmitter Using Thereof)</b>, 
+25. <b>높은 반송파 억압비를 가지는 2의 Ｎ제곱차 저조파 주파수변조기 및 이를 이용한 직접 변환 송신기 (An N-th Power of 2 Sub-harmonic Frequency Modulator Having a High Carrier Suppression Ratio and a Direct-conversion Transmitter Using Thereof)</b> [(pdf)][p25],<br> 
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0570712 (2006.4.6)
 26. <b>홈 네트웍 내의 적응형 우선순위 제어를 통한 트래픽 제어기법 (A traffic control technology in home network through adaptive priority control)</b> [(pdf)][p26],<br> 
 임승옥, 정광모, 윤명현, 등록번호 10-0446794 (2004.8.24)
@@ -104,6 +104,10 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p22]: https://drive.google.com/file/d/1nndkEH2Gnb6tP_JJsoNrfe5l_1M_fA6Z/view?usp=sharing
+[p23]: https://drive.google.com/file/d/1BOlzlakKRnwT3uNRi-8yZ7r4_6-SPECS/view?usp=sharing
+[p24]: https://drive.google.com/file/d/100tNAKrh0k_wd53XUf8cHsz6xWf0OCDY/view?usp=sharing
+[p25]: https://drive.google.com/file/d/1bvMWOGOZynKJTrzfEBz2J-X9mfesfRDB/view?usp=sharing
 [p26]: https://drive.google.com/file/d/13-sObREfq2MDMNyDzVxGY1csJ3P1eeCM/view?usp=sharing
 [p27]: https://drive.google.com/file/d/1oCFz_JBk-XE9bAtiJUMdgg2EuABZ8qa5/view?usp=sharing
 [p28]: https://drive.google.com/file/d/1GLfraKGY3L339khX7xOVH1z4lBGUF7t4/view?usp=sharing
