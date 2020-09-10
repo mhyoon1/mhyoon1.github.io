@@ -30,9 +30,17 @@ permalink: /talks/
 ## 2004년
 1. <b>지능형 홈을 위한 센서 네트워크 기술</b>, 지능형홈 사업설명회 및 심포지움, 창원대, 2004. 4. 23.
 
+## 2002년
+1. <b>Post PC 산업 현황 및 산업활성화 전략</b> [(Slide)][02-1],
+2002.9.14.
+2. <b>Post PC industry in Korea</b> [(Slide)][02-2], 2002.6.
+
 [20-1]: https://drive.google.com/file/d/15b-BbBUOqxbwjv_h_Zfnz1IhLaSxztqY/view?usp=sharing
 [20-2]: https://drive.google.com/file/d/1U0__77R7n03XPonLb2Hb0vgaVBnxHnm-/view?usp=sharing
 [20-3]: https://drive.google.com/file/d/1WouRDF8jTP5lzT-Pw2jK6pHLY6yjtmCz/view?usp=sharing
 [20-4]: https://drive.google.com/file/d/1ZjdOHDZrgnlvG2KTZioThqjsZXxWAW3M/view?usp=sharing
 [20-5]: https://drive.google.com/file/d/15TpxDV1CkGfsHilCR1B7b16gfPV159T0/view?usp=sharing
 [19-1]: https://drive.google.com/file/d/1esrf6mtwqVRaDlEgZSGySTgY7cclT431/view?usp=sharing
+
+[02-1]: https://drive.google.com/file/d/1Y19FeaRaxfAoPmgND_lEcvgENmQiPZbA/view?usp=sharing
+[02-2]: https://drive.google.com/file/d/17SU1yqocXuRQXbtok9IlgV35J6Jlqzi2/view?usp=sharing
