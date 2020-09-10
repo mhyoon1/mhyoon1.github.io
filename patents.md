@@ -10,16 +10,16 @@ permalink: /patents/
 | [Talks](/talks/) |
 
 ## 국내특허
-1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal)</b> [(pdf)][p1], 
+1. <b>대역외 간섭신호 제거 장치 및 방법 (Apparatus and Method for Elimination of Outband Interference Signal)</b> [(pdf)][p1],<br> 
 서해문, 이연성, 박우출, 이명수, 윤명현, 
 등록번호 10-0994155 (2010.11.8)
-2. <b>센서 네트워크 및 그의 구성 방법 (SEnsor Network System and Method for Composition Thereof)</b> [(pdf)][p2], 
+2. <b>센서 네트워크 및 그의 구성 방법 (SEnsor Network System and Method for Composition Thereof)</b> [(pdf)][p2],<br> 
 이민구, 강정훈,임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-0962412 (2010.6.2)
 3. <b>센서 네트워크 및 그의 구성 방법</b><br>
 이민구, 강정훈, 임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-BVG8 (2010.6.2)
-4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b>, 
+4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b>,<br> 
 서해문, 박우출, 이명수, 윤명현, 
 등록번호 10-0960022 (2010.5.19)
 5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b>, 
@@ -87,19 +87,18 @@ permalink: /patents/
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
-1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b> [(pdf)][fp1], 
+1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b> [(pdf)][fp1],<br> 
 Hae Moon Seo, Kwang Ho Won, Young kuk Park, Myung Hyun Yoon, Jun Jae Yoo, Application No. 10/981,789 (2004.11.5.), Publication No. US 2006/0019700 A1 (2006.1.26.), 미국
-2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b> [(pdf)][fp2], 
+2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b> [(pdf)][fp2],<br> 
 Hae-Moon Seo, Kwang-Ho Won, Yong Kuk Park, Myung-Hyun Yoon, June-Jae Yoo
 Application No. 10/899,148 (2004.7.27), Publication No. US 2005/0255806 A1 (2005.11.17.), 미국
-3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b>, 
-Kihoon Kim, Myung-Hyun Yoon
-USPTO No. , 2000.4. 미국
+3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b> [(pdf)][fp3],<br> 
+Kihoon Kim, Myung-Hyun Yoon, USPTO No. , 2000.4. 미국
 4. <b>Nuclear Reactor Rod Drop Time Measuring Procedure</b>, 
-Keehoon Kim, MyungHyun Yoon
+Keehoon Kim, MyungHyun Yoon, 
 Application No. FR19980013240 (1998.10.22.), Publication No. 02770329 FR (1999.4.30.), 프랑스
-5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b> [(pdf)][fp5], 
-Keehoon Kim. Myung-Hyun Yoon
+5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b> [(pdf)][fp5],<br> 
+Keehoon Kim. Myung-Hyun Yoon, 
 Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.), 日本
 
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
