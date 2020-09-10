@@ -87,9 +87,9 @@ permalink: /patents/
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
-1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b>, 
+1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b> [(pdf)][fp1], 
 Hae Moon Seo, Kwang Ho Won, Young kuk Park, Myung Hyun Yoon, Jun Jae Yoo, Application No. 10/981,789 (2004.11.5.), Publication No. US 2006/0019700 A1 (2006.1.26.), 미국
-2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b>, 
+2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b> [(pdf)][fp2], 
 Hae-Moon Seo, Kwang-Ho Won, Yong Kuk Park, Myung-Hyun Yoon, June-Jae Yoo
 Application No. 10/899,148 (2004.7.27), Publication No. US 2005/0255806 A1 (2005.11.17.), 미국
 3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b>, 
@@ -104,5 +104,8 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
+
+[fp1]: https://drive.google.com/file/d/1OrG75o2UJQnxpMt25ORAJie-y1chfjv-/view?usp=sharing
+[fp2]: https://drive.google.com/file/d/1Jih53P1MQGh-Jo86FVXSvBBwEmBs4Ohr/view?usp=sharing
 
 [fp5]: https://drive.google.com/file/d/1pfNMa170tzIBsXjqAYyNcO7BSRs_xWqS/view?usp=sharing
