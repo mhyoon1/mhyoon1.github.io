@@ -30,9 +30,14 @@ permalink: /talks/
 ## 2004년
 1. <b>지능형 홈을 위한 센서 네트워크 기술</b>, 지능형홈 사업설명회 및 심포지움, 창원대, 2004. 4. 23.
 
+## 2003년
+1. <b>지능형 홈 산업 기술개발 동향 및 전망</b>, 2003.11.11.
+2. <b>무선PAN 기술 및 표준화 동향</b>, 창원대 세미나, 2003.11.10.
+3. <b>IEEE 802.15.4 LR-WPAN 표준화 동향</b>, 2003.9.17.
+4. <b>Post PC 산업 현황 및 전망</b>, 2003.8.29.
+
 ## 2002년
-1. <b>Post PC 산업 현황 및 산업활성화 전략</b> [(Slide)][02-1],
-2002.9.14.
+1. <b>Post PC 산업 현황 및 산업활성화 전략</b> [(Slide)][02-1], 2002.9.14.
 2. <b>Post PC industry in Korea</b> [(Slide)][02-2], 2002.6.
 
 [20-1]: https://drive.google.com/file/d/15b-BbBUOqxbwjv_h_Zfnz1IhLaSxztqY/view?usp=sharing
