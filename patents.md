@@ -65,7 +65,7 @@ permalink: /patents/
 박우출, 이상학, 윤명현, 강정훈, 등록번호 10-0776979 (2007.11.9.)
 20. <b>무선통신 방식을 사용한 다중 사용자 게임 단말기용 통신방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method for communication between multi-game terminals using wireless communication network and computer-readable medium having thereon program performing function embodying the same)</b>,
 박우출, 이명수, 윤명현, 유준재, 등록번호 10-0731986 (2007.6.19.) 
-21. <b>주파수 체배를 위한 커패시터 공통단자를 이용한 발진기 코어 (Oscillator Core with Capacitive Common Node for Frequency Multiplication)</b>, 
+21. <b>주파수 체배를 위한 커패시터 공통단자를 이용한 발진기 코어 (Oscillator Core with Capacitive Common Node for Frequency Multiplication)</b> [(pdf)][p21],<br>
 원광호, 서해문, 박용국, 문연국, 윤명현, 신현철, 김용식, 등록번호 10-0731975 (2007.6.19.)
 22. <b>전류 혼합 방식을 이용한 I/Q 변조기 및 이를 이용한 직접 변환방식 송신기 (I/Q Modulator Using Current-Mixing and Direct Conversion Wireless Communication Transmitter Using the Same)</b> [(pdf)][p22],<br>
 서해문, 문연국, 박용국, 원광호, 윤명현, 김성동, 등록번호 10-0717964 (2007.5.8)
@@ -104,6 +104,7 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p21]: https://drive.google.com/file/d/1lzO5B9dVWF6czOiVu851C2ikd97V3F8B/view?usp=sharing
 [p22]: https://drive.google.com/file/d/1nndkEH2Gnb6tP_JJsoNrfe5l_1M_fA6Z/view?usp=sharing
 [p23]: https://drive.google.com/file/d/1BOlzlakKRnwT3uNRi-8yZ7r4_6-SPECS/view?usp=sharing
 [p24]: https://drive.google.com/file/d/100tNAKrh0k_wd53XUf8cHsz6xWf0OCDY/view?usp=sharing
