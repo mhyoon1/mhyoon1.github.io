@@ -75,7 +75,7 @@ permalink: /patents/
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0635535 (2006.10.11)
 25. <b>높은 반송파 억압비를 가지는 2의 Ｎ제곱차 저조파 주파수변조기 및 이를 이용한 직접 변환 송신기 (An N-th Power of 2 Sub-harmonic Frequency Modulator Having a High Carrier Suppression Ratio and a Direct-conversion Transmitter Using Thereof)</b>, 
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0570712 (2006.4.6)
-26. <b>홈 네트웍 내의 적응형 우선순위 제어를 통한 트래픽 제어기법 (A traffic control technology in home network through adaptive priority control)</b>, 
+26. <b>홈 네트웍 내의 적응형 우선순위 제어를 통한 트래픽 제어기법 (A traffic control technology in home network through adaptive priority control)</b> [(pdf)][p26],<br> 
 임승옥, 정광모, 윤명현, 등록번호 10-0446794 (2004.8.24)
 27. <b>타이머 제어형 토큰버스 프로토콜을 사용하는 분산제어 시스템의 제어 통신망에 있어서 실시간 주기 및 비주기 데이터의 전송방법 (Transfer Method of Real-time Periodic and Aperiodic Data in Control Network of Distributed Control Systems Using Timer-Controlled Token Bus Protocol)</b> [(pdf)][p27],<br> 
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이병윤, 이성우, 신창훈, 윤명현, 등록번호 10-0366224 (2002.12.12) 
@@ -104,6 +104,7 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p26]: https://drive.google.com/file/d/13-sObREfq2MDMNyDzVxGY1csJ3P1eeCM/view?usp=sharing
 [p27]: https://drive.google.com/file/d/1oCFz_JBk-XE9bAtiJUMdgg2EuABZ8qa5/view?usp=sharing
 [p28]: https://drive.google.com/file/d/1GLfraKGY3L339khX7xOVH1z4lBGUF7t4/view?usp=sharing
 [p29]: https://drive.google.com/file/d/1hgKOcC_33RwP6gRmgBOeVVvgE64NedTM/view?usp=sharing
