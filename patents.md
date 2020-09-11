@@ -19,23 +19,23 @@ permalink: /patents/
 3. <b>센서 네트워크 및 그의 구성 방법</b><br>
 이민구, 강정훈, 임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-BVG8 (2010.6.2)
-4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b> [(pdf)[p4],<br> 
+4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b> [(pdf)[p4]<br> 
 서해문, 박우출, 이명수, 윤명현, 
 등록번호 10-0960022 (2010.5.19)
-5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b> [(pdf)[p4],<br> 
+5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b> [(pdf)[p4]<br> 
 박우출, 이명수, 윤명현, 서해문, 
 등록번호 10-0916242 (2009.9.1)
-6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4],<br> 
-이민구, 강정훈, 윤명현, 임호정
+6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+이민구, 강정훈, 윤명현, 임호정,
 등록번호 10-0911181 (2009.7.31)
-7. <b>위급상황 발생 지점의 예측 거리 표시가 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4],<br>  
-이민구, 강정훈, 이명수, 윤명현, 임호정
+7. <b>위급상황 발생 지점의 예측 거리 표시가 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0903680 (2009.6.11)
-8. <b>지능적 도달거리 범위 결정이 가능한 센서 네트워크를 이용한 교통 위급상황 전파장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4],<br>  
-이민구, 강정훈, 이명수, 윤명현, 임호정
+8. <b>지능적 도달거리 범위 결정이 가능한 센서 네트워크를 이용한 교통 위급상황 전파장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0895711 (2009.4.23)
-9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)[p4],<br> 
-이민구, 강정훈, 이명수, 윤명현, 임호정
+9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0895710 (2009.4.23)
 10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b> [(pdf][p10]<br> 
 이민구, 강정훈, 유준재, 윤명현, 이정훈,
