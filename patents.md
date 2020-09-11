@@ -37,27 +37,27 @@ permalink: /patents/
 9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)[p4],<br> 
 이민구, 강정훈, 이명수, 윤명현, 임호정
 등록번호 10-0895710 (2009.4.23)
-10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b>, 
-이민구, 강정훈, 유준재, 윤명현, 이정훈
+10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b> [(pdf][p10]<br> 
+이민구, 강정훈, 유준재, 윤명현, 이정훈,
 등록번호 10-0862355 (2008.10.1)
-11. <b>센서 네트워크를 이용한 자동차 소모품 관리 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method of managing accessaries in vehicle using the sensor network and computer-readable medium having thereon program performing function emboding the same)</b>, 
-이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 장동섭
+11. <b>센서 네트워크를 이용한 자동차 소모품 관리 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method of managing accessaries in vehicle using the sensor network and computer-readable medium having thereon program performing function emboding the same)</b> [(pdf][p11]<br> 
+이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 장동섭,
 등록번호 10-0846350 (2008.7.9)
-12. <b>신호등 시스템 및 이를 이용한 신호 점등 상태 통보 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b>, 
-이민구, 강정훈, 윤명현, 유준재, 임호정, 유한종, 장동섭
+12. <b>신호등 시스템 및 이를 이용한 신호 점등 상태 통보 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b> [(pdf][p12]<br> 
+이민구, 강정훈, 윤명현, 유준재, 임호정, 유한종, 장동섭,
 등록번호 10-0838518 (2008.6.10)
-13. <b>패킷 모니터링 기반의 무선 센서 네트워크 제어 장치 및 제어 방법과 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Devive and method of controlling wireless sensor network based on packet monitoring and computer-readable medium having thereon program performing function embodying the same)</b>, 
-박우출, 이명수, 윤명현
+13. <b>패킷 모니터링 기반의 무선 센서 네트워크 제어 장치 및 제어 방법과 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Devive and method of controlling wireless sensor network based on packet monitoring and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf][p13]<br>
+박우출, 이명수, 윤명현,
 등록번호 10-0813886 (2008.3.10)
-14. <b>세탁기 작동 상태 모니터링 및 원격 제어 시스템 및 방법 (System and method for monitoring and controlling operation of washing machine)</b>, 
-이민구, 강정훈, 유준재, 윤명현, 임호정, 이명수, 이정훈
+14. <b>세탁기 작동 상태 모니터링 및 원격 제어 시스템 및 방법 (System and method for monitoring and controlling operation of washing machine)</b> [(pdf][p14]<br>
+이민구, 강정훈, 유준재, 윤명현, 임호정, 이명수, 이정훈,
 등록번호 10-0813882 (2008.3.10)
-15. <b>시각 장애인용 신호등 시스템 및 이를 이용한 신호등 제어 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b>, 
-이민구, 강정훈, 윤명현, 유준재, 이명수, 유한종, 장동섭
+15. <b>시각 장애인용 신호등 시스템 및 이를 이용한 신호등 제어 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b> [(pdf][p15]<br>
+이민구, 강정훈, 윤명현, 유준재, 이명수, 유한종, 장동섭,
 등록번호 10-0813879 (2008.3.10)
-16. <b>센서 네트워크 플랫폼 (Sensor Network Platform)</b>, 
+16. <b>센서 네트워크 플랫폼 (Sensor Network Platform)</b> [(pdf][p16]<br>
 이민구, 강정훈, 윤명현, 유준재, 임호정, 등록번호 10-0787595 (2007.12.13) 
-17. <b>다수의 센서 노드를 구비하는 센서 네트워크에서의 시스템 설정 장치 (Device for system setting in a sensor network having a multiple sensor node)</b>, 
+17. <b>다수의 센서 노드를 구비하는 센서 네트워크에서의 시스템 설정 장치 (Device for system setting in a sensor network having a multiple sensor node)</b> [(pdf)][p17]<br> 
 이민구, 강정훈, 윤명현, 유준재, 임호정, 등록번호 10-0786716 (2007.12.11) 
 18. <b>센서 네트워크를 이용한 위치 추적 시스템 및 이를 이용한 대상물 위치 추적 방법 (Position tracking system using a sensor network and method for tracking object using the same)</b> [(pdf][p18]<br>
 이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 유한종, 등록번호 10-0776977 (2007.11.9)
@@ -105,6 +105,14 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p10]: https://drive.google.com/file/d/19XQ6J8HFDLQPpvRUSX_6Uc8MNP4eN1n7/view?usp=sharing
+[p11]: https://drive.google.com/file/d/1zZ4LcFTqfhE8BXOFOXRIDGXSxWUXWNjL/view?usp=sharing
+[p12]: https://drive.google.com/file/d/1yPdjdg1bjcI5xEVjgqoTSsSynSh4ZQuj/view?usp=sharing
+[p13]: https://drive.google.com/file/d/1BXNdqTowLVJK2ASlsOhFA2VrumRwGPrn/view?usp=sharing
+[p14]: https://drive.google.com/file/d/1b0rx73qpW4DTkLdCBMcLo-nEh8RyLePi/view?usp=sharing
+[p15]: https://drive.google.com/file/d/1E7bknuUdzdyEwmWChArHMsigGuAi6hoe/view?usp=sharing
+[p16]: https://drive.google.com/file/d/1BJV_auV-Sr6R3nzpNnKp-nDinTUqMttY/view?usp=sharing
+[p17]: https://drive.google.com/file/d/1Mev90SGpKKWZMbGTExKnaT_3QaXdjg4i/view?usp=sharing
 [p18]: https://drive.google.com/file/d/1TE_Z0AjsEj-XS7tzhEsZhD6N_zedAh9Y/view?usp=sharing
 [p19]: https://drive.google.com/file/d/16ntZaWHtvMxMc3vKCr5HDfNuVi4Z6qH8/view?usp=sharing
 [p20]: https://drive.google.com/file/d/1BgllJfj3xcnv36qhkBDJlZpnRUmqfXwx/view?usp=sharing
