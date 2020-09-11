@@ -19,10 +19,10 @@ permalink: /patents/
 3. <b>센서 네트워크 및 그의 구성 방법</b><br>
 이민구, 강정훈, 임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-BVG8 (2010.6.2)
-4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b> [(pdf)[p4]<br> 
+4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b> [(pdf)][p4]<br> 
 서해문, 박우출, 이명수, 윤명현, 
 등록번호 10-0960022 (2010.5.19)
-5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b> [(pdf)[p4]<br> 
+5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b> [(pdf)][p5]<br> 
 박우출, 이명수, 윤명현, 서해문, 
 등록번호 10-0916242 (2009.9.1)
 6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
@@ -83,7 +83,7 @@ permalink: /patents/
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0366223 (2002.12.12)
 29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)][p29]<br>
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김동성, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0332693 (2002.4.2) 
-30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)][p30]
+30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)][p30]<br>
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
@@ -104,17 +104,19 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
+[p4]: https://drive.google.com/file/d/1SaJ6TVxQBUEAsZN3J-2blNecQFS96cuc/view?usp=sharing
+[p5]: https://drive.google.com/file/d/1AjFUrqFdqxXNMWjHY5eQ7VeBgZggX15G/view?usp=sharing
 
 [p10]: https://drive.google.com/file/d/19XQ6J8HFDLQPpvRUSX_6Uc8MNP4eN1n7/view?usp=sharing
 [p11]: https://drive.google.com/file/d/1zZ4LcFTqfhE8BXOFOXRIDGXSxWUXWNjL/view?usp=sharing
 [p12]: https://drive.google.com/file/d/1yPdjdg1bjcI5xEVjgqoTSsSynSh4ZQuj/view?usp=sharing
-[p13]: https://drive.google.com/file/d/1BXNdqTowLVJK2ASlsOhFA2VrumRwGPrn/view?usp=sharing
+[p13]: https://drive.google.com/file/d/1E7bknuUdzdyEwmWChArHMsigGuAi6hoe/view?usp=sharing
 [p14]: https://drive.google.com/file/d/1b0rx73qpW4DTkLdCBMcLo-nEh8RyLePi/view?usp=sharing
-[p15]: https://drive.google.com/file/d/1E7bknuUdzdyEwmWChArHMsigGuAi6hoe/view?usp=sharing
+[p15]: https://drive.google.com/file/d/1BXNdqTowLVJK2ASlsOhFA2VrumRwGPrn/view?usp=sharing
 [p16]: https://drive.google.com/file/d/1BJV_auV-Sr6R3nzpNnKp-nDinTUqMttY/view?usp=sharing
 [p17]: https://drive.google.com/file/d/1Mev90SGpKKWZMbGTExKnaT_3QaXdjg4i/view?usp=sharing
-[p18]: https://drive.google.com/file/d/1TE_Z0AjsEj-XS7tzhEsZhD6N_zedAh9Y/view?usp=sharing
-[p19]: https://drive.google.com/file/d/16ntZaWHtvMxMc3vKCr5HDfNuVi4Z6qH8/view?usp=sharing
+[p18]: https://drive.google.com/file/d/16ntZaWHtvMxMc3vKCr5HDfNuVi4Z6qH8/view?usp=sharing
+[p19]: https://drive.google.com/file/d/1TE_Z0AjsEj-XS7tzhEsZhD6N_zedAh9Y/view?usp=sharing
 [p20]: https://drive.google.com/file/d/1BgllJfj3xcnv36qhkBDJlZpnRUmqfXwx/view?usp=sharing
 [p21]: https://drive.google.com/file/d/1lzO5B9dVWF6czOiVu851C2ikd97V3F8B/view?usp=sharing
 [p22]: https://drive.google.com/file/d/1nndkEH2Gnb6tP_JJsoNrfe5l_1M_fA6Z/view?usp=sharing
