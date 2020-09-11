@@ -20,8 +20,9 @@ I received a Ph.D. degree in Electrical Engineering from Iowa State University i
 at the Korea Advanced Institute of Science and Enegineering (KAIST) in 1984.
 
 ## Working Experience
-* 2020.4.~     Research Fellow, KICTech
-* 2017.4.~2020.4. Director of IT Industry Promotion Agency, Gyungnam Technopark
+* 2020.10~        Hanyang University
+* 2020.4.~2020.9. Research Fellow, KICTech
+* 2017.4.~2020.4. Director of IT Industry Promotion Department, Gyungnam Technopark
 * 2013.1.~2017.3. Vice President of Communications & Media R&D Division, KETI
 * 2009.3.~2012.12. Home Network/Information Appliances Program Director(PD), KEIT
 * 2001.3.~2009.2. Director of Research Center, KETI
