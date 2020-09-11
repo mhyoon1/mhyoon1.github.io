@@ -37,31 +37,31 @@ permalink: /patents/
 9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
 이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0895710 (2009.4.23)
-10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b> [(pdf][p10]<br> 
+10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b> [(pdf)][p10]<br> 
 이민구, 강정훈, 유준재, 윤명현, 이정훈,
 등록번호 10-0862355 (2008.10.1)
-11. <b>센서 네트워크를 이용한 자동차 소모품 관리 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method of managing accessaries in vehicle using the sensor network and computer-readable medium having thereon program performing function emboding the same)</b> [(pdf][p11]<br> 
+11. <b>센서 네트워크를 이용한 자동차 소모품 관리 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method of managing accessaries in vehicle using the sensor network and computer-readable medium having thereon program performing function emboding the same)</b> [(pdf)][p11]<br> 
 이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 장동섭,
 등록번호 10-0846350 (2008.7.9)
-12. <b>신호등 시스템 및 이를 이용한 신호 점등 상태 통보 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b> [(pdf][p12]<br> 
+12. <b>신호등 시스템 및 이를 이용한 신호 점등 상태 통보 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b> [(pdf)][p12]<br> 
 이민구, 강정훈, 윤명현, 유준재, 임호정, 유한종, 장동섭,
 등록번호 10-0838518 (2008.6.10)
-13. <b>패킷 모니터링 기반의 무선 센서 네트워크 제어 장치 및 제어 방법과 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Devive and method of controlling wireless sensor network based on packet monitoring and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf][p13]<br>
+13. <b>패킷 모니터링 기반의 무선 센서 네트워크 제어 장치 및 제어 방법과 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Devive and method of controlling wireless sensor network based on packet monitoring and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf)][p13]<br>
 박우출, 이명수, 윤명현,
 등록번호 10-0813886 (2008.3.10)
-14. <b>세탁기 작동 상태 모니터링 및 원격 제어 시스템 및 방법 (System and method for monitoring and controlling operation of washing machine)</b> [(pdf][p14]<br>
+14. <b>세탁기 작동 상태 모니터링 및 원격 제어 시스템 및 방법 (System and method for monitoring and controlling operation of washing machine)</b> [(pdf)][p14]<br>
 이민구, 강정훈, 유준재, 윤명현, 임호정, 이명수, 이정훈,
 등록번호 10-0813882 (2008.3.10)
-15. <b>시각 장애인용 신호등 시스템 및 이를 이용한 신호등 제어 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b> [(pdf][p15]<br>
+15. <b>시각 장애인용 신호등 시스템 및 이를 이용한 신호등 제어 방법 (Pedestrian signal system for the visually impaired and method for controlling signal system using the same)</b> [(pdf)][p15]<br>
 이민구, 강정훈, 윤명현, 유준재, 이명수, 유한종, 장동섭,
 등록번호 10-0813879 (2008.3.10)
-16. <b>센서 네트워크 플랫폼 (Sensor Network Platform)</b> [(pdf][p16]<br>
+16. <b>센서 네트워크 플랫폼 (Sensor Network Platform)</b> [(pdf)][p16]<br>
 이민구, 강정훈, 윤명현, 유준재, 임호정, 등록번호 10-0787595 (2007.12.13) 
 17. <b>다수의 센서 노드를 구비하는 센서 네트워크에서의 시스템 설정 장치 (Device for system setting in a sensor network having a multiple sensor node)</b> [(pdf)][p17]<br> 
 이민구, 강정훈, 윤명현, 유준재, 임호정, 등록번호 10-0786716 (2007.12.11) 
-18. <b>센서 네트워크를 이용한 위치 추적 시스템 및 이를 이용한 대상물 위치 추적 방법 (Position tracking system using a sensor network and method for tracking object using the same)</b> [(pdf][p18]<br>
+18. <b>센서 네트워크를 이용한 위치 추적 시스템 및 이를 이용한 대상물 위치 추적 방법 (Position tracking system using a sensor network and method for tracking object using the same)</b> [(pdf)][p18]<br>
 이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 유한종, 등록번호 10-0776977 (2007.11.9)
-19. <b>절대 위치 인식이 가능한 실내 위치 인식 시스템 및 실내 위치 인식 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Indoor localization system and method of recognizing absolute coordinate system and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf][p18]<br>
+19. <b>절대 위치 인식이 가능한 실내 위치 인식 시스템 및 실내 위치 인식 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Indoor localization system and method of recognizing absolute coordinate system and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf)][p19]<br>
 박우출, 이상학, 윤명현, 강정훈, 등록번호 10-0776979 (2007.11.9.)
 20. <b>무선통신 방식을 사용한 다중 사용자 게임 단말기용 통신방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method for communication between multi-game terminals using wireless communication network and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf)][p20]<br>
 박우출, 이명수, 윤명현, 유준재, 등록번호 10-0731986 (2007.6.19.) 
