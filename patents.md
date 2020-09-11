@@ -25,16 +25,16 @@ permalink: /patents/
 5. <b>무선통신 시스템 및 그의 통신 방법 (Wireless communication system and communicating method thereof)</b> [(pdf)][p5]<br> 
 박우출, 이명수, 윤명현, 서해문, 
 등록번호 10-0916242 (2009.9.1)
-6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+6. <b>무효 위급상황 정보 차단이 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)][p6]<br>
 이민구, 강정훈, 윤명현, 임호정,
 등록번호 10-0911181 (2009.7.31)
-7. <b>위급상황 발생 지점의 예측 거리 표시가 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+7. <b>위급상황 발생 지점의 예측 거리 표시가 가능한 센서 네트워크를 이용한 교통 위급상황 전파 장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)][p7]<br>
 이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0903680 (2009.6.11)
-8. <b>지능적 도달거리 범위 결정이 가능한 센서 네트워크를 이용한 교통 위급상황 전파장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+8. <b>지능적 도달거리 범위 결정이 가능한 센서 네트워크를 이용한 교통 위급상황 전파장치, 시스템 및 방법 (Appratus, system and method for propagating the traffic emergency using sensor network)</b> [(pdf)][p8]<br>
 이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0895711 (2009.4.23)
-9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)[p4]<br>
+9. <b>센서 네트워크를 이용한 교통 위급상황 국지 표시장치, 시스템 및 방법 (Apparatus, system and method for showing the traffic emergency using sensor network)</b> [(pdf)][p9]<br>
 이민구, 강정훈, 이명수, 윤명현, 임호정,
 등록번호 10-0895710 (2009.4.23)
 10. <b>센서 네트워크를 이용한 교통사고 표시 방법 및 시스템 (Method and System for Showing the Forward Traffic Accident Using Sensor Network)</b> [(pdf)][p10]<br> 
@@ -106,6 +106,7 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 [p4]: https://drive.google.com/file/d/1SaJ6TVxQBUEAsZN3J-2blNecQFS96cuc/view?usp=sharing
 [p5]: https://drive.google.com/file/d/1AjFUrqFdqxXNMWjHY5eQ7VeBgZggX15G/view?usp=sharing
+[p6]: https://drive.google.com/file/d/1seoCSnSYE7bP8mhSAa_cRFlXGItOcHu0/view?usp=sharing
 
 [p10]: https://drive.google.com/file/d/19XQ6J8HFDLQPpvRUSX_6Uc8MNP4eN1n7/view?usp=sharing
 [p11]: https://drive.google.com/file/d/1zZ4LcFTqfhE8BXOFOXRIDGXSxWUXWNjL/view?usp=sharing
