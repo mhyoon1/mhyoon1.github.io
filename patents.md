@@ -63,41 +63,42 @@ permalink: /patents/
 이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 유한종, 등록번호 10-0776977 (2007.11.9)
 19. <b>절대 위치 인식이 가능한 실내 위치 인식 시스템 및 실내 위치 인식 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Indoor localization system and method of recognizing absolute coordinate system and computer-readable medium having thereon program performing function embodying the same)</b>, 
 박우출, 이상학, 윤명현, 강정훈, 등록번호 10-0776979 (2007.11.9.)
-20. <b>무선통신 방식을 사용한 다중 사용자 게임 단말기용 통신방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method for communication between multi-game terminals using wireless communication network and computer-readable medium having thereon program performing function embodying the same)</b>,
+20. <b>무선통신 방식을 사용한 다중 사용자 게임 단말기용 통신방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method for communication between multi-game terminals using wireless communication network and computer-readable medium having thereon program performing function embodying the same)</b><br>
 박우출, 이명수, 윤명현, 유준재, 등록번호 10-0731986 (2007.6.19.) 
-21. <b>주파수 체배를 위한 커패시터 공통단자를 이용한 발진기 코어 (Oscillator Core with Capacitive Common Node for Frequency Multiplication)</b> [(pdf)][p21],<br>
+21. <b>주파수 체배를 위한 커패시터 공통단자를 이용한 발진기 코어 (Oscillator Core with Capacitive Common Node for Frequency Multiplication)</b> [(pdf)][p21]<br>
 원광호, 서해문, 박용국, 문연국, 윤명현, 신현철, 김용식, 등록번호 10-0731975 (2007.6.19.)
-22. <b>전류 혼합 방식을 이용한 I/Q 변조기 및 이를 이용한 직접 변환방식 송신기 (I/Q Modulator Using Current-Mixing and Direct Conversion Wireless Communication Transmitter Using the Same)</b> [(pdf)][p22],<br>
+22. <b>전류 혼합 방식을 이용한 I/Q 변조기 및 이를 이용한 직접 변환방식 송신기 (I/Q Modulator Using Current-Mixing and Direct Conversion Wireless Communication Transmitter Using the Same)</b> [(pdf)][p22]<br>
 서해문, 문연국, 박용국, 원광호, 윤명현, 김성동, 등록번호 10-0717964 (2007.5.8)
-23. <b>센서 네트워크를 이용한 사용상황 표시 시스템 (System of Displaying In-use Status Using Sensor Network)</b> [(pdf)][p23],<br>
+23. <b>센서 네트워크를 이용한 사용상황 표시 시스템 (System of Displaying In-use Status Using Sensor Network)</b> [(pdf)][p23]<br>
 이민구, 강정훈, 윤명현, 유준재, 구관모, 등록번호 10-0644280 (2006.11.2)
-24. <b>IEEE 802.15.4 무선통신을 지원하는 다중대역 지그비 송수신기 (Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication)</b> [(pdf)][p24],<br> 
+24. <b>IEEE 802.15.4 무선통신을 지원하는 다중대역 지그비 송수신기 (Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication)</b> [(pdf)][p24]<br> 
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0635535 (2006.10.11)
-25. <b>높은 반송파 억압비를 가지는 2의 Ｎ제곱차 저조파 주파수변조기 및 이를 이용한 직접 변환 송신기 (An N-th Power of 2 Sub-harmonic Frequency Modulator Having a High Carrier Suppression Ratio and a Direct-conversion Transmitter Using Thereof)</b> [(pdf)][p25],<br> 
+25. <b>높은 반송파 억압비를 가지는 2의 Ｎ제곱차 저조파 주파수변조기 및 이를 이용한 직접 변환 송신기 (An N-th Power of 2 Sub-harmonic Frequency Modulator Having a High Carrier Suppression Ratio and a Direct-conversion Transmitter Using Thereof)</b> [(pdf)][p25]<br> 
 서해문, 원광호, 박용국, 윤명현, 유준재, 등록번호 10-0570712 (2006.4.6)
-26. <b>홈 네트웍 내의 적응형 우선순위 제어를 통한 트래픽 제어기법 (A traffic control technology in home network through adaptive priority control)</b> [(pdf)][p26],<br> 
+26. <b>홈 네트웍 내의 적응형 우선순위 제어를 통한 트래픽 제어기법 (A traffic control technology in home network through adaptive priority control)</b> [(pdf)][p26]<br> 
 임승옥, 정광모, 윤명현, 등록번호 10-0446794 (2004.8.24)
-27. <b>타이머 제어형 토큰버스 프로토콜을 사용하는 분산제어 시스템의 제어 통신망에 있어서 실시간 주기 및 비주기 데이터의 전송방법 (Transfer Method of Real-time Periodic and Aperiodic Data in Control Network of Distributed Control Systems Using Timer-Controlled Token Bus Protocol)</b> [(pdf)][p27],<br> 
+27. <b>타이머 제어형 토큰버스 프로토콜을 사용하는 분산제어 시스템의 제어 통신망에 있어서 실시간 주기 및 비주기 데이터의 전송방법 (Transfer Method of Real-time Periodic and Aperiodic Data in Control Network of Distributed Control Systems Using Timer-Controlled Token Bus Protocol)</b> [(pdf)][p27]<br> 
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이병윤, 이성우, 신창훈, 윤명현, 등록번호 10-0366224 (2002.12.12) 
-28. <b>IEEE 802.4 표준의 매체 접근 제어 방식과 IEEE 802.3 표준의 물리계층 규격을 결합해 주는 물리 계층 변환기 (Device for Physical Layer Transistion between IEEE802.3 MAC Sublayer and IEEE802.4 Physical Layer)</b> [(pdf)][p28], <br> 
+28. <b>IEEE 802.4 표준의 매체 접근 제어 방식과 IEEE 802.3 표준의 물리계층 규격을 결합해 주는 물리 계층 변환기 (Device for Physical Layer Transistion between IEEE802.3 MAC Sublayer and IEEE802.4 Physical Layer)</b> [(pdf)][p28]<br> 
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0366223 (2002.12.12)
-29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)][p29],<br>
+29. <b>IEEE 802.4 규약에서의 매체 이중화 관리시스템 및 그 관리방법 (Management System and Method for Medium Redundancy in the IEEE 802.4 Protocol)</b> [(pdf)][p29]<br>
 권욱현, 문홍주, 문상용, 김영신, 이재영, 김동성, 김형석, 이재민, 김광현, 박제형, 전태수, 이성우, 신창훈, 윤명현, 등록번호 10-0332693 (2002.4.2) 
-30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)][p30],<br>  
+30. <b>원자로 제어봉구동장치내의 전자기권선을 이용한 제어봉낙하시간 측정방법 (Measurement method for rod drop time test using electromagnetic coils inside control rod drive device)</b> [(pdf)][p30]<br>  
 김기훈, 윤명현, 등록번호10-0273170 (2000.9.1)
 
 ## 국외특허
-1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b> [(pdf)][fp1],<br> 
-Hae Moon Seo, Kwang Ho Won, Young kuk Park, Myung Hyun Yoon, Jun Jae Yoo, Application No. 10/981,789 (2004.11.5.), Publication No. US 2006/0019700 A1 (2006.1.26.), 미국
-2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b> [(pdf)][fp2],<br> 
-Hae-Moon Seo, Kwang-Ho Won, Yong Kuk Park, Myung-Hyun Yoon, June-Jae Yoo
+1. <b>Multi-band ZigBee Transceiver Supporting IEEE 802.15.4 Wireless Communication</b> [(pdf)][fp1]<br> 
+Hae Moon Seo, Kwang Ho Won, Young kuk Park, Myung Hyun Yoon, Jun Jae Yoo, 
+Application No. 10/981,789 (2004.11.5.), Publication No. US 2006/0019700 A1 (2006.1.26.), 미국
+2. <b>2n-order Sub-harmonic Frequency Modulator Having High Carrier Suppression Ratio and Direct Conversion Transmitter Using the Same</b> [(pdf)][fp2]<br> 
+Hae-Moon Seo, Kwang-Ho Won, Yong Kuk Park, Myung-Hyun Yoon, June-Jae Yoo,
 Application No. 10/899,148 (2004.7.27), Publication No. US 2005/0255806 A1 (2005.11.17.), 미국
-3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b>,<br> 
+3. <b>Measurement Method for Rod Drop Time Test Using Electromagnetic Coils Inside Control Rod Drive Device</b><br> 
 Kihoon Kim, Myung-Hyun Yoon, USPTO No. , 2000.4. 미국
-4. <b>Nuclear Reactor Rod Drop Time Measuring Procedure</b> [(pdf)][fp4],<br> 
+4. <b>Nuclear Reactor Rod Drop Time Measuring Procedure</b> [(pdf)][fp4]<br> 
 Keehoon Kim, MyungHyun Yoon, 
 Application No. FR19980013240 (1998.10.22.), Publication No. 02770329 FR (1999.4.30.), 프랑스
-5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b> [(pdf)][fp5],<br> 
+5. <b>原子爐 制御驅動裝置內の 電磁氣捲線を 用いる 制御棒落下時間 測定方法 (Method for Measuring Control Rod Fall Time Using Electromagnetic Coil Winding in Reactor Control Rod Drive Device)</b> [(pdf)][fp5]<br> 
 Keehoon Kim. Myung-Hyun Yoon, 
 Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.), 日本
 
