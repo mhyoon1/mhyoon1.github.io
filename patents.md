@@ -59,11 +59,11 @@ permalink: /patents/
 이민구, 강정훈, 윤명현, 유준재, 임호정, 등록번호 10-0787595 (2007.12.13) 
 17. <b>다수의 센서 노드를 구비하는 센서 네트워크에서의 시스템 설정 장치 (Device for system setting in a sensor network having a multiple sensor node)</b>, 
 이민구, 강정훈, 윤명현, 유준재, 임호정, 등록번호 10-0786716 (2007.12.11) 
-18. <b>센서 네트워크를 이용한 위치 추적 시스템 및 이를 이용한 대상물 위치 추적 방법 (Position tracking system using a sensor network and method for tracking object using the same)</b>,
+18. <b>센서 네트워크를 이용한 위치 추적 시스템 및 이를 이용한 대상물 위치 추적 방법 (Position tracking system using a sensor network and method for tracking object using the same)</b> [(pdf][p18]<br>
 이민구, 강정훈, 윤명현, 유준재, 임호정, 이명수, 유한종, 등록번호 10-0776977 (2007.11.9)
-19. <b>절대 위치 인식이 가능한 실내 위치 인식 시스템 및 실내 위치 인식 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Indoor localization system and method of recognizing absolute coordinate system and computer-readable medium having thereon program performing function embodying the same)</b>, 
+19. <b>절대 위치 인식이 가능한 실내 위치 인식 시스템 및 실내 위치 인식 방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Indoor localization system and method of recognizing absolute coordinate system and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf][p18]<br>
 박우출, 이상학, 윤명현, 강정훈, 등록번호 10-0776979 (2007.11.9.)
-20. <b>무선통신 방식을 사용한 다중 사용자 게임 단말기용 통신방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method for communication between multi-game terminals using wireless communication network and computer-readable medium having thereon program performing function embodying the same)</b><br>
+20. <b>무선통신 방식을 사용한 다중 사용자 게임 단말기용 통신방법 및 이를 실현시키기 위한 프로그램을 기록한 컴퓨터로 판독 가능한 기록 매체 (Method for communication between multi-game terminals using wireless communication network and computer-readable medium having thereon program performing function embodying the same)</b> [(pdf)][p20]<br>
 박우출, 이명수, 윤명현, 유준재, 등록번호 10-0731986 (2007.6.19.) 
 21. <b>주파수 체배를 위한 커패시터 공통단자를 이용한 발진기 코어 (Oscillator Core with Capacitive Common Node for Frequency Multiplication)</b> [(pdf)][p21]<br>
 원광호, 서해문, 박용국, 문연국, 윤명현, 신현철, 김용식, 등록번호 10-0731975 (2007.6.19.)
@@ -105,6 +105,9 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p1]: https://drive.google.com/file/d/1lmd3T-HqMfaVxew6RLNjRe6Iti-fV_uM/view?usp=sharing
 [p2]: https://drive.google.com/file/d/1utpQmoS7fVApzmk6Ik0sHMX-imIxj_7q/view?usp=sharing
 
+[p18]: https://drive.google.com/file/d/1TE_Z0AjsEj-XS7tzhEsZhD6N_zedAh9Y/view?usp=sharing
+[p19]: https://drive.google.com/file/d/16ntZaWHtvMxMc3vKCr5HDfNuVi4Z6qH8/view?usp=sharing
+[p20]: https://drive.google.com/file/d/1BgllJfj3xcnv36qhkBDJlZpnRUmqfXwx/view?usp=sharing
 [p21]: https://drive.google.com/file/d/1lzO5B9dVWF6czOiVu851C2ikd97V3F8B/view?usp=sharing
 [p22]: https://drive.google.com/file/d/1nndkEH2Gnb6tP_JJsoNrfe5l_1M_fA6Z/view?usp=sharing
 [p23]: https://drive.google.com/file/d/1BOlzlakKRnwT3uNRi-8yZ7r4_6-SPECS/view?usp=sharing
