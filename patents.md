@@ -107,7 +107,9 @@ Application No. 10-291153 (1998.10.13.), Publication No. 11-194196 (1999.7.21.),
 [p4]: https://drive.google.com/file/d/1SaJ6TVxQBUEAsZN3J-2blNecQFS96cuc/view?usp=sharing
 [p5]: https://drive.google.com/file/d/1AjFUrqFdqxXNMWjHY5eQ7VeBgZggX15G/view?usp=sharing
 [p6]: https://drive.google.com/file/d/1seoCSnSYE7bP8mhSAa_cRFlXGItOcHu0/view?usp=sharing
-
+[p7]: https://drive.google.com/file/d/11aZogd-9YvsnMgntUHenoyIQ4fsT_ROm/view?usp=sharing
+[p8]: https://drive.google.com/file/d/1fAzmAtFajC41UrWtnGaR5uDyATON1nlR/view?usp=sharing
+[p9]: https://drive.google.com/file/d/1CjxPaY_2B2BkZl3uJ985tBqZTNcFJZ17/view?usp=sharing
 [p10]: https://drive.google.com/file/d/19XQ6J8HFDLQPpvRUSX_6Uc8MNP4eN1n7/view?usp=sharing
 [p11]: https://drive.google.com/file/d/1zZ4LcFTqfhE8BXOFOXRIDGXSxWUXWNjL/view?usp=sharing
 [p12]: https://drive.google.com/file/d/1yPdjdg1bjcI5xEVjgqoTSsSynSh4ZQuj/view?usp=sharing
