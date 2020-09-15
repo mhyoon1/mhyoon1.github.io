@@ -16,9 +16,6 @@ permalink: /patents/
 2. <b>센서 네트워크 및 그의 구성 방법 (SEnsor Network System and Method for Composition Thereof)</b> [(pdf)][p2],<br> 
 이민구, 강정훈,임호정, 박용국, 유준재, 윤명현, 
 등록번호 10-0962412 (2010.6.2)
-3. <b>센서 네트워크 및 그의 구성 방법</b><br>
-이민구, 강정훈, 임호정, 박용국, 유준재, 윤명현, 
-등록번호 10-BVG8 (2010.6.2)
 4. <b>디지털 중간 주파수 무선송신기, 고주파 변조 장치 및 방법 (Digital IF Wireless Transmitter, RF Modulator and modulating Method)</b> [(pdf)][p4]<br> 
 서해문, 박우출, 이명수, 윤명현, 
 등록번호 10-0960022 (2010.5.19)
