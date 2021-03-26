@@ -3,13 +3,6 @@ layout: default
 ---
 
 <div>
-  {% for about.md %}
-    <article class="post">
-
-      <div class="entry">
-        {{ post.content | split:"<!--more-->" | first }}
-      </div>
-
-    </article>
-  {% endfor %}
+  {% include "about.md" %}
+   
 </div>
